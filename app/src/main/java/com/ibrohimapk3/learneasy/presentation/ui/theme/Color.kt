@@ -1,4 +1,4 @@
-package com.ibrohimapk3.learneasy.ui.theme
+package com.ibrohimapk3.learneasy.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
