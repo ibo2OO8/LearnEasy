@@ -31,7 +31,8 @@ fun AlphabetScreen(modifier: Modifier = Modifier, onBack: () -> Unit) {
         TopBar(onClick = { onBack() }, text = "Алфавит")
 
         Text(
-            text = "Давайте выучим английский алфавит!",
+            text =
+                "Давайте выучим английский алфавит!",
             style = MaterialTheme.typography.bodyMedium,
             modifier = Modifier
                 .padding(start = 15.dp)
