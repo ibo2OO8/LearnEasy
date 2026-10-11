@@ -1,0 +1,4002 @@
+[
+  {
+    "id": 1,
+    "english": "achieve",
+    "russian": "достигать",
+    "level": "B1",
+    "category": "verbs",
+    "example": "She works hard to achieve her goals."
+  },
+  {
+    "id": 2,
+    "english": "admit",
+    "russian": "признавать",
+    "level": "B1",
+    "category": "verbs",
+    "example": "He admits his mistake."
+  },
+  {
+    "id": 3,
+    "english": "advise",
+    "russian": "советовать",
+    "level": "B1",
+    "category": "verbs",
+    "example": "The doctor advises me to rest."
+  },
+  {
+    "id": 4,
+    "english": "afford",
+    "russian": "позволить себе",
+    "level": "B1",
+    "category": "verbs",
+    "example": "I can't afford a new car."
+  },
+  {
+    "id": 5,
+    "english": "apologize",
+    "russian": "извиняться",
+    "level": "B1",
+    "category": "verbs",
+    "example": "I apologize for being late."
+  },
+  {
+    "id": 6,
+    "english": "appear",
+    "russian": "появляться, казаться",
+    "level": "B1",
+    "category": "verbs",
+    "example": "A man appears at the door."
+  },
+  {
+    "id": 7,
+    "english": "apply",
+    "russian": "подавать заявление, применять",
+    "level": "B1",
+    "category": "verbs",
+    "example": "I apply for a new job."
+  },
+  {
+    "id": 8,
+    "english": "arrange",
+    "russian": "организовывать, договариваться",
+    "level": "B1",
+    "category": "verbs",
+    "example": "Let's arrange a meeting."
+  },
+  {
+    "id": 9,
+    "english": "attach",
+    "russian": "прикреплять",
+    "level": "B1",
+    "category": "verbs",
+    "example": "Please attach the file to your email."
+  },
+  {
+    "id": 10,
+    "english": "attend",
+    "russian": "посещать",
+    "level": "B1",
+    "category": "verbs",
+    "example": "I attend English classes twice a week."
+  },
+  {
+    "id": 11,
+    "english": "avoid",
+    "russian": "избегать",
+    "level": "B1",
+    "category": "verbs",
+    "example": "Try to avoid fast food."
+  },
+  {
+    "id": 12,
+    "english": "behave",
+    "russian": "вести себя",
+    "level": "B1",
+    "category": "verbs",
+    "example": "The children behave well."
+  },
+  {
+    "id": 13,
+    "english": "bother",
+    "russian": "беспокоить",
+    "level": "B1",
+    "category": "verbs",
+    "example": "Sorry to bother you."
+  },
+  {
+    "id": 14,
+    "english": "calculate",
+    "russian": "вычислять",
+    "level": "B1",
+    "category": "verbs",
+    "example": "Calculate the total cost."
+  },
+  {
+    "id": 15,
+    "english": "cancel",
+    "russian": "отменять",
+    "level": "B1",
+    "category": "verbs",
+    "example": "They cancel the flight."
+  },
+  {
+    "id": 16,
+    "english": "challenge",
+    "russian": "бросать вызов",
+    "level": "B1",
+    "category": "verbs",
+    "example": "The test challenges my knowledge."
+  },
+  {
+    "id": 17,
+    "english": "charge",
+    "russian": "взимать плату, заряжать",
+    "level": "B1",
+    "category": "verbs",
+    "example": "They charge ten dollars for entry."
+  },
+  {
+    "id": 18,
+    "english": "chat",
+    "russian": "болтать",
+    "level": "B1",
+    "category": "verbs",
+    "example": "We chat online every evening."
+  },
+  {
+    "id": 19,
+    "english": "communicate",
+    "russian": "общаться",
+    "level": "B1",
+    "category": "verbs",
+    "example": "We communicate by email."
+  },
+  {
+    "id": 20,
+    "english": "compare",
+    "russian": "сравнивать",
+    "level": "B1",
+    "category": "verbs",
+    "example": "Compare the two prices."
+  },
+  {
+    "id": 21,
+    "english": "complain",
+    "russian": "жаловаться",
+    "level": "B1",
+    "category": "verbs",
+    "example": "He complains about the noise."
+  },
+  {
+    "id": 22,
+    "english": "complete",
+    "russian": "завершать",
+    "level": "B1",
+    "category": "verbs",
+    "example": "I complete the form."
+  },
+  {
+    "id": 23,
+    "english": "concentrate",
+    "russian": "сосредоточиваться",
+    "level": "B1",
+    "category": "verbs",
+    "example": "I can't concentrate with this noise."
+  },
+  {
+    "id": 24,
+    "english": "connect",
+    "russian": "соединять",
+    "level": "B1",
+    "category": "verbs",
+    "example": "Connect the cable to the computer."
+  },
+  {
+    "id": 25,
+    "english": "consider",
+    "russian": "обдумывать, считать",
+    "level": "B1",
+    "category": "verbs",
+    "example": "I consider moving to another city."
+  },
+  {
+    "id": 26,
+    "english": "contain",
+    "russian": "содержать",
+    "level": "B1",
+    "category": "verbs",
+    "example": "This box contains old photos."
+  },
+  {
+    "id": 27,
+    "english": "convince",
+    "russian": "убеждать",
+    "level": "B1",
+    "category": "verbs",
+    "example": "She convinces me to join the team."
+  },
+  {
+    "id": 28,
+    "english": "cooperate",
+    "russian": "сотрудничать",
+    "level": "B1",
+    "category": "verbs",
+    "example": "We cooperate with other companies."
+  },
+  {
+    "id": 29,
+    "english": "deliver",
+    "russian": "доставлять",
+    "level": "B1",
+    "category": "verbs",
+    "example": "They deliver food to your home."
+  },
+  {
+    "id": 30,
+    "english": "depend",
+    "russian": "зависеть",
+    "level": "B1",
+    "category": "verbs",
+    "example": "It depends on the weather."
+  },
+  {
+    "id": 31,
+    "english": "deserve",
+    "russian": "заслуживать",
+    "level": "B1",
+    "category": "verbs",
+    "example": "You deserve a holiday."
+  },
+  {
+    "id": 32,
+    "english": "destroy",
+    "russian": "разрушать",
+    "level": "B1",
+    "category": "verbs",
+    "example": "The storm destroys many houses."
+  },
+  {
+    "id": 33,
+    "english": "develop",
+    "russian": "развивать",
+    "level": "B1",
+    "category": "verbs",
+    "example": "The company develops new software."
+  },
+  {
+    "id": 34,
+    "english": "disappear",
+    "russian": "исчезать",
+    "level": "B1",
+    "category": "verbs",
+    "example": "The sun disappears behind the clouds."
+  },
+  {
+    "id": 35,
+    "english": "discover",
+    "russian": "открывать, обнаруживать",
+    "level": "B1",
+    "category": "verbs",
+    "example": "Scientists discover a new planet."
+  },
+  {
+    "id": 36,
+    "english": "divide",
+    "russian": "делить",
+    "level": "B1",
+    "category": "verbs",
+    "example": "Divide the cake into six parts."
+  },
+  {
+    "id": 37,
+    "english": "doubt",
+    "russian": "сомневаться",
+    "level": "B1",
+    "category": "verbs",
+    "example": "I doubt that he is right."
+  },
+  {
+    "id": 38,
+    "english": "earn",
+    "russian": "зарабатывать",
+    "level": "B1",
+    "category": "verbs",
+    "example": "She earns a good salary."
+  },
+  {
+    "id": 39,
+    "english": "encourage",
+    "russian": "поощрять",
+    "level": "B1",
+    "category": "verbs",
+    "example": "Teachers encourage students to read."
+  },
+  {
+    "id": 40,
+    "english": "escape",
+    "russian": "убегать",
+    "level": "B1",
+    "category": "verbs",
+    "example": "The prisoner escapes from the jail."
+  },
+  {
+    "id": 41,
+    "english": "examine",
+    "russian": "осматривать, изучать",
+    "level": "B1",
+    "category": "verbs",
+    "example": "The doctor examines the patient."
+  },
+  {
+    "id": 42,
+    "english": "expect",
+    "russian": "ожидать",
+    "level": "B1",
+    "category": "verbs",
+    "example": "I expect a call from him."
+  },
+  {
+    "id": 43,
+    "english": "experience",
+    "russian": "испытывать, опыт",
+    "level": "B1",
+    "category": "verbs",
+    "example": "I experience a lot of stress at work."
+  },
+  {
+    "id": 44,
+    "english": "fail",
+    "russian": "терпеть неудачу, не сдать",
+    "level": "B1",
+    "category": "verbs",
+    "example": "He fails the driving test."
+  },
+  {
+    "id": 45,
+    "english": "fit",
+    "russian": "подходить по размеру",
+    "level": "B1",
+    "category": "verbs",
+    "example": "These shoes don't fit me."
+  },
+  {
+    "id": 46,
+    "english": "gain",
+    "russian": "получать, набирать",
+    "level": "B1",
+    "category": "verbs",
+    "example": "I gain weight in winter."
+  },
+  {
+    "id": 47,
+    "english": "handle",
+    "russian": "справляться, управлять",
+    "level": "B1",
+    "category": "verbs",
+    "example": "She handles difficult customers well."
+  },
+  {
+    "id": 48,
+    "english": "hesitate",
+    "russian": "колебаться",
+    "level": "B1",
+    "category": "verbs",
+    "example": "Don't hesitate to ask questions."
+  },
+  {
+    "id": 49,
+    "english": "ignore",
+    "russian": "игнорировать",
+    "level": "B1",
+    "category": "verbs",
+    "example": "He ignores my messages."
+  },
+  {
+    "id": 50,
+    "english": "imagine",
+    "russian": "воображать",
+    "level": "B1",
+    "category": "verbs",
+    "example": "Imagine you are on a beach."
+  },
+  {
+    "id": 51,
+    "english": "impress",
+    "russian": "производить впечатление",
+    "level": "B1",
+    "category": "verbs",
+    "example": "Her speech impresses everyone."
+  },
+  {
+    "id": 52,
+    "english": "include",
+    "russian": "включать",
+    "level": "B1",
+    "category": "verbs",
+    "example": "The price includes breakfast."
+  },
+  {
+    "id": 53,
+    "english": "increase",
+    "russian": "увеличивать",
+    "level": "B1",
+    "category": "verbs",
+    "example": "Prices increase every year."
+  },
+  {
+    "id": 54,
+    "english": "influence",
+    "russian": "влиять",
+    "level": "B1",
+    "category": "verbs",
+    "example": "Friends influence our choices."
+  },
+  {
+    "id": 55,
+    "english": "inform",
+    "russian": "информировать",
+    "level": "B1",
+    "category": "verbs",
+    "example": "Please inform me about any changes."
+  },
+  {
+    "id": 56,
+    "english": "insist",
+    "russian": "настаивать",
+    "level": "B1",
+    "category": "verbs",
+    "example": "I insist on paying for dinner."
+  },
+  {
+    "id": 57,
+    "english": "introduce",
+    "russian": "представлять, вводить",
+    "level": "B1",
+    "category": "verbs",
+    "example": "Let me introduce my friend."
+  },
+  {
+    "id": 58,
+    "english": "invent",
+    "russian": "изобретать",
+    "level": "B1",
+    "category": "verbs",
+    "example": "Who invented the telephone?"
+  },
+  {
+    "id": 59,
+    "english": "involve",
+    "russian": "вовлекать",
+    "level": "B1",
+    "category": "verbs",
+    "example": "The job involves a lot of travel."
+  },
+  {
+    "id": 60,
+    "english": "judge",
+    "russian": "судить",
+    "level": "B1",
+    "category": "verbs",
+    "example": "Don't judge people by their clothes."
+  },
+  {
+    "id": 61,
+    "english": "lack",
+    "russian": "не хватать",
+    "level": "B1",
+    "category": "verbs",
+    "example": "We lack time and money."
+  },
+  {
+    "id": 62,
+    "english": "manage",
+    "russian": "управлять, справляться",
+    "level": "B1",
+    "category": "verbs",
+    "example": "She manages a small shop."
+  },
+  {
+    "id": 63,
+    "english": "mention",
+    "russian": "упоминать",
+    "level": "B1",
+    "category": "verbs",
+    "example": "He mentions your name."
+  },
+  {
+    "id": 64,
+    "english": "notice",
+    "russian": "замечать",
+    "level": "B1",
+    "category": "verbs",
+    "example": "I notice a strange smell."
+  },
+  {
+    "id": 65,
+    "english": "obey",
+    "russian": "подчиняться",
+    "level": "B1",
+    "category": "verbs",
+    "example": "Children must obey their parents."
+  },
+  {
+    "id": 66,
+    "english": "observe",
+    "russian": "наблюдать",
+    "level": "B1",
+    "category": "verbs",
+    "example": "We observe the stars at night."
+  },
+  {
+    "id": 67,
+    "english": "occur",
+    "russian": "происходить",
+    "level": "B1",
+    "category": "verbs",
+    "example": "Accidents occur on this road."
+  },
+  {
+    "id": 68,
+    "english": "operate",
+    "russian": "управлять, оперировать",
+    "level": "B1",
+    "category": "verbs",
+    "example": "He operates the machine."
+  },
+  {
+    "id": 69,
+    "english": "order",
+    "russian": "заказывать",
+    "level": "B1",
+    "category": "verbs",
+    "example": "I order a pizza."
+  },
+  {
+    "id": 70,
+    "english": "own",
+    "russian": "владеть",
+    "level": "B1",
+    "category": "verbs",
+    "example": "They own a big house."
+  },
+  {
+    "id": 71,
+    "english": "participate",
+    "russian": "участвовать",
+    "level": "B1",
+    "category": "verbs",
+    "example": "Everyone participates in the game."
+  },
+  {
+    "id": 72,
+    "english": "perform",
+    "russian": "выступать, выполнять",
+    "level": "B1",
+    "category": "verbs",
+    "example": "The band performs tonight."
+  },
+  {
+    "id": 73,
+    "english": "persuade",
+    "russian": "убеждать",
+    "level": "B1",
+    "category": "verbs",
+    "example": "I persuade him to come with us."
+  },
+  {
+    "id": 74,
+    "english": "predict",
+    "russian": "предсказывать",
+    "level": "B1",
+    "category": "verbs",
+    "example": "Nobody can predict the future."
+  },
+  {
+    "id": 75,
+    "english": "prevent",
+    "russian": "предотвращать",
+    "level": "B1",
+    "category": "verbs",
+    "example": "Vaccines prevent illness."
+  },
+  {
+    "id": 76,
+    "english": "progress",
+    "russian": "прогрессировать",
+    "level": "B1",
+    "category": "verbs",
+    "example": "My English progresses slowly."
+  },
+  {
+    "id": 77,
+    "english": "provide",
+    "russian": "предоставлять",
+    "level": "B1",
+    "category": "verbs",
+    "example": "The hotel provides free breakfast."
+  },
+  {
+    "id": 78,
+    "english": "publish",
+    "russian": "публиковать",
+    "level": "B1",
+    "category": "verbs",
+    "example": "They publish a new book every year."
+  },
+  {
+    "id": 79,
+    "english": "punish",
+    "russian": "наказывать",
+    "level": "B1",
+    "category": "verbs",
+    "example": "Parents punish bad behavior."
+  },
+  {
+    "id": 80,
+    "english": "realize",
+    "russian": "осознавать",
+    "level": "B1",
+    "category": "verbs",
+    "example": "I realize that I am wrong."
+  },
+  {
+    "id": 81,
+    "english": "recognize",
+    "russian": "узнавать",
+    "level": "B1",
+    "category": "verbs",
+    "example": "I recognize his voice."
+  },
+  {
+    "id": 82,
+    "english": "recommend",
+    "russian": "рекомендовать",
+    "level": "B1",
+    "category": "verbs",
+    "example": "Can you recommend a good restaurant?"
+  },
+  {
+    "id": 83,
+    "english": "record",
+    "russian": "записывать",
+    "level": "B1",
+    "category": "verbs",
+    "example": "She records a new song."
+  },
+  {
+    "id": 84,
+    "english": "reduce",
+    "russian": "сокращать",
+    "level": "B1",
+    "category": "verbs",
+    "example": "We reduce the cost."
+  },
+  {
+    "id": 85,
+    "english": "refer",
+    "russian": "ссылаться",
+    "level": "B1",
+    "category": "verbs",
+    "example": "He refers to the last meeting."
+  },
+  {
+    "id": 86,
+    "english": "regret",
+    "russian": "сожалеть",
+    "level": "B1",
+    "category": "verbs",
+    "example": "I regret my words."
+  },
+  {
+    "id": 87,
+    "english": "rely",
+    "russian": "полагаться",
+    "level": "B1",
+    "category": "verbs",
+    "example": "You can rely on me."
+  },
+  {
+    "id": 88,
+    "english": "remind",
+    "russian": "напоминать",
+    "level": "B1",
+    "category": "verbs",
+    "example": "Remind me to call her."
+  },
+  {
+    "id": 89,
+    "english": "remove",
+    "russian": "убирать",
+    "level": "B1",
+    "category": "verbs",
+    "example": "Remove your shoes, please."
+  },
+  {
+    "id": 90,
+    "english": "replace",
+    "russian": "заменять",
+    "level": "B1",
+    "category": "verbs",
+    "example": "Replace the old battery."
+  },
+  {
+    "id": 91,
+    "english": "report",
+    "russian": "докладывать",
+    "level": "B1",
+    "category": "verbs",
+    "example": "He reports a problem."
+  },
+  {
+    "id": 92,
+    "english": "represent",
+    "russian": "представлять",
+    "level": "B1",
+    "category": "verbs",
+    "example": "She represents our company."
+  },
+  {
+    "id": 93,
+    "english": "require",
+    "russian": "требовать",
+    "level": "B1",
+    "category": "verbs",
+    "example": "The job requires experience."
+  },
+  {
+    "id": 94,
+    "english": "respond",
+    "russian": "отвечать, реагировать",
+    "level": "B1",
+    "category": "verbs",
+    "example": "He doesn't respond to emails."
+  },
+  {
+    "id": 95,
+    "english": "retire",
+    "russian": "уходить на пенсию",
+    "level": "B1",
+    "category": "verbs",
+    "example": "My father retires next year."
+  },
+  {
+    "id": 96,
+    "english": "reveal",
+    "russian": "раскрывать",
+    "level": "B1",
+    "category": "verbs",
+    "example": "The test reveals the truth."
+  },
+  {
+    "id": 97,
+    "english": "review",
+    "russian": "пересматривать, рецензировать",
+    "level": "B1",
+    "category": "verbs",
+    "example": "Review your notes before the exam."
+  },
+  {
+    "id": 98,
+    "english": "satisfy",
+    "russian": "удовлетворять",
+    "level": "B1",
+    "category": "verbs",
+    "example": "The result satisfies me."
+  },
+  {
+    "id": 99,
+    "english": "separate",
+    "russian": "разделять",
+    "level": "B1",
+    "category": "verbs",
+    "example": "Separate the white clothes from the dark ones."
+  },
+  {
+    "id": 100,
+    "english": "settle",
+    "russian": "поселиться, уладить",
+    "level": "B1",
+    "category": "verbs",
+    "example": "They settle in a small town."
+  },
+  {
+    "id": 101,
+    "english": "shock",
+    "russian": "шокировать",
+    "level": "B1",
+    "category": "verbs",
+    "example": "The news shocks everyone."
+  },
+  {
+    "id": 102,
+    "english": "sign",
+    "russian": "подписывать",
+    "level": "B1",
+    "category": "verbs",
+    "example": "Sign here, please."
+  },
+  {
+    "id": 103,
+    "english": "stare",
+    "russian": "пристально смотреть",
+    "level": "B1",
+    "category": "verbs",
+    "example": "Don't stare at people."
+  },
+  {
+    "id": 104,
+    "english": "support",
+    "russian": "поддерживать",
+    "level": "B1",
+    "category": "verbs",
+    "example": "My family supports me."
+  },
+  {
+    "id": 105,
+    "english": "surprise",
+    "russian": "удивлять",
+    "level": "B1",
+    "category": "verbs",
+    "example": "The gift surprises her."
+  },
+  {
+    "id": 106,
+    "english": "survive",
+    "russian": "выживать",
+    "level": "B1",
+    "category": "verbs",
+    "example": "Few people survive the crash."
+  },
+  {
+    "id": 107,
+    "english": "tend",
+    "russian": "иметь тенденцию",
+    "level": "B1",
+    "category": "verbs",
+    "example": "Prices tend to rise in summer."
+  },
+  {
+    "id": 108,
+    "english": "threaten",
+    "russian": "угрожать",
+    "level": "B1",
+    "category": "verbs",
+    "example": "He threatens to leave."
+  },
+  {
+    "id": 109,
+    "english": "track",
+    "russian": "отслеживать",
+    "level": "B1",
+    "category": "verbs",
+    "example": "You can track your parcel online."
+  },
+  {
+    "id": 110,
+    "english": "trust",
+    "russian": "доверять",
+    "level": "B1",
+    "category": "verbs",
+    "example": "I trust my best friend."
+  },
+  {
+    "id": 111,
+    "english": "upset",
+    "russian": "расстраивать",
+    "level": "B1",
+    "category": "verbs",
+    "example": "The news upsets him."
+  },
+  {
+    "id": 112,
+    "english": "wander",
+    "russian": "бродить",
+    "level": "B1",
+    "category": "verbs",
+    "example": "We wander around the old town."
+  },
+  {
+    "id": 113,
+    "english": "waste",
+    "russian": "тратить впустую",
+    "level": "B1",
+    "category": "verbs",
+    "example": "Don't waste your time."
+  },
+  {
+    "id": 114,
+    "english": "weigh",
+    "russian": "весить, взвешивать",
+    "level": "B1",
+    "category": "verbs",
+    "example": "The bag weighs five kilos."
+  },
+  {
+    "id": 115,
+    "english": "wonder",
+    "russian": "интересоваться, удивляться",
+    "level": "B1",
+    "category": "verbs",
+    "example": "I wonder where he is."
+  },
+  {
+    "id": 116,
+    "english": "struggle",
+    "russian": "бороться, с трудом",
+    "level": "B1",
+    "category": "verbs",
+    "example": "She struggles to find a job."
+  },
+  {
+    "id": 117,
+    "english": "suffer",
+    "russian": "страдать",
+    "level": "B1",
+    "category": "verbs",
+    "example": "He suffers from headaches."
+  },
+  {
+    "id": 118,
+    "english": "supply",
+    "russian": "поставлять",
+    "level": "B1",
+    "category": "verbs",
+    "example": "The farm supplies fresh milk."
+  },
+  {
+    "id": 119,
+    "english": "suppose",
+    "russian": "предполагать",
+    "level": "B1",
+    "category": "verbs",
+    "example": "I suppose you are right."
+  },
+  {
+    "id": 120,
+    "english": "treat",
+    "russian": "обращаться, лечить",
+    "level": "B1",
+    "category": "verbs",
+    "example": "The doctor treats the patient."
+  },
+  {
+    "id": 121,
+    "english": "vote",
+    "russian": "голосовать",
+    "level": "B1",
+    "category": "verbs",
+    "example": "Citizens vote every four years."
+  },
+  {
+    "id": 122,
+    "english": "wrap",
+    "russian": "заворачивать",
+    "level": "B1",
+    "category": "verbs",
+    "example": "Wrap the gift in paper."
+  },
+  {
+    "id": 123,
+    "english": "yell",
+    "russian": "орать",
+    "level": "B1",
+    "category": "verbs",
+    "example": "Don't yell at me."
+  },
+  {
+    "id": 124,
+    "english": "ability",
+    "russian": "способность",
+    "level": "B1",
+    "category": "abstract",
+    "example": "She has the ability to learn fast."
+  },
+  {
+    "id": 125,
+    "english": "access",
+    "russian": "доступ",
+    "level": "B1",
+    "category": "abstract",
+    "example": "I have no access to the internet."
+  },
+  {
+    "id": 126,
+    "english": "achievement",
+    "russian": "достижение",
+    "level": "B1",
+    "category": "abstract",
+    "example": "Winning the prize is a great achievement."
+  },
+  {
+    "id": 127,
+    "english": "action",
+    "russian": "действие",
+    "level": "B1",
+    "category": "abstract",
+    "example": "We must take action now."
+  },
+  {
+    "id": 128,
+    "english": "advantage",
+    "russian": "преимущество",
+    "level": "B1",
+    "category": "abstract",
+    "example": "Speaking English is an advantage."
+  },
+  {
+    "id": 129,
+    "english": "adventure",
+    "russian": "приключение",
+    "level": "B1",
+    "category": "abstract",
+    "example": "They go on an adventure in the jungle."
+  },
+  {
+    "id": 130,
+    "english": "advice",
+    "russian": "совет",
+    "level": "B1",
+    "category": "abstract",
+    "example": "Can I ask you for some advice?"
+  },
+  {
+    "id": 131,
+    "english": "agreement",
+    "russian": "соглашение",
+    "level": "B1",
+    "category": "abstract",
+    "example": "They sign an agreement."
+  },
+  {
+    "id": 132,
+    "english": "amount",
+    "russian": "количество, сумма",
+    "level": "B1",
+    "category": "abstract",
+    "example": "A large amount of money is missing."
+  },
+  {
+    "id": 133,
+    "english": "argument",
+    "russian": "спор, аргумент",
+    "level": "B1",
+    "category": "abstract",
+    "example": "They have an argument about money."
+  },
+  {
+    "id": 134,
+    "english": "attention",
+    "russian": "внимание",
+    "level": "B1",
+    "category": "abstract",
+    "example": "Pay attention to the road."
+  },
+  {
+    "id": 135,
+    "english": "attitude",
+    "russian": "отношение",
+    "level": "B1",
+    "category": "abstract",
+    "example": "He has a positive attitude."
+  },
+  {
+    "id": 136,
+    "english": "audience",
+    "russian": "публика",
+    "level": "B1",
+    "category": "abstract",
+    "example": "The audience claps loudly."
+  },
+  {
+    "id": 137,
+    "english": "benefit",
+    "russian": "выгода, польза",
+    "level": "B1",
+    "category": "abstract",
+    "example": "Exercise has many benefits."
+  },
+  {
+    "id": 138,
+    "english": "budget",
+    "russian": "бюджет",
+    "level": "B1",
+    "category": "abstract",
+    "example": "We have a small budget."
+  },
+  {
+    "id": 139,
+    "english": "career",
+    "russian": "карьера",
+    "level": "B1",
+    "category": "abstract",
+    "example": "She has a successful career."
+  },
+  {
+    "id": 140,
+    "english": "cause",
+    "russian": "причина",
+    "level": "B1",
+    "category": "abstract",
+    "example": "What is the cause of the fire?"
+  },
+  {
+    "id": 141,
+    "english": "chance",
+    "russian": "шанс",
+    "level": "B1",
+    "category": "abstract",
+    "example": "This is your last chance."
+  },
+  {
+    "id": 142,
+    "english": "character",
+    "russian": "характер, персонаж",
+    "level": "B1",
+    "category": "abstract",
+    "example": "He has a strong character."
+  },
+  {
+    "id": 143,
+    "english": "choice",
+    "russian": "выбор",
+    "level": "B1",
+    "category": "abstract",
+    "example": "You have a choice."
+  },
+  {
+    "id": 144,
+    "english": "climate",
+    "russian": "климат",
+    "level": "B1",
+    "category": "abstract",
+    "example": "The climate here is mild."
+  },
+  {
+    "id": 145,
+    "english": "community",
+    "russian": "сообщество",
+    "level": "B1",
+    "category": "abstract",
+    "example": "Our community helps old people."
+  },
+  {
+    "id": 146,
+    "english": "condition",
+    "russian": "условие, состояние",
+    "level": "B1",
+    "category": "abstract",
+    "example": "The car is in good condition."
+  },
+  {
+    "id": 147,
+    "english": "confidence",
+    "russian": "уверенность",
+    "level": "B1",
+    "category": "abstract",
+    "example": "She speaks with confidence."
+  },
+  {
+    "id": 148,
+    "english": "connection",
+    "russian": "связь",
+    "level": "B1",
+    "category": "abstract",
+    "example": "There is a connection between sleep and health."
+  },
+  {
+    "id": 149,
+    "english": "contact",
+    "russian": "контакт",
+    "level": "B1",
+    "category": "abstract",
+    "example": "We keep in contact by phone."
+  },
+  {
+    "id": 150,
+    "english": "control",
+    "russian": "контроль",
+    "level": "B1",
+    "category": "abstract",
+    "example": "The teacher has the class under control."
+  },
+  {
+    "id": 151,
+    "english": "conversation",
+    "russian": "разговор",
+    "level": "B1",
+    "category": "abstract",
+    "example": "We have a long conversation."
+  },
+  {
+    "id": 152,
+    "english": "courage",
+    "russian": "мужество",
+    "level": "B1",
+    "category": "abstract",
+    "example": "It takes courage to speak in public."
+  },
+  {
+    "id": 153,
+    "english": "course",
+    "russian": "курс",
+    "level": "B1",
+    "category": "abstract",
+    "example": "I take an English course."
+  },
+  {
+    "id": 154,
+    "english": "crime",
+    "russian": "преступление",
+    "level": "B1",
+    "category": "abstract",
+    "example": "Crime is rising in the city."
+  },
+  {
+    "id": 155,
+    "english": "culture",
+    "russian": "культура",
+    "level": "B1",
+    "category": "abstract",
+    "example": "I like learning about other cultures."
+  },
+  {
+    "id": 156,
+    "english": "danger",
+    "russian": "опасность",
+    "level": "B1",
+    "category": "abstract",
+    "example": "There is danger on the road."
+  },
+  {
+    "id": 157,
+    "english": "deadline",
+    "russian": "крайний срок",
+    "level": "B1",
+    "category": "abstract",
+    "example": "The deadline is Friday."
+  },
+  {
+    "id": 158,
+    "english": "decision",
+    "russian": "решение",
+    "level": "B1",
+    "category": "abstract",
+    "example": "It is a difficult decision."
+  },
+  {
+    "id": 159,
+    "english": "detail",
+    "russian": "деталь",
+    "level": "B1",
+    "category": "abstract",
+    "example": "Please give me more details."
+  },
+  {
+    "id": 160,
+    "english": "difference",
+    "russian": "разница",
+    "level": "B1",
+    "category": "abstract",
+    "example": "What is the difference between these two words?"
+  },
+  {
+    "id": 161,
+    "english": "difficulty",
+    "russian": "трудность",
+    "level": "B1",
+    "category": "abstract",
+    "example": "She has difficulty with math."
+  },
+  {
+    "id": 162,
+    "english": "direction",
+    "russian": "направление",
+    "level": "B1",
+    "category": "abstract",
+    "example": "Which direction is the station?"
+  },
+  {
+    "id": 163,
+    "english": "discount",
+    "russian": "скидка",
+    "level": "B1",
+    "category": "abstract",
+    "example": "The shop gives a ten percent discount."
+  },
+  {
+    "id": 164,
+    "english": "discussion",
+    "russian": "обсуждение",
+    "level": "B1",
+    "category": "abstract",
+    "example": "We have a long discussion."
+  },
+  {
+    "id": 165,
+    "english": "distance",
+    "russian": "расстояние",
+    "level": "B1",
+    "category": "abstract",
+    "example": "The distance is ten kilometres."
+  },
+  {
+    "id": 166,
+    "english": "document",
+    "russian": "документ",
+    "level": "B1",
+    "category": "abstract",
+    "example": "Show me your documents."
+  },
+  {
+    "id": 167,
+    "english": "economy",
+    "russian": "экономика",
+    "level": "B1",
+    "category": "abstract",
+    "example": "The economy is growing."
+  },
+  {
+    "id": 168,
+    "english": "education",
+    "russian": "образование",
+    "level": "B1",
+    "category": "abstract",
+    "example": "Education is very important."
+  },
+  {
+    "id": 169,
+    "english": "effect",
+    "russian": "эффект",
+    "level": "B1",
+    "category": "abstract",
+    "example": "The medicine has a quick effect."
+  },
+  {
+    "id": 170,
+    "english": "effort",
+    "russian": "усилие",
+    "level": "B1",
+    "category": "abstract",
+    "example": "He makes a big effort."
+  },
+  {
+    "id": 171,
+    "english": "emotion",
+    "russian": "эмоция",
+    "level": "B1",
+    "category": "abstract",
+    "example": "She cannot hide her emotions."
+  },
+  {
+    "id": 172,
+    "english": "employee",
+    "russian": "сотрудник",
+    "level": "B1",
+    "category": "abstract",
+    "example": "The company has fifty employees."
+  },
+  {
+    "id": 173,
+    "english": "employer",
+    "russian": "работодатель",
+    "level": "B1",
+    "category": "abstract",
+    "example": "My employer is very kind."
+  },
+  {
+    "id": 174,
+    "english": "energy",
+    "russian": "энергия",
+    "level": "B1",
+    "category": "abstract",
+    "example": "I have no energy today."
+  },
+  {
+    "id": 175,
+    "english": "environment",
+    "russian": "окружающая среда",
+    "level": "B1",
+    "category": "abstract",
+    "example": "We must protect the environment."
+  },
+  {
+    "id": 176,
+    "english": "error",
+    "russian": "ошибка",
+    "level": "B1",
+    "category": "abstract",
+    "example": "There is an error in the text."
+  },
+  {
+    "id": 177,
+    "english": "event",
+    "russian": "событие",
+    "level": "B1",
+    "category": "abstract",
+    "example": "The concert is a big event."
+  },
+  {
+    "id": 178,
+    "english": "experiment",
+    "russian": "эксперимент",
+    "level": "B1",
+    "category": "abstract",
+    "example": "The students do an experiment."
+  },
+  {
+    "id": 179,
+    "english": "fact",
+    "russian": "факт",
+    "level": "B1",
+    "category": "abstract",
+    "example": "It is a fact."
+  },
+  {
+    "id": 180,
+    "english": "failure",
+    "russian": "неудача",
+    "level": "B1",
+    "category": "abstract",
+    "example": "Failure is part of learning."
+  },
+  {
+    "id": 181,
+    "english": "fear",
+    "russian": "страх",
+    "level": "B1",
+    "category": "abstract",
+    "example": "He has a fear of heights."
+  },
+  {
+    "id": 182,
+    "english": "feeling",
+    "russian": "чувство",
+    "level": "B1",
+    "category": "abstract",
+    "example": "I have a strange feeling."
+  },
+  {
+    "id": 183,
+    "english": "freedom",
+    "russian": "свобода",
+    "level": "B1",
+    "category": "abstract",
+    "example": "Freedom is important to everyone."
+  },
+  {
+    "id": 184,
+    "english": "friendship",
+    "russian": "дружба",
+    "level": "B1",
+    "category": "abstract",
+    "example": "Their friendship is strong."
+  },
+  {
+    "id": 185,
+    "english": "goal",
+    "russian": "цель, гол",
+    "level": "B1",
+    "category": "abstract",
+    "example": "My goal is to speak English well."
+  },
+  {
+    "id": 186,
+    "english": "government",
+    "russian": "правительство",
+    "level": "B1",
+    "category": "abstract",
+    "example": "The government plans new laws."
+  },
+  {
+    "id": 187,
+    "english": "habit",
+    "russian": "привычка",
+    "level": "B1",
+    "category": "abstract",
+    "example": "Smoking is a bad habit."
+  },
+  {
+    "id": 188,
+    "english": "human",
+    "russian": "человек, человеческий",
+    "level": "B1",
+    "category": "abstract",
+    "example": "Every human needs water."
+  },
+  {
+    "id": 189,
+    "english": "image",
+    "russian": "образ, изображение",
+    "level": "B1",
+    "category": "abstract",
+    "example": "The image is not clear."
+  },
+  {
+    "id": 190,
+    "english": "income",
+    "russian": "доход",
+    "level": "B1",
+    "category": "abstract",
+    "example": "His income is low."
+  },
+  {
+    "id": 191,
+    "english": "information",
+    "russian": "информация",
+    "level": "B1",
+    "category": "abstract",
+    "example": "I need more information."
+  },
+  {
+    "id": 192,
+    "english": "injury",
+    "russian": "травма",
+    "level": "B1",
+    "category": "abstract",
+    "example": "The player has a knee injury."
+  },
+  {
+    "id": 193,
+    "english": "interview",
+    "russian": "интервью, собеседование",
+    "level": "B1",
+    "category": "abstract",
+    "example": "I have a job interview tomorrow."
+  },
+  {
+    "id": 194,
+    "english": "issue",
+    "russian": "проблема, вопрос",
+    "level": "B1",
+    "category": "abstract",
+    "example": "This is an important issue."
+  },
+  {
+    "id": 195,
+    "english": "journalist",
+    "russian": "журналист",
+    "level": "B1",
+    "category": "abstract",
+    "example": "The journalist asks a question."
+  },
+  {
+    "id": 196,
+    "english": "knowledge",
+    "russian": "знание",
+    "level": "B1",
+    "category": "abstract",
+    "example": "Knowledge is power."
+  },
+  {
+    "id": 197,
+    "english": "law",
+    "russian": "закон",
+    "level": "B1",
+    "category": "abstract",
+    "example": "It is against the law."
+  },
+  {
+    "id": 198,
+    "english": "leader",
+    "russian": "лидер",
+    "level": "B1",
+    "category": "abstract",
+    "example": "She is a good leader."
+  },
+  {
+    "id": 199,
+    "english": "level",
+    "russian": "уровень",
+    "level": "B1",
+    "category": "abstract",
+    "example": "My English level is low."
+  },
+  {
+    "id": 200,
+    "english": "limit",
+    "russian": "предел, лимит",
+    "level": "B1",
+    "category": "abstract",
+    "example": "The speed limit is sixty."
+  },
+  {
+    "id": 201,
+    "english": "luck",
+    "russian": "удача",
+    "level": "B1",
+    "category": "abstract",
+    "example": "Good luck with your exam!"
+  },
+  {
+    "id": 202,
+    "english": "material",
+    "russian": "материал",
+    "level": "B1",
+    "category": "abstract",
+    "example": "The material is soft."
+  },
+  {
+    "id": 203,
+    "english": "meaning",
+    "russian": "значение",
+    "level": "B1",
+    "category": "abstract",
+    "example": "What is the meaning of this word?"
+  },
+  {
+    "id": 204,
+    "english": "member",
+    "russian": "член",
+    "level": "B1",
+    "category": "abstract",
+    "example": "He is a member of the club."
+  },
+  {
+    "id": 205,
+    "english": "memory",
+    "russian": "память, воспоминание",
+    "level": "B1",
+    "category": "abstract",
+    "example": "I have a good memory."
+  },
+  {
+    "id": 206,
+    "english": "method",
+    "russian": "метод",
+    "level": "B1",
+    "category": "abstract",
+    "example": "This is a good method of learning."
+  },
+  {
+    "id": 207,
+    "english": "mistake",
+    "russian": "ошибка",
+    "level": "B1",
+    "category": "abstract",
+    "example": "I make a lot of mistakes."
+  },
+  {
+    "id": 208,
+    "english": "mood",
+    "russian": "настроение",
+    "level": "B1",
+    "category": "abstract",
+    "example": "She is in a good mood."
+  },
+  {
+    "id": 209,
+    "english": "network",
+    "russian": "сеть",
+    "level": "B1",
+    "category": "abstract",
+    "example": "The mobile network is down."
+  },
+  {
+    "id": 210,
+    "english": "opinion",
+    "russian": "мнение",
+    "level": "B1",
+    "category": "abstract",
+    "example": "In my opinion, it is a good idea."
+  },
+  {
+    "id": 211,
+    "english": "opportunity",
+    "russian": "возможность",
+    "level": "B1",
+    "category": "abstract",
+    "example": "This is a great opportunity."
+  },
+  {
+    "id": 212,
+    "english": "option",
+    "russian": "вариант",
+    "level": "B1",
+    "category": "abstract",
+    "example": "We have two options."
+  },
+  {
+    "id": 213,
+    "english": "origin",
+    "russian": "происхождение",
+    "level": "B1",
+    "category": "abstract",
+    "example": "What is the origin of this word?"
+  },
+  {
+    "id": 214,
+    "english": "patience",
+    "russian": "терпение",
+    "level": "B1",
+    "category": "abstract",
+    "example": "You need patience to learn a language."
+  },
+  {
+    "id": 215,
+    "english": "peace",
+    "russian": "мир (отсутствие войны)",
+    "level": "B1",
+    "category": "abstract",
+    "example": "Everyone wants peace."
+  },
+  {
+    "id": 216,
+    "english": "permission",
+    "russian": "разрешение",
+    "level": "B1",
+    "category": "abstract",
+    "example": "You need permission to enter."
+  },
+  {
+    "id": 217,
+    "english": "pleasure",
+    "russian": "удовольствие",
+    "level": "B1",
+    "category": "abstract",
+    "example": "It is a pleasure to meet you."
+  },
+  {
+    "id": 218,
+    "english": "police",
+    "russian": "полиция",
+    "level": "B1",
+    "category": "abstract",
+    "example": "Call the police."
+  },
+  {
+    "id": 219,
+    "english": "politics",
+    "russian": "политика",
+    "level": "B1",
+    "category": "abstract",
+    "example": "He is interested in politics."
+  },
+  {
+    "id": 220,
+    "english": "position",
+    "russian": "позиция, должность",
+    "level": "B1",
+    "category": "abstract",
+    "example": "He applies for a position in the bank."
+  },
+  {
+    "id": 221,
+    "english": "power",
+    "russian": "сила, власть",
+    "level": "B1",
+    "category": "abstract",
+    "example": "Knowledge is power."
+  },
+  {
+    "id": 222,
+    "english": "pressure",
+    "russian": "давление",
+    "level": "B1",
+    "category": "abstract",
+    "example": "He works under pressure."
+  },
+  {
+    "id": 223,
+    "english": "process",
+    "russian": "процесс",
+    "level": "B1",
+    "category": "abstract",
+    "example": "Learning is a long process."
+  },
+  {
+    "id": 224,
+    "english": "project",
+    "russian": "проект",
+    "level": "B1",
+    "category": "abstract",
+    "example": "We work on a new project."
+  },
+  {
+    "id": 225,
+    "english": "proof",
+    "russian": "доказательство",
+    "level": "B1",
+    "category": "abstract",
+    "example": "Do you have any proof?"
+  },
+  {
+    "id": 226,
+    "english": "purpose",
+    "russian": "цель, назначение",
+    "level": "B1",
+    "category": "abstract",
+    "example": "What is the purpose of your visit?"
+  },
+  {
+    "id": 227,
+    "english": "quality",
+    "russian": "качество",
+    "level": "B1",
+    "category": "abstract",
+    "example": "The quality of the food is good."
+  },
+  {
+    "id": 228,
+    "english": "reality",
+    "russian": "реальность",
+    "level": "B1",
+    "category": "abstract",
+    "example": "Dreams and reality are different."
+  },
+  {
+    "id": 229,
+    "english": "recipe",
+    "russian": "рецепт",
+    "level": "B1",
+    "category": "abstract",
+    "example": "Do you have a recipe for this cake?"
+  },
+  {
+    "id": 230,
+    "english": "region",
+    "russian": "регион",
+    "level": "B1",
+    "category": "abstract",
+    "example": "This region is famous for wine."
+  },
+  {
+    "id": 231,
+    "english": "relationship",
+    "russian": "отношения",
+    "level": "B1",
+    "category": "abstract",
+    "example": "They have a good relationship."
+  },
+  {
+    "id": 232,
+    "english": "repair",
+    "russian": "ремонт",
+    "level": "B1",
+    "category": "abstract",
+    "example": "The car is in for repair."
+  },
+  {
+    "id": 233,
+    "english": "research",
+    "russian": "исследование",
+    "level": "B1",
+    "category": "abstract",
+    "example": "Scientists do research on cancer."
+  },
+  {
+    "id": 234,
+    "english": "respect",
+    "russian": "уважение",
+    "level": "B1",
+    "category": "abstract",
+    "example": "I have great respect for my teacher."
+  },
+  {
+    "id": 235,
+    "english": "responsibility",
+    "russian": "ответственность",
+    "level": "B1",
+    "category": "abstract",
+    "example": "It is your responsibility."
+  },
+  {
+    "id": 236,
+    "english": "result",
+    "russian": "результат",
+    "level": "B1",
+    "category": "abstract",
+    "example": "The result is good."
+  },
+  {
+    "id": 237,
+    "english": "risk",
+    "russian": "риск",
+    "level": "B1",
+    "category": "abstract",
+    "example": "There is a risk of rain."
+  },
+  {
+    "id": 238,
+    "english": "role",
+    "russian": "роль",
+    "level": "B1",
+    "category": "abstract",
+    "example": "She plays the main role."
+  },
+  {
+    "id": 239,
+    "english": "salary",
+    "russian": "зарплата",
+    "level": "B1",
+    "category": "abstract",
+    "example": "His salary is high."
+  },
+  {
+    "id": 240,
+    "english": "schedule",
+    "russian": "расписание",
+    "level": "B1",
+    "category": "abstract",
+    "example": "What is your schedule today?"
+  },
+  {
+    "id": 241,
+    "english": "sense",
+    "russian": "смысл, чувство",
+    "level": "B1",
+    "category": "abstract",
+    "example": "It makes sense."
+  },
+  {
+    "id": 242,
+    "english": "series",
+    "russian": "серия, сериал",
+    "level": "B1",
+    "category": "abstract",
+    "example": "I love this TV series."
+  },
+  {
+    "id": 243,
+    "english": "service",
+    "russian": "обслуживание",
+    "level": "B1",
+    "category": "abstract",
+    "example": "The service in this hotel is excellent."
+  },
+  {
+    "id": 244,
+    "english": "shape",
+    "russian": "форма",
+    "level": "B1",
+    "category": "abstract",
+    "example": "The cake has the shape of a heart."
+  },
+  {
+    "id": 245,
+    "english": "situation",
+    "russian": "ситуация",
+    "level": "B1",
+    "category": "abstract",
+    "example": "The situation is difficult."
+  },
+  {
+    "id": 246,
+    "english": "skill",
+    "russian": "навык",
+    "level": "B1",
+    "category": "abstract",
+    "example": "Cooking is a useful skill."
+  },
+  {
+    "id": 247,
+    "english": "society",
+    "russian": "общество",
+    "level": "B1",
+    "category": "abstract",
+    "example": "Society changes quickly."
+  },
+  {
+    "id": 248,
+    "english": "solution",
+    "russian": "решение",
+    "level": "B1",
+    "category": "abstract",
+    "example": "We need a solution."
+  },
+  {
+    "id": 249,
+    "english": "source",
+    "russian": "источник",
+    "level": "B1",
+    "category": "abstract",
+    "example": "The internet is a source of information."
+  },
+  {
+    "id": 250,
+    "english": "speech",
+    "russian": "речь",
+    "level": "B1",
+    "category": "abstract",
+    "example": "The president gives a speech."
+  },
+  {
+    "id": 251,
+    "english": "speed",
+    "russian": "скорость",
+    "level": "B1",
+    "category": "abstract",
+    "example": "The speed of the car is high."
+  },
+  {
+    "id": 252,
+    "english": "step",
+    "russian": "шаг",
+    "level": "B1",
+    "category": "abstract",
+    "example": "Take one step at a time."
+  },
+  {
+    "id": 253,
+    "english": "strength",
+    "russian": "сила",
+    "level": "B1",
+    "category": "abstract",
+    "example": "He has great physical strength."
+  },
+  {
+    "id": 254,
+    "english": "stress",
+    "russian": "стресс",
+    "level": "B1",
+    "category": "abstract",
+    "example": "I have a lot of stress at work."
+  },
+  {
+    "id": 255,
+    "english": "style",
+    "russian": "стиль",
+    "level": "B1",
+    "category": "abstract",
+    "example": "I like her style."
+  },
+  {
+    "id": 256,
+    "english": "success",
+    "russian": "успех",
+    "level": "B1",
+    "category": "abstract",
+    "example": "Hard work leads to success."
+  },
+  {
+    "id": 257,
+    "english": "suggestion",
+    "russian": "предложение, совет",
+    "level": "B1",
+    "category": "abstract",
+    "example": "Do you have any suggestions?"
+  },
+  {
+    "id": 258,
+    "english": "surface",
+    "russian": "поверхность",
+    "level": "B1",
+    "category": "abstract",
+    "example": "The surface of the table is smooth."
+  },
+  {
+    "id": 259,
+    "english": "system",
+    "russian": "система",
+    "level": "B1",
+    "category": "abstract",
+    "example": "The system is down."
+  },
+  {
+    "id": 260,
+    "english": "talent",
+    "russian": "талант",
+    "level": "B1",
+    "category": "abstract",
+    "example": "She has a talent for music."
+  },
+  {
+    "id": 261,
+    "english": "task",
+    "russian": "задача",
+    "level": "B1",
+    "category": "abstract",
+    "example": "This is a difficult task."
+  },
+  {
+    "id": 262,
+    "english": "tax",
+    "russian": "налог",
+    "level": "B1",
+    "category": "abstract",
+    "example": "We pay tax on our income."
+  },
+  {
+    "id": 263,
+    "english": "technology",
+    "russian": "технология",
+    "level": "B1",
+    "category": "abstract",
+    "example": "Technology changes our lives."
+  },
+  {
+    "id": 264,
+    "english": "tradition",
+    "russian": "традиция",
+    "level": "B1",
+    "category": "abstract",
+    "example": "It is a family tradition."
+  },
+  {
+    "id": 265,
+    "english": "training",
+    "russian": "тренировка, обучение",
+    "level": "B1",
+    "category": "abstract",
+    "example": "He does training every day."
+  },
+  {
+    "id": 266,
+    "english": "transport",
+    "russian": "транспорт",
+    "level": "B1",
+    "category": "abstract",
+    "example": "Public transport is cheap here."
+  },
+  {
+    "id": 267,
+    "english": "trend",
+    "russian": "тенденция",
+    "level": "B1",
+    "category": "abstract",
+    "example": "This is a new fashion trend."
+  },
+  {
+    "id": 268,
+    "english": "trouble",
+    "russian": "беда, неприятность",
+    "level": "B1",
+    "category": "abstract",
+    "example": "I am in trouble."
+  },
+  {
+    "id": 269,
+    "english": "truth",
+    "russian": "правда",
+    "level": "B1",
+    "category": "abstract",
+    "example": "Tell me the truth."
+  },
+  {
+    "id": 270,
+    "english": "value",
+    "russian": "ценность",
+    "level": "B1",
+    "category": "abstract",
+    "example": "The house has a high value."
+  },
+  {
+    "id": 271,
+    "english": "view",
+    "russian": "вид, мнение",
+    "level": "B1",
+    "category": "abstract",
+    "example": "The room has a beautiful view."
+  },
+  {
+    "id": 272,
+    "english": "warning",
+    "russian": "предупреждение",
+    "level": "B1",
+    "category": "abstract",
+    "example": "There is a warning on the box."
+  },
+  {
+    "id": 273,
+    "english": "weight",
+    "russian": "вес",
+    "level": "B1",
+    "category": "abstract",
+    "example": "I want to lose weight."
+  },
+  {
+    "id": 274,
+    "english": "active",
+    "russian": "активный",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "She has an active life."
+  },
+  {
+    "id": 275,
+    "english": "actual",
+    "russian": "фактический",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "What is the actual price?"
+  },
+  {
+    "id": 276,
+    "english": "additional",
+    "russian": "дополнительный",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "There is an additional charge."
+  },
+  {
+    "id": 277,
+    "english": "annoyed",
+    "russian": "раздражённый",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "He is annoyed with the noise."
+  },
+  {
+    "id": 278,
+    "english": "anxious",
+    "russian": "тревожный",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "She is anxious about the exam."
+  },
+  {
+    "id": 279,
+    "english": "available",
+    "russian": "доступный",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "Is this room available?"
+  },
+  {
+    "id": 280,
+    "english": "aware",
+    "russian": "осведомлённый",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "I am aware of the problem."
+  },
+  {
+    "id": 281,
+    "english": "basic",
+    "russian": "базовый",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "He knows basic English."
+  },
+  {
+    "id": 282,
+    "english": "capable",
+    "russian": "способный",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "She is capable of doing this job."
+  },
+  {
+    "id": 283,
+    "english": "cautious",
+    "russian": "осторожный",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "Be cautious on the ice."
+  },
+  {
+    "id": 284,
+    "english": "central",
+    "russian": "центральный",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "The hotel has a central location."
+  },
+  {
+    "id": 285,
+    "english": "cheerful",
+    "russian": "жизнерадостный",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "She is a cheerful girl."
+  },
+  {
+    "id": 286,
+    "english": "clear",
+    "russian": "ясный",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "The instructions are clear."
+  },
+  {
+    "id": 287,
+    "english": "complex",
+    "russian": "сложный",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "The problem is complex."
+  },
+  {
+    "id": 288,
+    "english": "confident",
+    "russian": "уверенный",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "He is confident about the test."
+  },
+  {
+    "id": 289,
+    "english": "confused",
+    "russian": "растерянный",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "I am confused by the map."
+  },
+  {
+    "id": 290,
+    "english": "continuous",
+    "russian": "непрерывный",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "There is continuous noise outside."
+  },
+  {
+    "id": 291,
+    "english": "creative",
+    "russian": "творческий",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "She is a creative person."
+  },
+  {
+    "id": 292,
+    "english": "critical",
+    "russian": "критический",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "The situation is critical."
+  },
+  {
+    "id": 293,
+    "english": "curious",
+    "russian": "любопытный",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "Children are curious."
+  },
+  {
+    "id": 294,
+    "english": "current",
+    "russian": "текущий",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "What is your current address?"
+  },
+  {
+    "id": 295,
+    "english": "delighted",
+    "russian": "в восторге",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "I am delighted to meet you."
+  },
+  {
+    "id": 296,
+    "english": "determined",
+    "russian": "решительный",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "She is determined to win."
+  },
+  {
+    "id": 297,
+    "english": "digital",
+    "russian": "цифровой",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "I use a digital camera."
+  },
+  {
+    "id": 298,
+    "english": "disappointed",
+    "russian": "разочарованный",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "I am disappointed with the result."
+  },
+  {
+    "id": 299,
+    "english": "eager",
+    "russian": "жаждущий",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "The students are eager to learn."
+  },
+  {
+    "id": 300,
+    "english": "economic",
+    "russian": "экономический",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "The country has economic problems."
+  },
+  {
+    "id": 301,
+    "english": "effective",
+    "russian": "эффективный",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "This medicine is effective."
+  },
+  {
+    "id": 302,
+    "english": "efficient",
+    "russian": "эффективный, продуктивный",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "She is an efficient worker."
+  },
+  {
+    "id": 303,
+    "english": "electric",
+    "russian": "электрический",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "He drives an electric car."
+  },
+  {
+    "id": 304,
+    "english": "emotional",
+    "russian": "эмоциональный",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "It is an emotional film."
+  },
+  {
+    "id": 305,
+    "english": "environmental",
+    "russian": "экологический",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "They discuss environmental problems."
+  },
+  {
+    "id": 306,
+    "english": "equal",
+    "russian": "равный",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "Men and women have equal rights."
+  },
+  {
+    "id": 307,
+    "english": "essential",
+    "russian": "необходимый",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "Water is essential for life."
+  },
+  {
+    "id": 308,
+    "english": "exact",
+    "russian": "точный",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "What is the exact time?"
+  },
+  {
+    "id": 309,
+    "english": "exciting",
+    "russian": "захватывающий",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "The match is exciting."
+  },
+  {
+    "id": 310,
+    "english": "familiar",
+    "russian": "знакомый",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "This place looks familiar."
+  },
+  {
+    "id": 311,
+    "english": "fashionable",
+    "russian": "модный",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "She wears fashionable clothes."
+  },
+  {
+    "id": 312,
+    "english": "flexible",
+    "russian": "гибкий",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "My job hours are flexible."
+  },
+  {
+    "id": 313,
+    "english": "formal",
+    "russian": "формальный",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "It is a formal dinner."
+  },
+  {
+    "id": 314,
+    "english": "generous",
+    "russian": "щедрый",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "He is a generous man."
+  },
+  {
+    "id": 315,
+    "english": "gentle",
+    "russian": "нежный, мягкий",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "Be gentle with the baby."
+  },
+  {
+    "id": 316,
+    "english": "global",
+    "russian": "глобальный",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "It is a global problem."
+  },
+  {
+    "id": 317,
+    "english": "glad",
+    "russian": "рад",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "I am glad to see you."
+  },
+  {
+    "id": 318,
+    "english": "grateful",
+    "russian": "благодарный",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "I am grateful for your help."
+  },
+  {
+    "id": 319,
+    "english": "harmful",
+    "russian": "вредный",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "Smoking is harmful."
+  },
+  {
+    "id": 320,
+    "english": "helpful",
+    "russian": "полезный, отзывчивый",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "The staff are very helpful."
+  },
+  {
+    "id": 321,
+    "english": "illegal",
+    "russian": "незаконный",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "It is illegal to park here."
+  },
+  {
+    "id": 322,
+    "english": "immediate",
+    "russian": "немедленный",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "I need an immediate answer."
+  },
+  {
+    "id": 323,
+    "english": "independent",
+    "russian": "независимый",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "She is an independent woman."
+  },
+  {
+    "id": 324,
+    "english": "individual",
+    "russian": "индивидуальный",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "Each student gets individual attention."
+  },
+  {
+    "id": 325,
+    "english": "informal",
+    "russian": "неформальный",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "It is an informal meeting."
+  },
+  {
+    "id": 326,
+    "english": "intelligent",
+    "russian": "умный, интеллектуальный",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "He is an intelligent boy."
+  },
+  {
+    "id": 327,
+    "english": "internal",
+    "russian": "внутренний",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "This is an internal problem."
+  },
+  {
+    "id": 328,
+    "english": "legal",
+    "russian": "законный",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "It is a legal contract."
+  },
+  {
+    "id": 329,
+    "english": "likely",
+    "russian": "вероятный",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "It is likely to rain."
+  },
+  {
+    "id": 330,
+    "english": "mad",
+    "russian": "безумный, злой",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "He is mad at me."
+  },
+  {
+    "id": 331,
+    "english": "mature",
+    "russian": "зрелый",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "She is very mature for her age."
+  },
+  {
+    "id": 332,
+    "english": "mental",
+    "russian": "умственный",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "Mental health is important."
+  },
+  {
+    "id": 333,
+    "english": "mild",
+    "russian": "мягкий",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "The winter here is mild."
+  },
+  {
+    "id": 334,
+    "english": "minor",
+    "russian": "незначительный",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "It is only a minor problem."
+  },
+  {
+    "id": 335,
+    "english": "native",
+    "russian": "родной",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "English is not my native language."
+  },
+  {
+    "id": 336,
+    "english": "negative",
+    "russian": "отрицательный",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "Don't be so negative."
+  },
+  {
+    "id": 337,
+    "english": "obvious",
+    "russian": "очевидный",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "The answer is obvious."
+  },
+  {
+    "id": 338,
+    "english": "official",
+    "russian": "официальный",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "It is an official document."
+  },
+  {
+    "id": 339,
+    "english": "original",
+    "russian": "оригинальный, первоначальный",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "This is the original painting."
+  },
+  {
+    "id": 340,
+    "english": "personal",
+    "russian": "личный",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "It is a personal question."
+  },
+  {
+    "id": 341,
+    "english": "physical",
+    "russian": "физический",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "Physical exercise is good for you."
+  },
+  {
+    "id": 342,
+    "english": "positive",
+    "russian": "положительный",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "She has a positive attitude."
+  },
+  {
+    "id": 343,
+    "english": "powerful",
+    "russian": "мощный",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "It is a powerful engine."
+  },
+  {
+    "id": 344,
+    "english": "practical",
+    "russian": "практичный",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "It is a practical gift."
+  },
+  {
+    "id": 345,
+    "english": "previous",
+    "russian": "предыдущий",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "Read the previous chapter."
+  },
+  {
+    "id": 346,
+    "english": "professional",
+    "russian": "профессиональный",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "He is a professional player."
+  },
+  {
+    "id": 347,
+    "english": "proper",
+    "russian": "надлежащий",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "Use the proper tool."
+  },
+  {
+    "id": 348,
+    "english": "rare",
+    "russian": "редкий",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "This bird is very rare."
+  },
+  {
+    "id": 349,
+    "english": "reasonable",
+    "russian": "разумный",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "The price is reasonable."
+  },
+  {
+    "id": 350,
+    "english": "regular",
+    "russian": "регулярный",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "I am a regular customer here."
+  },
+  {
+    "id": 351,
+    "english": "relevant",
+    "russian": "уместный",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "This information is not relevant."
+  },
+  {
+    "id": 352,
+    "english": "reliable",
+    "russian": "надёжный",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "He is a reliable friend."
+  },
+  {
+    "id": 353,
+    "english": "responsible",
+    "russian": "ответственный",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "He is responsible for the project."
+  },
+  {
+    "id": 354,
+    "english": "satisfied",
+    "russian": "удовлетворённый",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "I am satisfied with the service."
+  },
+  {
+    "id": 355,
+    "english": "scared",
+    "russian": "испуганный",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "I am scared of the dark."
+  },
+  {
+    "id": 356,
+    "english": "secret",
+    "russian": "секретный",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "It is a secret place."
+  },
+  {
+    "id": 357,
+    "english": "sensible",
+    "russian": "благоразумный",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "It is a sensible decision."
+  },
+  {
+    "id": 358,
+    "english": "sensitive",
+    "russian": "чувствительный",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "She is sensitive to criticism."
+  },
+  {
+    "id": 359,
+    "english": "serious",
+    "russian": "серьёзный",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "It is a serious problem."
+  },
+  {
+    "id": 360,
+    "english": "significant",
+    "russian": "значительный",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "There is a significant difference."
+  },
+  {
+    "id": 361,
+    "english": "similar",
+    "russian": "похожий",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "We have similar interests."
+  },
+  {
+    "id": 362,
+    "english": "social",
+    "russian": "социальный",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "She has a busy social life."
+  },
+  {
+    "id": 363,
+    "english": "suitable",
+    "russian": "подходящий",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "This is a suitable place for a picnic."
+  },
+  {
+    "id": 364,
+    "english": "sudden",
+    "russian": "внезапный",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "There is a sudden change in the weather."
+  },
+  {
+    "id": 365,
+    "english": "temporary",
+    "russian": "временный",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "It is a temporary job."
+  },
+  {
+    "id": 366,
+    "english": "traditional",
+    "russian": "традиционный",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "It is a traditional dish."
+  },
+  {
+    "id": 367,
+    "english": "typical",
+    "russian": "типичный",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "It is a typical day."
+  },
+  {
+    "id": 368,
+    "english": "unusual",
+    "russian": "необычный",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "That is an unusual name."
+  },
+  {
+    "id": 369,
+    "english": "valuable",
+    "russian": "ценный",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "The painting is valuable."
+  },
+  {
+    "id": 370,
+    "english": "various",
+    "russian": "различный",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "There are various reasons."
+  },
+  {
+    "id": 371,
+    "english": "visible",
+    "russian": "видимый",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "The stars are visible tonight."
+  },
+  {
+    "id": 372,
+    "english": "willing",
+    "russian": "готовый, желающий",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "He is willing to help."
+  },
+  {
+    "id": 373,
+    "english": "worth",
+    "russian": "стоящий",
+    "level": "B1",
+    "category": "adjectives",
+    "example": "The book is worth reading."
+  },
+  {
+    "id": 374,
+    "english": "actually",
+    "russian": "на самом деле",
+    "level": "B1",
+    "category": "adverbs",
+    "example": "I actually like this film."
+  },
+  {
+    "id": 375,
+    "english": "apparently",
+    "russian": "по-видимому",
+    "level": "B1",
+    "category": "adverbs",
+    "example": "Apparently, he is ill."
+  },
+  {
+    "id": 376,
+    "english": "basically",
+    "russian": "в основном",
+    "level": "B1",
+    "category": "adverbs",
+    "example": "Basically, it is a simple idea."
+  },
+  {
+    "id": 377,
+    "english": "besides",
+    "russian": "кроме того",
+    "level": "B1",
+    "category": "adverbs",
+    "example": "Besides, it is too expensive."
+  },
+  {
+    "id": 378,
+    "english": "currently",
+    "russian": "в настоящее время",
+    "level": "B1",
+    "category": "adverbs",
+    "example": "I currently work from home."
+  },
+  {
+    "id": 379,
+    "english": "directly",
+    "russian": "прямо",
+    "level": "B1",
+    "category": "adverbs",
+    "example": "Go directly to the station."
+  },
+  {
+    "id": 380,
+    "english": "eventually",
+    "russian": "в конце концов",
+    "level": "B1",
+    "category": "adverbs",
+    "example": "Eventually, we find the hotel."
+  },
+  {
+    "id": 381,
+    "english": "extremely",
+    "russian": "чрезвычайно",
+    "level": "B1",
+    "category": "adverbs",
+    "example": "It is extremely cold today."
+  },
+  {
+    "id": 382,
+    "english": "fairly",
+    "russian": "довольно",
+    "level": "B1",
+    "category": "adverbs",
+    "example": "The test is fairly easy."
+  },
+  {
+    "id": 383,
+    "english": "frequently",
+    "russian": "часто",
+    "level": "B1",
+    "category": "adverbs",
+    "example": "He frequently visits his parents."
+  },
+  {
+    "id": 384,
+    "english": "generally",
+    "russian": "в целом",
+    "level": "B1",
+    "category": "adverbs",
+    "example": "Generally, I get up at seven."
+  },
+  {
+    "id": 385,
+    "english": "gradually",
+    "russian": "постепенно",
+    "level": "B1",
+    "category": "adverbs",
+    "example": "The weather gradually gets warmer."
+  },
+  {
+    "id": 386,
+    "english": "immediately",
+    "russian": "немедленно",
+    "level": "B1",
+    "category": "adverbs",
+    "example": "Please come immediately."
+  },
+  {
+    "id": 387,
+    "english": "indeed",
+    "russian": "действительно",
+    "level": "B1",
+    "category": "adverbs",
+    "example": "It is indeed a great idea."
+  },
+  {
+    "id": 388,
+    "english": "meanwhile",
+    "russian": "тем временем",
+    "level": "B1",
+    "category": "adverbs",
+    "example": "Meanwhile, I wait outside."
+  },
+  {
+    "id": 389,
+    "english": "mostly",
+    "russian": "в основном",
+    "level": "B1",
+    "category": "adverbs",
+    "example": "I mostly eat vegetables."
+  },
+  {
+    "id": 390,
+    "english": "naturally",
+    "russian": "естественно",
+    "level": "B1",
+    "category": "adverbs",
+    "example": "Naturally, I want to help."
+  },
+  {
+    "id": 391,
+    "english": "obviously",
+    "russian": "очевидно",
+    "level": "B1",
+    "category": "adverbs",
+    "example": "Obviously, he is tired."
+  },
+  {
+    "id": 392,
+    "english": "otherwise",
+    "russian": "иначе",
+    "level": "B1",
+    "category": "adverbs",
+    "example": "Hurry up, otherwise we will be late."
+  },
+  {
+    "id": 393,
+    "english": "overall",
+    "russian": "в целом",
+    "level": "B1",
+    "category": "adverbs",
+    "example": "Overall, the trip is great."
+  },
+  {
+    "id": 394,
+    "english": "partly",
+    "russian": "частично",
+    "level": "B1",
+    "category": "adverbs",
+    "example": "The house is partly finished."
+  },
+  {
+    "id": 395,
+    "english": "personally",
+    "russian": "лично",
+    "level": "B1",
+    "category": "adverbs",
+    "example": "Personally, I prefer tea."
+  },
+  {
+    "id": 396,
+    "english": "previously",
+    "russian": "ранее",
+    "level": "B1",
+    "category": "adverbs",
+    "example": "She previously worked in a bank."
+  },
+  {
+    "id": 397,
+    "english": "properly",
+    "russian": "как следует",
+    "level": "B1",
+    "category": "adverbs",
+    "example": "Please close the door properly."
+  },
+  {
+    "id": 398,
+    "english": "rarely",
+    "russian": "редко",
+    "level": "B1",
+    "category": "adverbs",
+    "example": "I rarely eat meat."
+  },
+  {
+    "id": 399,
+    "english": "relatively",
+    "russian": "относительно",
+    "level": "B1",
+    "category": "adverbs",
+    "example": "The test is relatively easy."
+  },
+  {
+    "id": 400,
+    "english": "seriously",
+    "russian": "серьёзно",
+    "level": "B1",
+    "category": "adverbs",
+    "example": "I am seriously thinking about it."
+  },
+  {
+    "id": 401,
+    "english": "simply",
+    "russian": "просто",
+    "level": "B1",
+    "category": "adverbs",
+    "example": "It is simply wonderful."
+  },
+  {
+    "id": 402,
+    "english": "slightly",
+    "russian": "слегка",
+    "level": "B1",
+    "category": "adverbs",
+    "example": "The soup is slightly salty."
+  },
+  {
+    "id": 403,
+    "english": "somehow",
+    "russian": "как-нибудь",
+    "level": "B1",
+    "category": "adverbs",
+    "example": "We will find a way somehow."
+  },
+  {
+    "id": 404,
+    "english": "therefore",
+    "russian": "поэтому",
+    "level": "B1",
+    "category": "adverbs",
+    "example": "It is raining, therefore we stay at home."
+  },
+  {
+    "id": 405,
+    "english": "totally",
+    "russian": "полностью",
+    "level": "B1",
+    "category": "adverbs",
+    "example": "I totally agree."
+  },
+  {
+    "id": 406,
+    "english": "truly",
+    "russian": "поистине",
+    "level": "B1",
+    "category": "adverbs",
+    "example": "I am truly sorry."
+  },
+  {
+    "id": 407,
+    "english": "typically",
+    "russian": "как правило",
+    "level": "B1",
+    "category": "adverbs",
+    "example": "Typically, I drink coffee in the morning."
+  },
+  {
+    "id": 408,
+    "english": "unfortunately",
+    "russian": "к сожалению",
+    "level": "B1",
+    "category": "adverbs",
+    "example": "Unfortunately, I can't come."
+  },
+  {
+    "id": 409,
+    "english": "whatever",
+    "russian": "что бы ни",
+    "level": "B1",
+    "category": "adverbs",
+    "example": "Whatever you say, I agree."
+  },
+  {
+    "id": 410,
+    "english": "whenever",
+    "russian": "когда бы ни",
+    "level": "B1",
+    "category": "adverbs",
+    "example": "Call me whenever you want."
+  },
+  {
+    "id": 411,
+    "english": "whether",
+    "russian": "ли",
+    "level": "B1",
+    "category": "adverbs",
+    "example": "I don't know whether he is at home."
+  },
+  {
+    "id": 412,
+    "english": "software",
+    "russian": "программное обеспечение",
+    "level": "B1",
+    "category": "technology",
+    "example": "I install new software."
+  },
+  {
+    "id": 413,
+    "english": "download",
+    "russian": "скачивать",
+    "level": "B1",
+    "category": "technology",
+    "example": "I download the file."
+  },
+  {
+    "id": 414,
+    "english": "upload",
+    "russian": "загружать",
+    "level": "B1",
+    "category": "technology",
+    "example": "Upload your photos here."
+  },
+  {
+    "id": 415,
+    "english": "password",
+    "russian": "пароль",
+    "level": "B1",
+    "category": "technology",
+    "example": "I forgot my password."
+  },
+  {
+    "id": 416,
+    "english": "account",
+    "russian": "аккаунт, счёт",
+    "level": "B1",
+    "category": "technology",
+    "example": "I open a bank account."
+  },
+  {
+    "id": 417,
+    "english": "browser",
+    "russian": "браузер",
+    "level": "B1",
+    "category": "technology",
+    "example": "Open your browser."
+  },
+  {
+    "id": 418,
+    "english": "keyboard",
+    "russian": "клавиатура",
+    "level": "B1",
+    "category": "technology",
+    "example": "The keyboard is broken."
+  },
+  {
+    "id": 419,
+    "english": "laptop",
+    "russian": "ноутбук",
+    "level": "B1",
+    "category": "technology",
+    "example": "She works on her laptop."
+  },
+  {
+    "id": 420,
+    "english": "tablet",
+    "russian": "планшет",
+    "level": "B1",
+    "category": "technology",
+    "example": "I read books on my tablet."
+  },
+  {
+    "id": 421,
+    "english": "charger",
+    "russian": "зарядное устройство",
+    "level": "B1",
+    "category": "technology",
+    "example": "Where is my phone charger?"
+  },
+  {
+    "id": 422,
+    "english": "battery",
+    "russian": "батарея",
+    "level": "B1",
+    "category": "technology",
+    "example": "The battery is low."
+  },
+  {
+    "id": 423,
+    "english": "cable",
+    "russian": "кабель",
+    "level": "B1",
+    "category": "technology",
+    "example": "I need a longer cable."
+  },
+  {
+    "id": 424,
+    "english": "online",
+    "russian": "онлайн",
+    "level": "B1",
+    "category": "technology",
+    "example": "I study online."
+  },
+  {
+    "id": 425,
+    "english": "blog",
+    "russian": "блог",
+    "level": "B1",
+    "category": "technology",
+    "example": "She writes a travel blog."
+  },
+  {
+    "id": 426,
+    "english": "podcast",
+    "russian": "подкаст",
+    "level": "B1",
+    "category": "technology",
+    "example": "I listen to a podcast on the way to work."
+  },
+  {
+    "id": 427,
+    "english": "headline",
+    "russian": "заголовок",
+    "level": "B1",
+    "category": "media",
+    "example": "The headline is shocking."
+  },
+  {
+    "id": 428,
+    "english": "article",
+    "russian": "статья",
+    "level": "B1",
+    "category": "media",
+    "example": "I read an interesting article."
+  },
+  {
+    "id": 429,
+    "english": "newspaper",
+    "russian": "газета",
+    "level": "B1",
+    "category": "media",
+    "example": "He reads the newspaper every morning."
+  },
+  {
+    "id": 430,
+    "english": "magazine",
+    "russian": "журнал",
+    "level": "B1",
+    "category": "media",
+    "example": "She buys a fashion magazine."
+  },
+  {
+    "id": 431,
+    "english": "broadcast",
+    "russian": "трансляция",
+    "level": "B1",
+    "category": "media",
+    "example": "The broadcast starts at eight."
+  },
+  {
+    "id": 432,
+    "english": "channel",
+    "russian": "канал",
+    "level": "B1",
+    "category": "media",
+    "example": "I change the channel."
+  },
+  {
+    "id": 433,
+    "english": "programme",
+    "russian": "программа, передача",
+    "level": "B1",
+    "category": "media",
+    "example": "This is my favourite TV programme."
+  },
+  {
+    "id": 434,
+    "english": "episode",
+    "russian": "эпизод, серия",
+    "level": "B1",
+    "category": "media",
+    "example": "I watch one episode every night."
+  },
+  {
+    "id": 435,
+    "english": "documentary",
+    "russian": "документальный фильм",
+    "level": "B1",
+    "category": "media",
+    "example": "We watch a documentary about animals."
+  },
+  {
+    "id": 436,
+    "english": "bargain",
+    "russian": "выгодная покупка",
+    "level": "B1",
+    "category": "money",
+    "example": "This jacket is a bargain."
+  },
+  {
+    "id": 437,
+    "english": "receipt",
+    "russian": "чек",
+    "level": "B1",
+    "category": "money",
+    "example": "Keep the receipt."
+  },
+  {
+    "id": 438,
+    "english": "refund",
+    "russian": "возврат денег",
+    "level": "B1",
+    "category": "money",
+    "example": "I want a refund."
+  },
+  {
+    "id": 439,
+    "english": "credit",
+    "russian": "кредит",
+    "level": "B1",
+    "category": "money",
+    "example": "I pay by credit card."
+  },
+  {
+    "id": 440,
+    "english": "debt",
+    "russian": "долг",
+    "level": "B1",
+    "category": "money",
+    "example": "He is in debt."
+  },
+  {
+    "id": 441,
+    "english": "deposit",
+    "russian": "депозит, залог",
+    "level": "B1",
+    "category": "money",
+    "example": "I pay a deposit for the flat."
+  },
+  {
+    "id": 442,
+    "english": "mortgage",
+    "russian": "ипотека",
+    "level": "B1",
+    "category": "money",
+    "example": "They have a mortgage."
+  },
+  {
+    "id": 443,
+    "english": "savings",
+    "russian": "сбережения",
+    "level": "B1",
+    "category": "money",
+    "example": "She uses her savings to travel."
+  },
+  {
+    "id": 444,
+    "english": "purchase",
+    "russian": "покупка",
+    "level": "B1",
+    "category": "money",
+    "example": "I make a big purchase."
+  },
+  {
+    "id": 445,
+    "english": "brand",
+    "russian": "бренд",
+    "level": "B1",
+    "category": "money",
+    "example": "This is a famous brand."
+  },
+  {
+    "id": 446,
+    "english": "label",
+    "russian": "этикетка",
+    "level": "B1",
+    "category": "money",
+    "example": "Read the label on the bottle."
+  },
+  {
+    "id": 447,
+    "english": "queue",
+    "russian": "очередь",
+    "level": "B1",
+    "category": "money",
+    "example": "There is a long queue at the bank."
+  },
+  {
+    "id": 448,
+    "english": "cashier",
+    "russian": "кассир",
+    "level": "B1",
+    "category": "money",
+    "example": "The cashier gives me my change."
+  },
+  {
+    "id": 449,
+    "english": "allergy",
+    "russian": "аллергия",
+    "level": "B1",
+    "category": "health",
+    "example": "I have an allergy to nuts."
+  },
+  {
+    "id": 450,
+    "english": "disease",
+    "russian": "болезнь",
+    "level": "B1",
+    "category": "health",
+    "example": "This disease is dangerous."
+  },
+  {
+    "id": 451,
+    "english": "infection",
+    "russian": "инфекция",
+    "level": "B1",
+    "category": "health",
+    "example": "The wound has an infection."
+  },
+  {
+    "id": 452,
+    "english": "symptom",
+    "russian": "симптом",
+    "level": "B1",
+    "category": "health",
+    "example": "A fever is a symptom of flu."
+  },
+  {
+    "id": 453,
+    "english": "treatment",
+    "russian": "лечение",
+    "level": "B1",
+    "category": "health",
+    "example": "The treatment takes two weeks."
+  },
+  {
+    "id": 454,
+    "english": "surgery",
+    "russian": "операция",
+    "level": "B1",
+    "category": "health",
+    "example": "He needs surgery."
+  },
+  {
+    "id": 455,
+    "english": "vaccine",
+    "russian": "вакцина",
+    "level": "B1",
+    "category": "health",
+    "example": "The vaccine is safe."
+  },
+  {
+    "id": 456,
+    "english": "diet",
+    "russian": "диета, питание",
+    "level": "B1",
+    "category": "health",
+    "example": "She is on a diet."
+  },
+  {
+    "id": 457,
+    "english": "vitamin",
+    "russian": "витамин",
+    "level": "B1",
+    "category": "health",
+    "example": "Oranges have a lot of vitamin C."
+  },
+  {
+    "id": 458,
+    "english": "muscle",
+    "russian": "мышца",
+    "level": "B1",
+    "category": "health",
+    "example": "He has strong muscles."
+  },
+  {
+    "id": 459,
+    "english": "lung",
+    "russian": "лёгкое",
+    "level": "B1",
+    "category": "health",
+    "example": "Smoking is bad for your lungs."
+  },
+  {
+    "id": 460,
+    "english": "fitness",
+    "russian": "физическая форма",
+    "level": "B1",
+    "category": "health",
+    "example": "I go to the gym to improve my fitness."
+  },
+  {
+    "id": 461,
+    "english": "recovery",
+    "russian": "выздоровление",
+    "level": "B1",
+    "category": "health",
+    "example": "He makes a quick recovery."
+  },
+  {
+    "id": 462,
+    "english": "pollution",
+    "russian": "загрязнение",
+    "level": "B1",
+    "category": "environment",
+    "example": "Air pollution is a big problem."
+  },
+  {
+    "id": 463,
+    "english": "recycle",
+    "russian": "перерабатывать",
+    "level": "B1",
+    "category": "environment",
+    "example": "We recycle paper and plastic."
+  },
+  {
+    "id": 464,
+    "english": "earthquake",
+    "russian": "землетрясение",
+    "level": "B1",
+    "category": "environment",
+    "example": "The earthquake destroys many buildings."
+  },
+  {
+    "id": 465,
+    "english": "flood",
+    "russian": "наводнение",
+    "level": "B1",
+    "category": "environment",
+    "example": "The flood covers the village."
+  },
+  {
+    "id": 466,
+    "english": "drought",
+    "russian": "засуха",
+    "level": "B1",
+    "category": "environment",
+    "example": "The drought lasts three months."
+  },
+  {
+    "id": 467,
+    "english": "wildlife",
+    "russian": "дикая природа",
+    "level": "B1",
+    "category": "environment",
+    "example": "We watch wildlife in the park."
+  },
+  {
+    "id": 468,
+    "english": "planet",
+    "russian": "планета",
+    "level": "B1",
+    "category": "environment",
+    "example": "Earth is our planet."
+  },
+  {
+    "id": 469,
+    "english": "solar",
+    "russian": "солнечный",
+    "level": "B1",
+    "category": "environment",
+    "example": "They use solar energy."
+  },
+  {
+    "id": 470,
+    "english": "scholarship",
+    "russian": "стипендия",
+    "level": "B1",
+    "category": "education",
+    "example": "She wins a scholarship."
+  },
+  {
+    "id": 471,
+    "english": "diploma",
+    "russian": "диплом",
+    "level": "B1",
+    "category": "education",
+    "example": "He gets his diploma in June."
+  },
+  {
+    "id": 472,
+    "english": "lecture",
+    "russian": "лекция",
+    "level": "B1",
+    "category": "education",
+    "example": "The lecture lasts an hour."
+  },
+  {
+    "id": 473,
+    "english": "graduate",
+    "russian": "выпускник",
+    "level": "B1",
+    "category": "education",
+    "example": "She is a university graduate."
+  },
+  {
+    "id": 474,
+    "english": "qualification",
+    "russian": "квалификация",
+    "level": "B1",
+    "category": "education",
+    "example": "He has a teaching qualification."
+  },
+  {
+    "id": 475,
+    "english": "vacancy",
+    "russian": "вакансия",
+    "level": "B1",
+    "category": "work",
+    "example": "There is a vacancy in our office."
+  },
+  {
+    "id": 476,
+    "english": "unemployment",
+    "russian": "безработица",
+    "level": "B1",
+    "category": "work",
+    "example": "Unemployment is high in this area."
+  },
+  {
+    "id": 477,
+    "english": "promotion",
+    "russian": "повышение",
+    "level": "B1",
+    "category": "work",
+    "example": "She gets a promotion."
+  },
+  {
+    "id": 478,
+    "english": "overtime",
+    "russian": "сверхурочная работа",
+    "level": "B1",
+    "category": "work",
+    "example": "I work overtime on Fridays."
+  },
+  {
+    "id": 479,
+    "english": "accommodation",
+    "russian": "жильё",
+    "level": "B1",
+    "category": "travel",
+    "example": "We look for cheap accommodation."
+  },
+  {
+    "id": 480,
+    "english": "reservation",
+    "russian": "бронирование",
+    "level": "B1",
+    "category": "travel",
+    "example": "I have a reservation for two."
+  },
+  {
+    "id": 481,
+    "english": "sightseeing",
+    "russian": "осмотр достопримечательностей",
+    "level": "B1",
+    "category": "travel",
+    "example": "We go sightseeing in the city."
+  },
+  {
+    "id": 482,
+    "english": "excursion",
+    "russian": "экскурсия",
+    "level": "B1",
+    "category": "travel",
+    "example": "We take an excursion to the castle."
+  },
+  {
+    "id": 483,
+    "english": "cruise",
+    "russian": "круиз",
+    "level": "B1",
+    "category": "travel",
+    "example": "They go on a cruise."
+  },
+  {
+    "id": 484,
+    "english": "ferry",
+    "russian": "паром",
+    "level": "B1",
+    "category": "travel",
+    "example": "We take the ferry to the island."
+  },
+  {
+    "id": 485,
+    "english": "terminal",
+    "russian": "терминал",
+    "level": "B1",
+    "category": "travel",
+    "example": "The bus leaves from the terminal."
+  },
+  {
+    "id": 486,
+    "english": "landscape",
+    "russian": "пейзаж",
+    "level": "B1",
+    "category": "travel",
+    "example": "The landscape is beautiful."
+  },
+  {
+    "id": 487,
+    "english": "scenery",
+    "russian": "вид, пейзаж",
+    "level": "B1",
+    "category": "travel",
+    "example": "We enjoy the mountain scenery."
+  },
+  {
+    "id": 488,
+    "english": "coast",
+    "russian": "побережье",
+    "level": "B1",
+    "category": "travel",
+    "example": "We drive along the coast."
+  },
+  {
+    "id": 489,
+    "english": "valley",
+    "russian": "долина",
+    "level": "B1",
+    "category": "travel",
+    "example": "The village is in a green valley."
+  },
+  {
+    "id": 490,
+    "english": "cliff",
+    "russian": "утёс",
+    "level": "B1",
+    "category": "travel",
+    "example": "He stands on the edge of a cliff."
+  },
+  {
+    "id": 491,
+    "english": "jungle",
+    "russian": "джунгли",
+    "level": "B1",
+    "category": "travel",
+    "example": "Many animals live in the jungle."
+  },
+  {
+    "id": 492,
+    "english": "volcano",
+    "russian": "вулкан",
+    "level": "B1",
+    "category": "travel",
+    "example": "The volcano is active."
+  },
+  {
+    "id": 493,
+    "english": "waterfall",
+    "russian": "водопад",
+    "level": "B1",
+    "category": "travel",
+    "example": "We visit a beautiful waterfall."
+  },
+  {
+    "id": 494,
+    "english": "laundry",
+    "russian": "стирка, бельё",
+    "level": "B1",
+    "category": "home",
+    "example": "I do the laundry on Sundays."
+  },
+  {
+    "id": 495,
+    "english": "housework",
+    "russian": "работа по дому",
+    "level": "B1",
+    "category": "home",
+    "example": "We share the housework."
+  },
+  {
+    "id": 496,
+    "english": "chore",
+    "russian": "домашнее дело",
+    "level": "B1",
+    "category": "home",
+    "example": "Washing dishes is my chore."
+  },
+  {
+    "id": 497,
+    "english": "appliance",
+    "russian": "бытовой прибор",
+    "level": "B1",
+    "category": "home",
+    "example": "The kitchen has many appliances."
+  },
+  {
+    "id": 498,
+    "english": "plumber",
+    "russian": "сантехник",
+    "level": "B1",
+    "category": "home",
+    "example": "We call a plumber."
+  },
+  {
+    "id": 499,
+    "english": "electrician",
+    "russian": "электрик",
+    "level": "B1",
+    "category": "home",
+    "example": "The electrician fixes the lights."
+  },
+  {
+    "id": 500,
+    "english": "tenant",
+    "russian": "жилец, арендатор",
+    "level": "B1",
+    "category": "home",
+    "example": "The tenant pays the rent on time."
+  }
+]

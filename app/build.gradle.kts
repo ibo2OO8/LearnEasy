@@ -1,6 +1,7 @@
 plugins {
     alias(libs.plugins.android.application)
     alias(libs.plugins.kotlin.compose)
+    kotlin("plugin.serialization") version "2.0.0"
 }
 
 android {
@@ -38,11 +39,16 @@ android {
 }
 
 dependencies {
-    implementation("androidx.navigation:navigation-compose:2.10.2")
-    implementation("androidx.compose.material:material-icons-extended:1.7.5")
+    implementation("io.insert-koin:koin-android:4.0.0")
+    implementation("io.insert-koin:koin-androidx-compose:4.0.0")
+
+    implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.11.0")
+    implementation(libs.androidx.navigation.compose)
+    implementation(libs.androidx.compose.material.icons.extended)
 
     implementation(platform(libs.androidx.compose.bom))
     implementation(libs.androidx.activity.compose)
+    implementation(libs.androidx.compose.foundation)
     implementation(libs.androidx.compose.material3)
     implementation(libs.androidx.compose.ui)
     implementation(libs.androidx.compose.ui.graphics)

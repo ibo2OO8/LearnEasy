@@ -1,0 +1,4002 @@
+[
+  {
+    "id": 1,
+    "english": "abandon",
+    "russian": "покидать, бросать",
+    "level": "B2",
+    "category": "verbs",
+    "example": "They abandon the old house."
+  },
+  {
+    "id": 2,
+    "english": "absorb",
+    "russian": "поглощать",
+    "level": "B2",
+    "category": "verbs",
+    "example": "Plants absorb water through their roots."
+  },
+  {
+    "id": 3,
+    "english": "accompany",
+    "russian": "сопровождать",
+    "level": "B2",
+    "category": "verbs",
+    "example": "I accompany her to the airport."
+  },
+  {
+    "id": 4,
+    "english": "accumulate",
+    "russian": "накапливать",
+    "level": "B2",
+    "category": "verbs",
+    "example": "Dust accumulates on the shelves."
+  },
+  {
+    "id": 5,
+    "english": "acknowledge",
+    "russian": "признавать",
+    "level": "B2",
+    "category": "verbs",
+    "example": "He acknowledges his mistake."
+  },
+  {
+    "id": 6,
+    "english": "acquire",
+    "russian": "приобретать",
+    "level": "B2",
+    "category": "verbs",
+    "example": "She acquires new skills quickly."
+  },
+  {
+    "id": 7,
+    "english": "adapt",
+    "russian": "приспосабливаться",
+    "level": "B2",
+    "category": "verbs",
+    "example": "We must adapt to the new situation."
+  },
+  {
+    "id": 8,
+    "english": "adjust",
+    "russian": "регулировать, подстраиваться",
+    "level": "B2",
+    "category": "verbs",
+    "example": "Adjust the seat before driving."
+  },
+  {
+    "id": 9,
+    "english": "advocate",
+    "russian": "выступать за",
+    "level": "B2",
+    "category": "verbs",
+    "example": "She advocates for children's rights."
+  },
+  {
+    "id": 10,
+    "english": "allocate",
+    "russian": "выделять, распределять",
+    "level": "B2",
+    "category": "verbs",
+    "example": "The school allocates funds for books."
+  },
+  {
+    "id": 11,
+    "english": "alter",
+    "russian": "изменять",
+    "level": "B2",
+    "category": "verbs",
+    "example": "They alter the plan at the last minute."
+  },
+  {
+    "id": 12,
+    "english": "analyze",
+    "russian": "анализировать",
+    "level": "B2",
+    "category": "verbs",
+    "example": "Scientists analyze the data."
+  },
+  {
+    "id": 13,
+    "english": "anticipate",
+    "russian": "предвидеть, ожидать",
+    "level": "B2",
+    "category": "verbs",
+    "example": "We anticipate heavy traffic."
+  },
+  {
+    "id": 14,
+    "english": "assess",
+    "russian": "оценивать",
+    "level": "B2",
+    "category": "verbs",
+    "example": "Teachers assess students' progress."
+  },
+  {
+    "id": 15,
+    "english": "assign",
+    "russian": "назначать, поручать",
+    "level": "B2",
+    "category": "verbs",
+    "example": "The manager assigns tasks to the team."
+  },
+  {
+    "id": 16,
+    "english": "assume",
+    "russian": "предполагать",
+    "level": "B2",
+    "category": "verbs",
+    "example": "I assume you are free tomorrow."
+  },
+  {
+    "id": 17,
+    "english": "attain",
+    "russian": "достигать",
+    "level": "B2",
+    "category": "verbs",
+    "example": "She attains her goal after years of work."
+  },
+  {
+    "id": 18,
+    "english": "attribute",
+    "russian": "приписывать",
+    "level": "B2",
+    "category": "verbs",
+    "example": "He attributes his success to hard work."
+  },
+  {
+    "id": 19,
+    "english": "blame",
+    "russian": "винить",
+    "level": "B2",
+    "category": "verbs",
+    "example": "Don't blame me for this."
+  },
+  {
+    "id": 20,
+    "english": "boost",
+    "russian": "повышать, стимулировать",
+    "level": "B2",
+    "category": "verbs",
+    "example": "Exercise boosts your energy."
+  },
+  {
+    "id": 21,
+    "english": "breed",
+    "russian": "разводить",
+    "level": "B2",
+    "category": "verbs",
+    "example": "They breed horses on the farm."
+  },
+  {
+    "id": 22,
+    "english": "broaden",
+    "russian": "расширять",
+    "level": "B2",
+    "category": "verbs",
+    "example": "Travel broadens the mind."
+  },
+  {
+    "id": 23,
+    "english": "capture",
+    "russian": "захватывать, запечатлевать",
+    "level": "B2",
+    "category": "verbs",
+    "example": "The photo captures the moment."
+  },
+  {
+    "id": 24,
+    "english": "cease",
+    "russian": "прекращать",
+    "level": "B2",
+    "category": "verbs",
+    "example": "The noise ceases at midnight."
+  },
+  {
+    "id": 25,
+    "english": "circulate",
+    "russian": "циркулировать",
+    "level": "B2",
+    "category": "verbs",
+    "example": "Blood circulates through the body."
+  },
+  {
+    "id": 26,
+    "english": "clarify",
+    "russian": "прояснять",
+    "level": "B2",
+    "category": "verbs",
+    "example": "Can you clarify your question?"
+  },
+  {
+    "id": 27,
+    "english": "collapse",
+    "russian": "рушиться",
+    "level": "B2",
+    "category": "verbs",
+    "example": "The old bridge collapses."
+  },
+  {
+    "id": 28,
+    "english": "combine",
+    "russian": "объединять",
+    "level": "B2",
+    "category": "verbs",
+    "example": "Combine the flour and sugar."
+  },
+  {
+    "id": 29,
+    "english": "commit",
+    "russian": "совершать, обязываться",
+    "level": "B2",
+    "category": "verbs",
+    "example": "He commits to finishing the project."
+  },
+  {
+    "id": 30,
+    "english": "compensate",
+    "russian": "компенсировать",
+    "level": "B2",
+    "category": "verbs",
+    "example": "The company compensates the workers."
+  },
+  {
+    "id": 31,
+    "english": "compile",
+    "russian": "составлять",
+    "level": "B2",
+    "category": "verbs",
+    "example": "She compiles a list of names."
+  },
+  {
+    "id": 32,
+    "english": "comply",
+    "russian": "соблюдать, подчиняться",
+    "level": "B2",
+    "category": "verbs",
+    "example": "All drivers must comply with the law."
+  },
+  {
+    "id": 33,
+    "english": "conceal",
+    "russian": "скрывать",
+    "level": "B2",
+    "category": "verbs",
+    "example": "He conceals his feelings."
+  },
+  {
+    "id": 34,
+    "english": "conclude",
+    "russian": "заключать, делать вывод",
+    "level": "B2",
+    "category": "verbs",
+    "example": "We conclude that the plan is good."
+  },
+  {
+    "id": 35,
+    "english": "conduct",
+    "russian": "проводить, руководить",
+    "level": "B2",
+    "category": "verbs",
+    "example": "They conduct an experiment."
+  },
+  {
+    "id": 36,
+    "english": "confess",
+    "russian": "признаваться",
+    "level": "B2",
+    "category": "verbs",
+    "example": "He confesses to the crime."
+  },
+  {
+    "id": 37,
+    "english": "confirm",
+    "russian": "подтверждать",
+    "level": "B2",
+    "category": "verbs",
+    "example": "Please confirm your reservation."
+  },
+  {
+    "id": 38,
+    "english": "confront",
+    "russian": "сталкиваться, противостоять",
+    "level": "B2",
+    "category": "verbs",
+    "example": "She confronts her fear."
+  },
+  {
+    "id": 39,
+    "english": "consume",
+    "russian": "потреблять",
+    "level": "B2",
+    "category": "verbs",
+    "example": "The car consumes a lot of fuel."
+  },
+  {
+    "id": 40,
+    "english": "contribute",
+    "russian": "вносить вклад",
+    "level": "B2",
+    "category": "verbs",
+    "example": "Everyone contributes to the project."
+  },
+  {
+    "id": 41,
+    "english": "convert",
+    "russian": "преобразовывать",
+    "level": "B2",
+    "category": "verbs",
+    "example": "Convert the file to PDF."
+  },
+  {
+    "id": 42,
+    "english": "cope",
+    "russian": "справляться",
+    "level": "B2",
+    "category": "verbs",
+    "example": "She copes well with stress."
+  },
+  {
+    "id": 43,
+    "english": "correspond",
+    "russian": "соответствовать, переписываться",
+    "level": "B2",
+    "category": "verbs",
+    "example": "The two stories correspond."
+  },
+  {
+    "id": 44,
+    "english": "criticize",
+    "russian": "критиковать",
+    "level": "B2",
+    "category": "verbs",
+    "example": "Don't criticize your friends."
+  },
+  {
+    "id": 45,
+    "english": "cultivate",
+    "russian": "культивировать, выращивать",
+    "level": "B2",
+    "category": "verbs",
+    "example": "Farmers cultivate wheat here."
+  },
+  {
+    "id": 46,
+    "english": "decline",
+    "russian": "снижаться, отклонять",
+    "level": "B2",
+    "category": "verbs",
+    "example": "The number of visitors declines."
+  },
+  {
+    "id": 47,
+    "english": "dedicate",
+    "russian": "посвящать",
+    "level": "B2",
+    "category": "verbs",
+    "example": "He dedicates his life to science."
+  },
+  {
+    "id": 48,
+    "english": "define",
+    "russian": "определять",
+    "level": "B2",
+    "category": "verbs",
+    "example": "Define the word in your own words."
+  },
+  {
+    "id": 49,
+    "english": "demonstrate",
+    "russian": "демонстрировать",
+    "level": "B2",
+    "category": "verbs",
+    "example": "The teacher demonstrates the experiment."
+  },
+  {
+    "id": 50,
+    "english": "deny",
+    "russian": "отрицать",
+    "level": "B2",
+    "category": "verbs",
+    "example": "He denies everything."
+  },
+  {
+    "id": 51,
+    "english": "depict",
+    "russian": "изображать",
+    "level": "B2",
+    "category": "verbs",
+    "example": "The painting depicts a village."
+  },
+  {
+    "id": 52,
+    "english": "derive",
+    "russian": "происходить, извлекать",
+    "level": "B2",
+    "category": "verbs",
+    "example": "The word derives from Latin."
+  },
+  {
+    "id": 53,
+    "english": "detect",
+    "russian": "обнаруживать",
+    "level": "B2",
+    "category": "verbs",
+    "example": "The machine detects smoke."
+  },
+  {
+    "id": 54,
+    "english": "determine",
+    "russian": "определять",
+    "level": "B2",
+    "category": "verbs",
+    "example": "Tests determine the cause."
+  },
+  {
+    "id": 55,
+    "english": "devote",
+    "russian": "посвящать",
+    "level": "B2",
+    "category": "verbs",
+    "example": "She devotes her time to art."
+  },
+  {
+    "id": 56,
+    "english": "diminish",
+    "russian": "уменьшать",
+    "level": "B2",
+    "category": "verbs",
+    "example": "The pain diminishes slowly."
+  },
+  {
+    "id": 57,
+    "english": "disclose",
+    "russian": "раскрывать",
+    "level": "B2",
+    "category": "verbs",
+    "example": "The company disclosed the results."
+  },
+  {
+    "id": 58,
+    "english": "discourage",
+    "russian": "отговаривать",
+    "level": "B2",
+    "category": "verbs",
+    "example": "Don't let failure discourage you."
+  },
+  {
+    "id": 59,
+    "english": "dismiss",
+    "russian": "увольнять, отвергать",
+    "level": "B2",
+    "category": "verbs",
+    "example": "They dismiss the idea."
+  },
+  {
+    "id": 60,
+    "english": "display",
+    "russian": "выставлять, показывать",
+    "level": "B2",
+    "category": "verbs",
+    "example": "The shop displays new clothes."
+  },
+  {
+    "id": 61,
+    "english": "dispose",
+    "russian": "избавляться",
+    "level": "B2",
+    "category": "verbs",
+    "example": "Dispose of waste properly."
+  },
+  {
+    "id": 62,
+    "english": "distinguish",
+    "russian": "различать",
+    "level": "B2",
+    "category": "verbs",
+    "example": "I can't distinguish the twins."
+  },
+  {
+    "id": 63,
+    "english": "distribute",
+    "russian": "распределять",
+    "level": "B2",
+    "category": "verbs",
+    "example": "They distribute food to the poor."
+  },
+  {
+    "id": 64,
+    "english": "disturb",
+    "russian": "беспокоить, нарушать",
+    "level": "B2",
+    "category": "verbs",
+    "example": "Do not disturb."
+  },
+  {
+    "id": 65,
+    "english": "dominate",
+    "russian": "доминировать",
+    "level": "B2",
+    "category": "verbs",
+    "example": "One team dominates the league."
+  },
+  {
+    "id": 66,
+    "english": "drain",
+    "russian": "осушать, истощать",
+    "level": "B2",
+    "category": "verbs",
+    "example": "The long trip drains my energy."
+  },
+  {
+    "id": 67,
+    "english": "eliminate",
+    "russian": "устранять",
+    "level": "B2",
+    "category": "verbs",
+    "example": "We must eliminate waste."
+  },
+  {
+    "id": 68,
+    "english": "embrace",
+    "russian": "принимать, обнимать",
+    "level": "B2",
+    "category": "verbs",
+    "example": "They embrace new ideas."
+  },
+  {
+    "id": 69,
+    "english": "emerge",
+    "russian": "появляться",
+    "level": "B2",
+    "category": "verbs",
+    "example": "A new leader emerges."
+  },
+  {
+    "id": 70,
+    "english": "emphasize",
+    "russian": "подчёркивать",
+    "level": "B2",
+    "category": "verbs",
+    "example": "The teacher emphasizes accuracy."
+  },
+  {
+    "id": 71,
+    "english": "enable",
+    "russian": "позволять, давать возможность",
+    "level": "B2",
+    "category": "verbs",
+    "example": "The app enables you to pay online."
+  },
+  {
+    "id": 72,
+    "english": "enforce",
+    "russian": "обеспечивать соблюдение",
+    "level": "B2",
+    "category": "verbs",
+    "example": "The police enforce the law."
+  },
+  {
+    "id": 73,
+    "english": "engage",
+    "russian": "вовлекать",
+    "level": "B2",
+    "category": "verbs",
+    "example": "The teacher engages the students."
+  },
+  {
+    "id": 74,
+    "english": "enhance",
+    "russian": "улучшать, усиливать",
+    "level": "B2",
+    "category": "verbs",
+    "example": "Music enhances the mood."
+  },
+  {
+    "id": 75,
+    "english": "ensure",
+    "russian": "обеспечивать, гарантировать",
+    "level": "B2",
+    "category": "verbs",
+    "example": "Ensure the door is locked."
+  },
+  {
+    "id": 76,
+    "english": "establish",
+    "russian": "основывать, устанавливать",
+    "level": "B2",
+    "category": "verbs",
+    "example": "They establish a new company."
+  },
+  {
+    "id": 77,
+    "english": "estimate",
+    "russian": "оценивать",
+    "level": "B2",
+    "category": "verbs",
+    "example": "I estimate the cost at ten thousand."
+  },
+  {
+    "id": 78,
+    "english": "evaluate",
+    "russian": "оценивать",
+    "level": "B2",
+    "category": "verbs",
+    "example": "We evaluate each candidate."
+  },
+  {
+    "id": 79,
+    "english": "evolve",
+    "russian": "развиваться, эволюционировать",
+    "level": "B2",
+    "category": "verbs",
+    "example": "Languages evolve over time."
+  },
+  {
+    "id": 80,
+    "english": "exaggerate",
+    "russian": "преувеличивать",
+    "level": "B2",
+    "category": "verbs",
+    "example": "Don't exaggerate the problem."
+  },
+  {
+    "id": 81,
+    "english": "exceed",
+    "russian": "превышать",
+    "level": "B2",
+    "category": "verbs",
+    "example": "Do not exceed the speed limit."
+  },
+  {
+    "id": 82,
+    "english": "exclude",
+    "russian": "исключать",
+    "level": "B2",
+    "category": "verbs",
+    "example": "The price excludes tax."
+  },
+  {
+    "id": 83,
+    "english": "exhibit",
+    "russian": "экспонировать",
+    "level": "B2",
+    "category": "verbs",
+    "example": "The museum exhibits ancient coins."
+  },
+  {
+    "id": 84,
+    "english": "expand",
+    "russian": "расширять",
+    "level": "B2",
+    "category": "verbs",
+    "example": "The company expands abroad."
+  },
+  {
+    "id": 85,
+    "english": "exploit",
+    "russian": "эксплуатировать",
+    "level": "B2",
+    "category": "verbs",
+    "example": "Don't exploit your workers."
+  },
+  {
+    "id": 86,
+    "english": "explore",
+    "russian": "исследовать",
+    "level": "B2",
+    "category": "verbs",
+    "example": "We explore the old town."
+  },
+  {
+    "id": 87,
+    "english": "expose",
+    "russian": "разоблачать, подвергать",
+    "level": "B2",
+    "category": "verbs",
+    "example": "The report exposes the truth."
+  },
+  {
+    "id": 88,
+    "english": "extend",
+    "russian": "продлевать, расширять",
+    "level": "B2",
+    "category": "verbs",
+    "example": "They extend the deadline."
+  },
+  {
+    "id": 89,
+    "english": "extract",
+    "russian": "извлекать",
+    "level": "B2",
+    "category": "verbs",
+    "example": "Extract the key points from the text."
+  },
+  {
+    "id": 90,
+    "english": "facilitate",
+    "russian": "облегчать, содействовать",
+    "level": "B2",
+    "category": "verbs",
+    "example": "The app facilitates communication."
+  },
+  {
+    "id": 91,
+    "english": "flee",
+    "russian": "бежать",
+    "level": "B2",
+    "category": "verbs",
+    "example": "People flee from the fire."
+  },
+  {
+    "id": 92,
+    "english": "fulfil",
+    "russian": "выполнять, осуществлять",
+    "level": "B2",
+    "category": "verbs",
+    "example": "She fulfils her dream."
+  },
+  {
+    "id": 93,
+    "english": "generate",
+    "russian": "порождать, вырабатывать",
+    "level": "B2",
+    "category": "verbs",
+    "example": "The sun generates heat."
+  },
+  {
+    "id": 94,
+    "english": "grant",
+    "russian": "предоставлять",
+    "level": "B2",
+    "category": "verbs",
+    "example": "They grant him permission."
+  },
+  {
+    "id": 95,
+    "english": "guarantee",
+    "russian": "гарантировать",
+    "level": "B2",
+    "category": "verbs",
+    "example": "We guarantee quality."
+  },
+  {
+    "id": 96,
+    "english": "hint",
+    "russian": "намекать",
+    "level": "B2",
+    "category": "verbs",
+    "example": "She hints that she is unhappy."
+  },
+  {
+    "id": 97,
+    "english": "highlight",
+    "russian": "выделять, подчёркивать",
+    "level": "B2",
+    "category": "verbs",
+    "example": "Highlight the important words."
+  },
+  {
+    "id": 98,
+    "english": "identify",
+    "russian": "идентифицировать",
+    "level": "B2",
+    "category": "verbs",
+    "example": "Can you identify the problem?"
+  },
+  {
+    "id": 99,
+    "english": "illustrate",
+    "russian": "иллюстрировать",
+    "level": "B2",
+    "category": "verbs",
+    "example": "The graph illustrates the trend."
+  },
+  {
+    "id": 100,
+    "english": "imply",
+    "russian": "подразумевать",
+    "level": "B2",
+    "category": "verbs",
+    "example": "What do you imply?"
+  },
+  {
+    "id": 101,
+    "english": "impose",
+    "russian": "навязывать, вводить",
+    "level": "B2",
+    "category": "verbs",
+    "example": "The government imposes a new tax."
+  },
+  {
+    "id": 102,
+    "english": "indicate",
+    "russian": "указывать",
+    "level": "B2",
+    "category": "verbs",
+    "example": "The sign indicates the exit."
+  },
+  {
+    "id": 103,
+    "english": "inherit",
+    "russian": "наследовать",
+    "level": "B2",
+    "category": "verbs",
+    "example": "She inherits a small house."
+  },
+  {
+    "id": 104,
+    "english": "initiate",
+    "russian": "инициировать",
+    "level": "B2",
+    "category": "verbs",
+    "example": "He initiates the discussion."
+  },
+  {
+    "id": 105,
+    "english": "inspire",
+    "russian": "вдохновлять",
+    "level": "B2",
+    "category": "verbs",
+    "example": "Her story inspires me."
+  },
+  {
+    "id": 106,
+    "english": "install",
+    "russian": "устанавливать",
+    "level": "B2",
+    "category": "verbs",
+    "example": "I install a new program."
+  },
+  {
+    "id": 107,
+    "english": "integrate",
+    "russian": "интегрировать",
+    "level": "B2",
+    "category": "verbs",
+    "example": "Immigrants integrate into society."
+  },
+  {
+    "id": 108,
+    "english": "intend",
+    "russian": "намереваться",
+    "level": "B2",
+    "category": "verbs",
+    "example": "I intend to study abroad."
+  },
+  {
+    "id": 109,
+    "english": "interpret",
+    "russian": "толковать, переводить устно",
+    "level": "B2",
+    "category": "verbs",
+    "example": "She interprets for the guests."
+  },
+  {
+    "id": 110,
+    "english": "interrupt",
+    "russian": "прерывать",
+    "level": "B2",
+    "category": "verbs",
+    "example": "Don't interrupt me."
+  },
+  {
+    "id": 111,
+    "english": "invest",
+    "russian": "инвестировать",
+    "level": "B2",
+    "category": "verbs",
+    "example": "They invest in new technology."
+  },
+  {
+    "id": 112,
+    "english": "investigate",
+    "russian": "расследовать",
+    "level": "B2",
+    "category": "verbs",
+    "example": "The police investigate the case."
+  },
+  {
+    "id": 113,
+    "english": "isolate",
+    "russian": "изолировать",
+    "level": "B2",
+    "category": "verbs",
+    "example": "Isolate the sick patients."
+  },
+  {
+    "id": 114,
+    "english": "justify",
+    "russian": "оправдывать",
+    "level": "B2",
+    "category": "verbs",
+    "example": "Nothing justifies violence."
+  },
+  {
+    "id": 115,
+    "english": "launch",
+    "russian": "запускать",
+    "level": "B2",
+    "category": "verbs",
+    "example": "They launch a new product."
+  },
+  {
+    "id": 116,
+    "english": "lean",
+    "russian": "наклоняться, опираться",
+    "level": "B2",
+    "category": "verbs",
+    "example": "He leans on the wall."
+  },
+  {
+    "id": 117,
+    "english": "maintain",
+    "russian": "поддерживать, содержать",
+    "level": "B2",
+    "category": "verbs",
+    "example": "We maintain good relations."
+  },
+  {
+    "id": 118,
+    "english": "manipulate",
+    "russian": "манипулировать",
+    "level": "B2",
+    "category": "verbs",
+    "example": "Advertisers manipulate our choices."
+  },
+  {
+    "id": 119,
+    "english": "neglect",
+    "russian": "пренебрегать",
+    "level": "B2",
+    "category": "verbs",
+    "example": "Don't neglect your health."
+  },
+  {
+    "id": 120,
+    "english": "negotiate",
+    "russian": "вести переговоры",
+    "level": "B2",
+    "category": "verbs",
+    "example": "They negotiate a better price."
+  },
+  {
+    "id": 121,
+    "english": "obtain",
+    "russian": "получать, добывать",
+    "level": "B2",
+    "category": "verbs",
+    "example": "You can obtain a visa online."
+  },
+  {
+    "id": 122,
+    "english": "oblige",
+    "russian": "обязывать",
+    "level": "B2",
+    "category": "verbs",
+    "example": "The law obliges us to pay tax."
+  },
+  {
+    "id": 123,
+    "english": "overcome",
+    "russian": "преодолевать",
+    "level": "B2",
+    "category": "verbs",
+    "example": "She overcomes many difficulties."
+  },
+  {
+    "id": 124,
+    "english": "overlook",
+    "russian": "упускать из виду",
+    "level": "B2",
+    "category": "verbs",
+    "example": "I overlook a small detail."
+  },
+  {
+    "id": 125,
+    "english": "owe",
+    "russian": "быть должным",
+    "level": "B2",
+    "category": "verbs",
+    "example": "I owe you ten dollars."
+  },
+  {
+    "id": 126,
+    "english": "perceive",
+    "russian": "воспринимать",
+    "level": "B2",
+    "category": "verbs",
+    "example": "People perceive him as shy."
+  },
+  {
+    "id": 127,
+    "english": "pursue",
+    "russian": "преследовать, добиваться",
+    "level": "B2",
+    "category": "verbs",
+    "example": "She pursues a career in law."
+  },
+  {
+    "id": 128,
+    "english": "accuracy",
+    "russian": "точность",
+    "level": "B2",
+    "category": "abstract",
+    "example": "The accuracy of the data is high."
+  },
+  {
+    "id": 129,
+    "english": "administration",
+    "russian": "администрация, управление",
+    "level": "B2",
+    "category": "abstract",
+    "example": "The administration announces new rules."
+  },
+  {
+    "id": 130,
+    "english": "agenda",
+    "russian": "повестка дня",
+    "level": "B2",
+    "category": "abstract",
+    "example": "What is on the agenda today?"
+  },
+  {
+    "id": 131,
+    "english": "alliance",
+    "russian": "союз",
+    "level": "B2",
+    "category": "abstract",
+    "example": "The two countries form an alliance."
+  },
+  {
+    "id": 132,
+    "english": "alternative",
+    "russian": "альтернатива",
+    "level": "B2",
+    "category": "abstract",
+    "example": "We need an alternative plan."
+  },
+  {
+    "id": 133,
+    "english": "analysis",
+    "russian": "анализ",
+    "level": "B2",
+    "category": "abstract",
+    "example": "The analysis shows a clear result."
+  },
+  {
+    "id": 134,
+    "english": "anxiety",
+    "russian": "тревога",
+    "level": "B2",
+    "category": "abstract",
+    "example": "He feels anxiety before exams."
+  },
+  {
+    "id": 135,
+    "english": "approach",
+    "russian": "подход",
+    "level": "B2",
+    "category": "abstract",
+    "example": "We need a new approach."
+  },
+  {
+    "id": 136,
+    "english": "assembly",
+    "russian": "собрание",
+    "level": "B2",
+    "category": "abstract",
+    "example": "The school holds an assembly."
+  },
+  {
+    "id": 137,
+    "english": "assistance",
+    "russian": "помощь",
+    "level": "B2",
+    "category": "abstract",
+    "example": "Thank you for your assistance."
+  },
+  {
+    "id": 138,
+    "english": "assumption",
+    "russian": "предположение",
+    "level": "B2",
+    "category": "abstract",
+    "example": "This is just an assumption."
+  },
+  {
+    "id": 139,
+    "english": "awareness",
+    "russian": "осведомлённость",
+    "level": "B2",
+    "category": "abstract",
+    "example": "There is growing awareness of the problem."
+  },
+  {
+    "id": 140,
+    "english": "barrier",
+    "russian": "барьер",
+    "level": "B2",
+    "category": "abstract",
+    "example": "Language is a barrier."
+  },
+  {
+    "id": 141,
+    "english": "bias",
+    "russian": "предвзятость",
+    "level": "B2",
+    "category": "abstract",
+    "example": "The article shows a clear bias."
+  },
+  {
+    "id": 142,
+    "english": "boundary",
+    "russian": "граница",
+    "level": "B2",
+    "category": "abstract",
+    "example": "This fence marks the boundary."
+  },
+  {
+    "id": 143,
+    "english": "breakthrough",
+    "russian": "прорыв",
+    "level": "B2",
+    "category": "abstract",
+    "example": "Scientists make a breakthrough."
+  },
+  {
+    "id": 144,
+    "english": "burden",
+    "russian": "бремя",
+    "level": "B2",
+    "category": "abstract",
+    "example": "Debt is a heavy burden."
+  },
+  {
+    "id": 145,
+    "english": "capacity",
+    "russian": "вместимость, способность",
+    "level": "B2",
+    "category": "abstract",
+    "example": "The hall has a capacity of 500."
+  },
+  {
+    "id": 146,
+    "english": "category",
+    "russian": "категория",
+    "level": "B2",
+    "category": "abstract",
+    "example": "Choose a category."
+  },
+  {
+    "id": 147,
+    "english": "ceremony",
+    "russian": "церемония",
+    "level": "B2",
+    "category": "abstract",
+    "example": "The wedding ceremony is short."
+  },
+  {
+    "id": 148,
+    "english": "circumstance",
+    "russian": "обстоятельство",
+    "level": "B2",
+    "category": "abstract",
+    "example": "Under these circumstances, we wait."
+  },
+  {
+    "id": 149,
+    "english": "clue",
+    "russian": "подсказка, улика",
+    "level": "B2",
+    "category": "abstract",
+    "example": "The police find a clue."
+  },
+  {
+    "id": 150,
+    "english": "coalition",
+    "russian": "коалиция",
+    "level": "B2",
+    "category": "abstract",
+    "example": "Three parties form a coalition."
+  },
+  {
+    "id": 151,
+    "english": "commitment",
+    "russian": "обязательство",
+    "level": "B2",
+    "category": "abstract",
+    "example": "He shows a strong commitment."
+  },
+  {
+    "id": 152,
+    "english": "compassion",
+    "russian": "сострадание",
+    "level": "B2",
+    "category": "abstract",
+    "example": "She shows great compassion."
+  },
+  {
+    "id": 153,
+    "english": "complaint",
+    "russian": "жалоба",
+    "level": "B2",
+    "category": "abstract",
+    "example": "I make a complaint about the service."
+  },
+  {
+    "id": 154,
+    "english": "component",
+    "russian": "компонент",
+    "level": "B2",
+    "category": "abstract",
+    "example": "Each component is tested."
+  },
+  {
+    "id": 155,
+    "english": "concept",
+    "russian": "концепция",
+    "level": "B2",
+    "category": "abstract",
+    "example": "It is a simple concept."
+  },
+  {
+    "id": 156,
+    "english": "concern",
+    "russian": "забота, беспокойство",
+    "level": "B2",
+    "category": "abstract",
+    "example": "There is concern about prices."
+  },
+  {
+    "id": 157,
+    "english": "consensus",
+    "russian": "консенсус",
+    "level": "B2",
+    "category": "abstract",
+    "example": "They reach a consensus."
+  },
+  {
+    "id": 158,
+    "english": "consumer",
+    "russian": "потребитель",
+    "level": "B2",
+    "category": "abstract",
+    "example": "Consumers want lower prices."
+  },
+  {
+    "id": 159,
+    "english": "context",
+    "russian": "контекст",
+    "level": "B2",
+    "category": "abstract",
+    "example": "You must read the word in context."
+  },
+  {
+    "id": 160,
+    "english": "contrast",
+    "russian": "контраст",
+    "level": "B2",
+    "category": "abstract",
+    "example": "There is a clear contrast between them."
+  },
+  {
+    "id": 161,
+    "english": "controversy",
+    "russian": "спор, полемика",
+    "level": "B2",
+    "category": "abstract",
+    "example": "The film causes controversy."
+  },
+  {
+    "id": 162,
+    "english": "convention",
+    "russian": "условность, съезд",
+    "level": "B2",
+    "category": "abstract",
+    "example": "It is a social convention."
+  },
+  {
+    "id": 163,
+    "english": "corruption",
+    "russian": "коррупция",
+    "level": "B2",
+    "category": "abstract",
+    "example": "Corruption harms the country."
+  },
+  {
+    "id": 164,
+    "english": "creature",
+    "russian": "существо",
+    "level": "B2",
+    "category": "abstract",
+    "example": "Sea creatures live in the deep ocean."
+  },
+  {
+    "id": 165,
+    "english": "crisis",
+    "russian": "кризис",
+    "level": "B2",
+    "category": "abstract",
+    "example": "The country is in a crisis."
+  },
+  {
+    "id": 166,
+    "english": "criterion",
+    "russian": "критерий",
+    "level": "B2",
+    "category": "abstract",
+    "example": "What is the main criterion?"
+  },
+  {
+    "id": 167,
+    "english": "critic",
+    "russian": "критик",
+    "level": "B2",
+    "category": "abstract",
+    "example": "The critic praises the film."
+  },
+  {
+    "id": 168,
+    "english": "currency",
+    "russian": "валюта",
+    "level": "B2",
+    "category": "abstract",
+    "example": "What is the local currency?"
+  },
+  {
+    "id": 169,
+    "english": "curriculum",
+    "russian": "учебная программа",
+    "level": "B2",
+    "category": "abstract",
+    "example": "The school changes its curriculum."
+  },
+  {
+    "id": 170,
+    "english": "dilemma",
+    "russian": "дилемма",
+    "level": "B2",
+    "category": "abstract",
+    "example": "He is in a dilemma."
+  },
+  {
+    "id": 171,
+    "english": "dimension",
+    "russian": "измерение",
+    "level": "B2",
+    "category": "abstract",
+    "example": "The room has odd dimensions."
+  },
+  {
+    "id": 172,
+    "english": "discipline",
+    "russian": "дисциплина",
+    "level": "B2",
+    "category": "abstract",
+    "example": "Good students need discipline."
+  },
+  {
+    "id": 173,
+    "english": "discrimination",
+    "russian": "дискриминация",
+    "level": "B2",
+    "category": "abstract",
+    "example": "Discrimination is illegal."
+  },
+  {
+    "id": 174,
+    "english": "disorder",
+    "russian": "беспорядок, расстройство",
+    "level": "B2",
+    "category": "abstract",
+    "example": "The room is in total disorder."
+  },
+  {
+    "id": 175,
+    "english": "diversity",
+    "russian": "разнообразие",
+    "level": "B2",
+    "category": "abstract",
+    "example": "The city celebrates diversity."
+  },
+  {
+    "id": 176,
+    "english": "domain",
+    "russian": "область, сфера",
+    "level": "B2",
+    "category": "abstract",
+    "example": "This is his domain of expertise."
+  },
+  {
+    "id": 177,
+    "english": "dynamics",
+    "russian": "динамика",
+    "level": "B2",
+    "category": "abstract",
+    "example": "Group dynamics are important."
+  },
+  {
+    "id": 178,
+    "english": "elite",
+    "russian": "элита",
+    "level": "B2",
+    "category": "abstract",
+    "example": "Only the elite can enter."
+  },
+  {
+    "id": 179,
+    "english": "empire",
+    "russian": "империя",
+    "level": "B2",
+    "category": "abstract",
+    "example": "The Roman Empire was huge."
+  },
+  {
+    "id": 180,
+    "english": "enthusiasm",
+    "russian": "энтузиазм",
+    "level": "B2",
+    "category": "abstract",
+    "example": "She shows great enthusiasm."
+  },
+  {
+    "id": 181,
+    "english": "entity",
+    "russian": "сущность",
+    "level": "B2",
+    "category": "abstract",
+    "example": "The company is a separate legal entity."
+  },
+  {
+    "id": 182,
+    "english": "era",
+    "russian": "эпоха",
+    "level": "B2",
+    "category": "abstract",
+    "example": "We live in the digital era."
+  },
+  {
+    "id": 183,
+    "english": "essence",
+    "russian": "суть",
+    "level": "B2",
+    "category": "abstract",
+    "example": "The essence of the story is love."
+  },
+  {
+    "id": 184,
+    "english": "ethics",
+    "russian": "этика",
+    "level": "B2",
+    "category": "abstract",
+    "example": "He studies medical ethics."
+  },
+  {
+    "id": 185,
+    "english": "evolution",
+    "russian": "эволюция",
+    "level": "B2",
+    "category": "abstract",
+    "example": "Evolution takes millions of years."
+  },
+  {
+    "id": 186,
+    "english": "exception",
+    "russian": "исключение",
+    "level": "B2",
+    "category": "abstract",
+    "example": "There is an exception to every rule."
+  },
+  {
+    "id": 187,
+    "english": "exchange",
+    "russian": "обмен",
+    "level": "B2",
+    "category": "abstract",
+    "example": "They have a student exchange."
+  },
+  {
+    "id": 188,
+    "english": "exhibition",
+    "russian": "выставка",
+    "level": "B2",
+    "category": "abstract",
+    "example": "We visit an art exhibition."
+  },
+  {
+    "id": 189,
+    "english": "expansion",
+    "russian": "расширение",
+    "level": "B2",
+    "category": "abstract",
+    "example": "The company plans an expansion."
+  },
+  {
+    "id": 190,
+    "english": "exposure",
+    "russian": "воздействие, огласка",
+    "level": "B2",
+    "category": "abstract",
+    "example": "Too much exposure to the sun is bad."
+  },
+  {
+    "id": 191,
+    "english": "extent",
+    "russian": "степень, размер",
+    "level": "B2",
+    "category": "abstract",
+    "example": "To some extent, I agree."
+  },
+  {
+    "id": 192,
+    "english": "faith",
+    "russian": "вера, доверие",
+    "level": "B2",
+    "category": "abstract",
+    "example": "I have faith in you."
+  },
+  {
+    "id": 193,
+    "english": "flaw",
+    "russian": "недостаток",
+    "level": "B2",
+    "category": "abstract",
+    "example": "The plan has a serious flaw."
+  },
+  {
+    "id": 194,
+    "english": "focus",
+    "russian": "фокус, сосредоточенность",
+    "level": "B2",
+    "category": "abstract",
+    "example": "The focus is on quality."
+  },
+  {
+    "id": 195,
+    "english": "formula",
+    "russian": "формула",
+    "level": "B2",
+    "category": "abstract",
+    "example": "Use this formula to calculate the area."
+  },
+  {
+    "id": 196,
+    "english": "foundation",
+    "russian": "основа, фонд",
+    "level": "B2",
+    "category": "abstract",
+    "example": "The foundation of the house is strong."
+  },
+  {
+    "id": 197,
+    "english": "fraction",
+    "russian": "дробь, доля",
+    "level": "B2",
+    "category": "abstract",
+    "example": "One half is a fraction."
+  },
+  {
+    "id": 198,
+    "english": "framework",
+    "russian": "структура, основа",
+    "level": "B2",
+    "category": "abstract",
+    "example": "We set up a legal framework."
+  },
+  {
+    "id": 199,
+    "english": "fund",
+    "russian": "фонд, средства",
+    "level": "B2",
+    "category": "abstract",
+    "example": "They raise a fund for the hospital."
+  },
+  {
+    "id": 200,
+    "english": "gap",
+    "russian": "разрыв, пробел",
+    "level": "B2",
+    "category": "abstract",
+    "example": "There is a gap in my knowledge."
+  },
+  {
+    "id": 201,
+    "english": "gender",
+    "russian": "пол (социальный)",
+    "level": "B2",
+    "category": "abstract",
+    "example": "Gender equality is important."
+  },
+  {
+    "id": 202,
+    "english": "genre",
+    "russian": "жанр",
+    "level": "B2",
+    "category": "abstract",
+    "example": "What is your favourite music genre?"
+  },
+  {
+    "id": 203,
+    "english": "glimpse",
+    "russian": "мимолётный взгляд",
+    "level": "B2",
+    "category": "abstract",
+    "example": "I catch a glimpse of the sea."
+  },
+  {
+    "id": 204,
+    "english": "grief",
+    "russian": "горе",
+    "level": "B2",
+    "category": "abstract",
+    "example": "She is in deep grief."
+  },
+  {
+    "id": 205,
+    "english": "guidance",
+    "russian": "руководство, наставление",
+    "level": "B2",
+    "category": "abstract",
+    "example": "He needs guidance from a teacher."
+  },
+  {
+    "id": 206,
+    "english": "hierarchy",
+    "russian": "иерархия",
+    "level": "B2",
+    "category": "abstract",
+    "example": "There is a clear hierarchy in the company."
+  },
+  {
+    "id": 207,
+    "english": "heritage",
+    "russian": "наследие",
+    "level": "B2",
+    "category": "abstract",
+    "example": "This is a world heritage site."
+  },
+  {
+    "id": 208,
+    "english": "hypothesis",
+    "russian": "гипотеза",
+    "level": "B2",
+    "category": "abstract",
+    "example": "The scientist tests a hypothesis."
+  },
+  {
+    "id": 209,
+    "english": "ideology",
+    "russian": "идеология",
+    "level": "B2",
+    "category": "abstract",
+    "example": "Each party has its own ideology."
+  },
+  {
+    "id": 210,
+    "english": "illusion",
+    "russian": "иллюзия",
+    "level": "B2",
+    "category": "abstract",
+    "example": "It is just an illusion."
+  },
+  {
+    "id": 211,
+    "english": "implication",
+    "russian": "следствие, подтекст",
+    "level": "B2",
+    "category": "abstract",
+    "example": "The implications are serious."
+  },
+  {
+    "id": 212,
+    "english": "incentive",
+    "russian": "стимул",
+    "level": "B2",
+    "category": "abstract",
+    "example": "Money is a strong incentive."
+  },
+  {
+    "id": 213,
+    "english": "incident",
+    "russian": "инцидент",
+    "level": "B2",
+    "category": "abstract",
+    "example": "The police report an incident."
+  },
+  {
+    "id": 214,
+    "english": "inflation",
+    "russian": "инфляция",
+    "level": "B2",
+    "category": "abstract",
+    "example": "Inflation raises prices."
+  },
+  {
+    "id": 215,
+    "english": "infrastructure",
+    "russian": "инфраструктура",
+    "level": "B2",
+    "category": "abstract",
+    "example": "The country improves its infrastructure."
+  },
+  {
+    "id": 216,
+    "english": "initiative",
+    "russian": "инициатива",
+    "level": "B2",
+    "category": "abstract",
+    "example": "She takes the initiative."
+  },
+  {
+    "id": 217,
+    "english": "inquiry",
+    "russian": "запрос, расследование",
+    "level": "B2",
+    "category": "abstract",
+    "example": "I make an inquiry about the course."
+  },
+  {
+    "id": 218,
+    "english": "insight",
+    "russian": "проницательность, понимание",
+    "level": "B2",
+    "category": "abstract",
+    "example": "The book gives a deep insight."
+  },
+  {
+    "id": 219,
+    "english": "inspiration",
+    "russian": "вдохновение",
+    "level": "B2",
+    "category": "abstract",
+    "example": "Nature is her inspiration."
+  },
+  {
+    "id": 220,
+    "english": "institution",
+    "russian": "учреждение",
+    "level": "B2",
+    "category": "abstract",
+    "example": "The bank is a financial institution."
+  },
+  {
+    "id": 221,
+    "english": "intelligence",
+    "russian": "интеллект, разведка",
+    "level": "B2",
+    "category": "abstract",
+    "example": "Artificial intelligence is growing."
+  },
+  {
+    "id": 222,
+    "english": "interaction",
+    "russian": "взаимодействие",
+    "level": "B2",
+    "category": "abstract",
+    "example": "Social interaction is important."
+  },
+  {
+    "id": 223,
+    "english": "intention",
+    "russian": "намерение",
+    "level": "B2",
+    "category": "abstract",
+    "example": "It was not my intention."
+  },
+  {
+    "id": 224,
+    "english": "irony",
+    "russian": "ирония",
+    "level": "B2",
+    "category": "abstract",
+    "example": "The irony is that he missed his own party."
+  },
+  {
+    "id": 225,
+    "english": "jury",
+    "russian": "присяжные, жюри",
+    "level": "B2",
+    "category": "abstract",
+    "example": "The jury reaches a verdict."
+  },
+  {
+    "id": 226,
+    "english": "landmark",
+    "russian": "достопримечательность",
+    "level": "B2",
+    "category": "abstract",
+    "example": "The tower is a famous landmark."
+  },
+  {
+    "id": 227,
+    "english": "legacy",
+    "russian": "наследие",
+    "level": "B2",
+    "category": "abstract",
+    "example": "He leaves a great legacy."
+  },
+  {
+    "id": 228,
+    "english": "legislation",
+    "russian": "законодательство",
+    "level": "B2",
+    "category": "abstract",
+    "example": "New legislation is coming."
+  },
+  {
+    "id": 229,
+    "english": "liability",
+    "russian": "ответственность, обязательство",
+    "level": "B2",
+    "category": "abstract",
+    "example": "The company accepts no liability."
+  },
+  {
+    "id": 230,
+    "english": "logic",
+    "russian": "логика",
+    "level": "B2",
+    "category": "abstract",
+    "example": "There is no logic in his words."
+  },
+  {
+    "id": 231,
+    "english": "loyalty",
+    "russian": "лояльность",
+    "level": "B2",
+    "category": "abstract",
+    "example": "Loyalty is important in friendship."
+  },
+  {
+    "id": 232,
+    "english": "mass",
+    "russian": "масса",
+    "level": "B2",
+    "category": "abstract",
+    "example": "A mass of people gathers."
+  },
+  {
+    "id": 233,
+    "english": "mechanism",
+    "russian": "механизм",
+    "level": "B2",
+    "category": "abstract",
+    "example": "The mechanism is simple."
+  },
+  {
+    "id": 234,
+    "english": "media",
+    "russian": "СМИ",
+    "level": "B2",
+    "category": "abstract",
+    "example": "The media report the news."
+  },
+  {
+    "id": 235,
+    "english": "mentality",
+    "russian": "менталитет",
+    "level": "B2",
+    "category": "abstract",
+    "example": "It is a winner's mentality."
+  },
+  {
+    "id": 236,
+    "english": "merit",
+    "russian": "достоинство",
+    "level": "B2",
+    "category": "abstract",
+    "example": "The idea has its merits."
+  },
+  {
+    "id": 237,
+    "english": "migration",
+    "russian": "миграция",
+    "level": "B2",
+    "category": "abstract",
+    "example": "Bird migration starts in autumn."
+  },
+  {
+    "id": 238,
+    "english": "mission",
+    "russian": "миссия",
+    "level": "B2",
+    "category": "abstract",
+    "example": "The mission is a success."
+  },
+  {
+    "id": 239,
+    "english": "motive",
+    "russian": "мотив",
+    "level": "B2",
+    "category": "abstract",
+    "example": "What is his motive?"
+  },
+  {
+    "id": 240,
+    "english": "narrative",
+    "russian": "повествование",
+    "level": "B2",
+    "category": "abstract",
+    "example": "The narrative is exciting."
+  },
+  {
+    "id": 241,
+    "english": "norm",
+    "russian": "норма",
+    "level": "B2",
+    "category": "abstract",
+    "example": "This is the social norm."
+  },
+  {
+    "id": 242,
+    "english": "notion",
+    "russian": "понятие",
+    "level": "B2",
+    "category": "abstract",
+    "example": "I have no notion what he means."
+  },
+  {
+    "id": 243,
+    "english": "obligation",
+    "russian": "обязательство",
+    "level": "B2",
+    "category": "abstract",
+    "example": "You have a legal obligation."
+  },
+  {
+    "id": 244,
+    "english": "obstacle",
+    "russian": "препятствие",
+    "level": "B2",
+    "category": "abstract",
+    "example": "Fear is the main obstacle."
+  },
+  {
+    "id": 245,
+    "english": "operation",
+    "russian": "операция, работа",
+    "level": "B2",
+    "category": "abstract",
+    "example": "The operation is a success."
+  },
+  {
+    "id": 246,
+    "english": "opponent",
+    "russian": "противник",
+    "level": "B2",
+    "category": "abstract",
+    "example": "He defeats his opponent."
+  },
+  {
+    "id": 247,
+    "english": "output",
+    "russian": "выпуск, продукция",
+    "level": "B2",
+    "category": "abstract",
+    "example": "The factory increases its output."
+  },
+  {
+    "id": 248,
+    "english": "panel",
+    "russian": "панель, комиссия",
+    "level": "B2",
+    "category": "abstract",
+    "example": "A panel of experts decides."
+  },
+  {
+    "id": 249,
+    "english": "paradox",
+    "russian": "парадокс",
+    "level": "B2",
+    "category": "abstract",
+    "example": "It is a strange paradox."
+  },
+  {
+    "id": 250,
+    "english": "parliament",
+    "russian": "парламент",
+    "level": "B2",
+    "category": "abstract",
+    "example": "Parliament votes on the law."
+  },
+  {
+    "id": 251,
+    "english": "pattern",
+    "russian": "узор, шаблон",
+    "level": "B2",
+    "category": "abstract",
+    "example": "The dress has a flower pattern."
+  },
+  {
+    "id": 252,
+    "english": "perception",
+    "russian": "восприятие",
+    "level": "B2",
+    "category": "abstract",
+    "example": "Perception is not always reality."
+  },
+  {
+    "id": 253,
+    "english": "perspective",
+    "russian": "перспектива, точка зрения",
+    "level": "B2",
+    "category": "abstract",
+    "example": "Look at it from a different perspective."
+  },
+  {
+    "id": 254,
+    "english": "phenomenon",
+    "russian": "явление",
+    "level": "B2",
+    "category": "abstract",
+    "example": "Rainbows are a natural phenomenon."
+  },
+  {
+    "id": 255,
+    "english": "philosophy",
+    "russian": "философия",
+    "level": "B2",
+    "category": "abstract",
+    "example": "He studies philosophy."
+  },
+  {
+    "id": 256,
+    "english": "pioneer",
+    "russian": "пионер, первопроходец",
+    "level": "B2",
+    "category": "abstract",
+    "example": "She is a pioneer in medicine."
+  },
+  {
+    "id": 257,
+    "english": "plot",
+    "russian": "сюжет",
+    "level": "B2",
+    "category": "abstract",
+    "example": "The plot of the book is simple."
+  },
+  {
+    "id": 258,
+    "english": "poll",
+    "russian": "опрос",
+    "level": "B2",
+    "category": "abstract",
+    "example": "A new poll shows support for the plan."
+  },
+  {
+    "id": 259,
+    "english": "portion",
+    "russian": "порция, часть",
+    "level": "B2",
+    "category": "abstract",
+    "example": "A small portion is enough."
+  },
+  {
+    "id": 260,
+    "english": "potential",
+    "russian": "потенциал",
+    "level": "B2",
+    "category": "abstract",
+    "example": "She has great potential."
+  },
+  {
+    "id": 261,
+    "english": "poverty",
+    "russian": "бедность",
+    "level": "B2",
+    "category": "abstract",
+    "example": "Poverty is a global problem."
+  },
+  {
+    "id": 262,
+    "english": "precedent",
+    "russian": "прецедент",
+    "level": "B2",
+    "category": "abstract",
+    "example": "There is no precedent for this."
+  },
+  {
+    "id": 263,
+    "english": "premise",
+    "russian": "предпосылка",
+    "level": "B2",
+    "category": "abstract",
+    "example": "The premise of the story is strange."
+  },
+  {
+    "id": 264,
+    "english": "prejudice",
+    "russian": "предубеждение",
+    "level": "B2",
+    "category": "abstract",
+    "example": "Prejudice is a barrier to peace."
+  },
+  {
+    "id": 265,
+    "english": "privilege",
+    "russian": "привилегия",
+    "level": "B2",
+    "category": "abstract",
+    "example": "Education is a privilege."
+  },
+  {
+    "id": 266,
+    "english": "procedure",
+    "russian": "процедура",
+    "level": "B2",
+    "category": "abstract",
+    "example": "Follow the safety procedure."
+  },
+  {
+    "id": 267,
+    "english": "proportion",
+    "russian": "пропорция",
+    "level": "B2",
+    "category": "abstract",
+    "example": "The proportion of girls is high."
+  },
+  {
+    "id": 268,
+    "english": "prospect",
+    "russian": "перспектива",
+    "level": "B2",
+    "category": "abstract",
+    "example": "The prospect of travelling excites me."
+  },
+  {
+    "id": 269,
+    "english": "protest",
+    "russian": "протест",
+    "level": "B2",
+    "category": "abstract",
+    "example": "People protest against the law."
+  },
+  {
+    "id": 270,
+    "english": "provision",
+    "russian": "обеспечение, положение",
+    "level": "B2",
+    "category": "abstract",
+    "example": "The law makes provision for students."
+  },
+  {
+    "id": 271,
+    "english": "psychology",
+    "russian": "психология",
+    "level": "B2",
+    "category": "abstract",
+    "example": "She studies psychology."
+  },
+  {
+    "id": 272,
+    "english": "publicity",
+    "russian": "реклама, огласка",
+    "level": "B2",
+    "category": "abstract",
+    "example": "The film gets great publicity."
+  },
+  {
+    "id": 273,
+    "english": "rank",
+    "russian": "ранг",
+    "level": "B2",
+    "category": "abstract",
+    "example": "He holds the rank of captain."
+  },
+  {
+    "id": 274,
+    "english": "ratio",
+    "russian": "соотношение",
+    "level": "B2",
+    "category": "abstract",
+    "example": "The ratio is two to one."
+  },
+  {
+    "id": 275,
+    "english": "recession",
+    "russian": "рецессия",
+    "level": "B2",
+    "category": "abstract",
+    "example": "The country faces a recession."
+  },
+  {
+    "id": 276,
+    "english": "reform",
+    "russian": "реформа",
+    "level": "B2",
+    "category": "abstract",
+    "example": "The government plans a reform."
+  },
+  {
+    "id": 277,
+    "english": "refuge",
+    "russian": "убежище",
+    "level": "B2",
+    "category": "abstract",
+    "example": "They find refuge in the mountains."
+  },
+  {
+    "id": 278,
+    "english": "regulation",
+    "russian": "правило, регулирование",
+    "level": "B2",
+    "category": "abstract",
+    "example": "Safety regulations are strict."
+  },
+  {
+    "id": 279,
+    "english": "resolution",
+    "russian": "решение, резолюция",
+    "level": "B2",
+    "category": "abstract",
+    "example": "The council passes a resolution."
+  },
+  {
+    "id": 280,
+    "english": "retirement",
+    "russian": "выход на пенсию",
+    "level": "B2",
+    "category": "abstract",
+    "example": "He enjoys his retirement."
+  },
+  {
+    "id": 281,
+    "english": "revenue",
+    "russian": "доход",
+    "level": "B2",
+    "category": "abstract",
+    "example": "The company's revenue grows."
+  },
+  {
+    "id": 282,
+    "english": "revolution",
+    "russian": "революция",
+    "level": "B2",
+    "category": "abstract",
+    "example": "The industrial revolution changed life."
+  },
+  {
+    "id": 283,
+    "english": "ritual",
+    "russian": "ритуал",
+    "level": "B2",
+    "category": "abstract",
+    "example": "The morning coffee is a ritual."
+  },
+  {
+    "id": 284,
+    "english": "rumour",
+    "russian": "слух",
+    "level": "B2",
+    "category": "abstract",
+    "example": "It is just a rumour."
+  },
+  {
+    "id": 285,
+    "english": "sacrifice",
+    "russian": "жертва",
+    "level": "B2",
+    "category": "abstract",
+    "example": "She makes many sacrifices."
+  },
+  {
+    "id": 286,
+    "english": "sanction",
+    "russian": "санкция",
+    "level": "B2",
+    "category": "abstract",
+    "example": "The country faces sanctions."
+  },
+  {
+    "id": 287,
+    "english": "scandal",
+    "russian": "скандал",
+    "level": "B2",
+    "category": "abstract",
+    "example": "The scandal shocks the nation."
+  },
+  {
+    "id": 288,
+    "english": "scenario",
+    "russian": "сценарий",
+    "level": "B2",
+    "category": "abstract",
+    "example": "In the worst scenario, we cancel."
+  },
+  {
+    "id": 289,
+    "english": "scope",
+    "russian": "масштаб, сфера",
+    "level": "B2",
+    "category": "abstract",
+    "example": "The scope of the project is wide."
+  },
+  {
+    "id": 290,
+    "english": "sector",
+    "russian": "сектор",
+    "level": "B2",
+    "category": "abstract",
+    "example": "He works in the public sector."
+  },
+  {
+    "id": 291,
+    "english": "segment",
+    "russian": "сегмент",
+    "level": "B2",
+    "category": "abstract",
+    "example": "This segment of the market is growing."
+  },
+  {
+    "id": 292,
+    "english": "sequence",
+    "russian": "последовательность",
+    "level": "B2",
+    "category": "abstract",
+    "example": "Follow the correct sequence."
+  },
+  {
+    "id": 293,
+    "english": "settlement",
+    "russian": "поселение, урегулирование",
+    "level": "B2",
+    "category": "abstract",
+    "example": "They reach a settlement."
+  },
+  {
+    "id": 294,
+    "english": "shortage",
+    "russian": "нехватка",
+    "level": "B2",
+    "category": "abstract",
+    "example": "There is a water shortage."
+  },
+  {
+    "id": 295,
+    "english": "slogan",
+    "russian": "лозунг",
+    "level": "B2",
+    "category": "abstract",
+    "example": "The brand has a catchy slogan."
+  },
+  {
+    "id": 296,
+    "english": "spectrum",
+    "russian": "спектр",
+    "level": "B2",
+    "category": "abstract",
+    "example": "The rainbow has a full spectrum of colors."
+  },
+  {
+    "id": 297,
+    "english": "speculation",
+    "russian": "предположение, спекуляция",
+    "level": "B2",
+    "category": "abstract",
+    "example": "There is speculation about his plans."
+  },
+  {
+    "id": 298,
+    "english": "stability",
+    "russian": "стабильность",
+    "level": "B2",
+    "category": "abstract",
+    "example": "The country needs political stability."
+  },
+  {
+    "id": 299,
+    "english": "stake",
+    "russian": "ставка, доля",
+    "level": "B2",
+    "category": "abstract",
+    "example": "He has a stake in the company."
+  },
+  {
+    "id": 300,
+    "english": "stereotype",
+    "russian": "стереотип",
+    "level": "B2",
+    "category": "abstract",
+    "example": "Don't believe in stereotypes."
+  },
+  {
+    "id": 301,
+    "english": "strain",
+    "russian": "напряжение",
+    "level": "B2",
+    "category": "abstract",
+    "example": "He is under great strain."
+  },
+  {
+    "id": 302,
+    "english": "subsidy",
+    "russian": "субсидия",
+    "level": "B2",
+    "category": "abstract",
+    "example": "Farmers receive a subsidy."
+  },
+  {
+    "id": 303,
+    "english": "supervision",
+    "russian": "надзор",
+    "level": "B2",
+    "category": "abstract",
+    "example": "Children need supervision."
+  },
+  {
+    "id": 304,
+    "english": "surplus",
+    "russian": "излишек",
+    "level": "B2",
+    "category": "abstract",
+    "example": "The country has a food surplus."
+  },
+  {
+    "id": 305,
+    "english": "survey",
+    "russian": "опрос, обзор",
+    "level": "B2",
+    "category": "abstract",
+    "example": "They do a survey of customers."
+  },
+  {
+    "id": 306,
+    "english": "sympathy",
+    "russian": "сочувствие",
+    "level": "B2",
+    "category": "abstract",
+    "example": "I have sympathy for him."
+  },
+  {
+    "id": 307,
+    "english": "tendency",
+    "russian": "тенденция",
+    "level": "B2",
+    "category": "abstract",
+    "example": "He has a tendency to be late."
+  },
+  {
+    "id": 308,
+    "english": "tension",
+    "russian": "напряжение",
+    "level": "B2",
+    "category": "abstract",
+    "example": "There is tension in the room."
+  },
+  {
+    "id": 309,
+    "english": "threshold",
+    "russian": "порог",
+    "level": "B2",
+    "category": "abstract",
+    "example": "He stands at the threshold."
+  },
+  {
+    "id": 310,
+    "english": "tolerance",
+    "russian": "терпимость",
+    "level": "B2",
+    "category": "abstract",
+    "example": "Tolerance is important in society."
+  },
+  {
+    "id": 311,
+    "english": "tourism",
+    "russian": "туризм",
+    "level": "B2",
+    "category": "abstract",
+    "example": "Tourism is important for the economy."
+  },
+  {
+    "id": 312,
+    "english": "transaction",
+    "russian": "сделка, транзакция",
+    "level": "B2",
+    "category": "abstract",
+    "example": "The transaction is complete."
+  },
+  {
+    "id": 313,
+    "english": "transition",
+    "russian": "переход",
+    "level": "B2",
+    "category": "abstract",
+    "example": "The transition is smooth."
+  },
+  {
+    "id": 314,
+    "english": "trial",
+    "russian": "суд, испытание",
+    "level": "B2",
+    "category": "abstract",
+    "example": "The trial starts on Monday."
+  },
+  {
+    "id": 315,
+    "english": "utility",
+    "russian": "коммунальная услуга, польза",
+    "level": "B2",
+    "category": "abstract",
+    "example": "Utilities are included in the rent."
+  },
+  {
+    "id": 316,
+    "english": "vision",
+    "russian": "зрение, видение",
+    "level": "B2",
+    "category": "abstract",
+    "example": "She has a clear vision for the future."
+  },
+  {
+    "id": 317,
+    "english": "welfare",
+    "russian": "благосостояние",
+    "level": "B2",
+    "category": "abstract",
+    "example": "Child welfare is a priority."
+  },
+  {
+    "id": 318,
+    "english": "will",
+    "russian": "воля, завещание",
+    "level": "B2",
+    "category": "abstract",
+    "example": "He has a strong will."
+  },
+  {
+    "id": 319,
+    "english": "zone",
+    "russian": "зона",
+    "level": "B2",
+    "category": "abstract",
+    "example": "This is a no-parking zone."
+  },
+  {
+    "id": 320,
+    "english": "accurate",
+    "russian": "точный",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "The map is accurate."
+  },
+  {
+    "id": 321,
+    "english": "acute",
+    "russian": "острый",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "He has an acute pain."
+  },
+  {
+    "id": 322,
+    "english": "adequate",
+    "russian": "адекватный, достаточный",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "The room is adequate for two people."
+  },
+  {
+    "id": 323,
+    "english": "ambiguous",
+    "russian": "двусмысленный",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "The answer is ambiguous."
+  },
+  {
+    "id": 324,
+    "english": "apparent",
+    "russian": "очевидный",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "It is apparent that he is tired."
+  },
+  {
+    "id": 325,
+    "english": "appropriate",
+    "russian": "подходящий",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "Wear appropriate clothes."
+  },
+  {
+    "id": 326,
+    "english": "arbitrary",
+    "russian": "произвольный",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "The choice is arbitrary."
+  },
+  {
+    "id": 327,
+    "english": "authentic",
+    "russian": "подлинный",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "This is an authentic Italian pizza."
+  },
+  {
+    "id": 328,
+    "english": "beneficial",
+    "russian": "полезный",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "Exercise is beneficial for health."
+  },
+  {
+    "id": 329,
+    "english": "brilliant",
+    "russian": "блестящий",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "She has a brilliant idea."
+  },
+  {
+    "id": 330,
+    "english": "chronic",
+    "russian": "хронический",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "He has a chronic illness."
+  },
+  {
+    "id": 331,
+    "english": "coherent",
+    "russian": "связный",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "Give a coherent answer."
+  },
+  {
+    "id": 332,
+    "english": "collective",
+    "russian": "коллективный",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "It is a collective decision."
+  },
+  {
+    "id": 333,
+    "english": "compact",
+    "russian": "компактный",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "It is a compact car."
+  },
+  {
+    "id": 334,
+    "english": "compatible",
+    "russian": "совместимый",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "The app is compatible with your phone."
+  },
+  {
+    "id": 335,
+    "english": "competent",
+    "russian": "компетентный",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "She is a competent manager."
+  },
+  {
+    "id": 336,
+    "english": "comprehensive",
+    "russian": "всеобъемлющий",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "It is a comprehensive guide."
+  },
+  {
+    "id": 337,
+    "english": "concrete",
+    "russian": "конкретный",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "Give me a concrete example."
+  },
+  {
+    "id": 338,
+    "english": "considerable",
+    "russian": "значительный",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "It costs a considerable amount of money."
+  },
+  {
+    "id": 339,
+    "english": "consistent",
+    "russian": "последовательный",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "He is consistent in his work."
+  },
+  {
+    "id": 340,
+    "english": "constant",
+    "russian": "постоянный",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "There is constant noise."
+  },
+  {
+    "id": 341,
+    "english": "contemporary",
+    "russian": "современный",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "She likes contemporary art."
+  },
+  {
+    "id": 342,
+    "english": "controversial",
+    "russian": "спорный",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "It is a controversial topic."
+  },
+  {
+    "id": 343,
+    "english": "conventional",
+    "russian": "традиционный",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "He uses conventional methods."
+  },
+  {
+    "id": 344,
+    "english": "corrupt",
+    "russian": "коррумпированный",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "The official is corrupt."
+  },
+  {
+    "id": 345,
+    "english": "crucial",
+    "russian": "решающий",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "This is a crucial moment."
+  },
+  {
+    "id": 346,
+    "english": "decent",
+    "russian": "приличный",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "He earns a decent salary."
+  },
+  {
+    "id": 347,
+    "english": "defensive",
+    "russian": "оборонительный",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "Don't be so defensive."
+  },
+  {
+    "id": 348,
+    "english": "deliberate",
+    "russian": "преднамеренный",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "It was a deliberate mistake."
+  },
+  {
+    "id": 349,
+    "english": "diverse",
+    "russian": "разнообразный",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "The city has a diverse population."
+  },
+  {
+    "id": 350,
+    "english": "dominant",
+    "russian": "доминирующий",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "English is the dominant language."
+  },
+  {
+    "id": 351,
+    "english": "dramatic",
+    "russian": "драматичный",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "There is a dramatic change."
+  },
+  {
+    "id": 352,
+    "english": "dull",
+    "russian": "скучный, тусклый",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "The film is dull."
+  },
+  {
+    "id": 353,
+    "english": "durable",
+    "russian": "прочный",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "These shoes are very durable."
+  },
+  {
+    "id": 354,
+    "english": "elaborate",
+    "russian": "сложный, подробный",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "They make an elaborate plan."
+  },
+  {
+    "id": 355,
+    "english": "eligible",
+    "russian": "имеющий право",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "You are eligible for a discount."
+  },
+  {
+    "id": 356,
+    "english": "eternal",
+    "russian": "вечный",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "Nothing on earth is eternal."
+  },
+  {
+    "id": 357,
+    "english": "ethical",
+    "russian": "этичный",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "It is not ethical to lie."
+  },
+  {
+    "id": 358,
+    "english": "exclusive",
+    "russian": "эксклюзивный",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "It is an exclusive club."
+  },
+  {
+    "id": 359,
+    "english": "explicit",
+    "russian": "явный",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "Give explicit instructions."
+  },
+  {
+    "id": 360,
+    "english": "extensive",
+    "russian": "обширный",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "He has extensive experience."
+  },
+  {
+    "id": 361,
+    "english": "external",
+    "russian": "внешний",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "There is an external hard drive."
+  },
+  {
+    "id": 362,
+    "english": "fair",
+    "russian": "справедливый",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "It is not fair."
+  },
+  {
+    "id": 363,
+    "english": "fierce",
+    "russian": "свирепый",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "The competition is fierce."
+  },
+  {
+    "id": 364,
+    "english": "fragile",
+    "russian": "хрупкий",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "Be careful, the glass is fragile."
+  },
+  {
+    "id": 365,
+    "english": "fundamental",
+    "russian": "фундаментальный",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "It is a fundamental right."
+  },
+  {
+    "id": 366,
+    "english": "genuine",
+    "russian": "подлинный",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "This is a genuine leather bag."
+  },
+  {
+    "id": 367,
+    "english": "gradual",
+    "russian": "постепенный",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "There is a gradual improvement."
+  },
+  {
+    "id": 368,
+    "english": "grim",
+    "russian": "мрачный",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "The news is grim."
+  },
+  {
+    "id": 369,
+    "english": "hostile",
+    "russian": "враждебный",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "The crowd is hostile."
+  },
+  {
+    "id": 370,
+    "english": "humble",
+    "russian": "скромный",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "He is a humble man."
+  },
+  {
+    "id": 371,
+    "english": "identical",
+    "russian": "идентичный",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "The twins wear identical clothes."
+  },
+  {
+    "id": 372,
+    "english": "ideal",
+    "russian": "идеальный",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "It is an ideal place for a picnic."
+  },
+  {
+    "id": 373,
+    "english": "ignorant",
+    "russian": "невежественный",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "Don't be ignorant of the facts."
+  },
+  {
+    "id": 374,
+    "english": "implicit",
+    "russian": "неявный",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "There is an implicit threat."
+  },
+  {
+    "id": 375,
+    "english": "inevitable",
+    "russian": "неизбежный",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "Change is inevitable."
+  },
+  {
+    "id": 376,
+    "english": "inherent",
+    "russian": "присущий",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "Risk is inherent in business."
+  },
+  {
+    "id": 377,
+    "english": "initial",
+    "russian": "начальный",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "The initial results are good."
+  },
+  {
+    "id": 378,
+    "english": "innovative",
+    "russian": "инновационный",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "It is an innovative design."
+  },
+  {
+    "id": 379,
+    "english": "insufficient",
+    "russian": "недостаточный",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "The evidence is insufficient."
+  },
+  {
+    "id": 380,
+    "english": "intense",
+    "russian": "интенсивный",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "The heat is intense."
+  },
+  {
+    "id": 381,
+    "english": "intimate",
+    "russian": "близкий, интимный",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "They have an intimate friendship."
+  },
+  {
+    "id": 382,
+    "english": "irrelevant",
+    "russian": "не относящийся к делу",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "That detail is irrelevant."
+  },
+  {
+    "id": 383,
+    "english": "legitimate",
+    "russian": "законный",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "It is a legitimate business."
+  },
+  {
+    "id": 384,
+    "english": "liberal",
+    "russian": "либеральный",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "He has liberal views."
+  },
+  {
+    "id": 385,
+    "english": "logical",
+    "russian": "логичный",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "It is a logical conclusion."
+  },
+  {
+    "id": 386,
+    "english": "massive",
+    "russian": "массивный",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "They build a massive bridge."
+  },
+  {
+    "id": 387,
+    "english": "minimal",
+    "russian": "минимальный",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "The damage is minimal."
+  },
+  {
+    "id": 388,
+    "english": "moral",
+    "russian": "моральный",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "It is a moral question."
+  },
+  {
+    "id": 389,
+    "english": "mutual",
+    "russian": "взаимный",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "We have a mutual friend."
+  },
+  {
+    "id": 390,
+    "english": "naive",
+    "russian": "наивный",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "She is naive about money."
+  },
+  {
+    "id": 391,
+    "english": "neutral",
+    "russian": "нейтральный",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "Stay neutral in the argument."
+  },
+  {
+    "id": 392,
+    "english": "noble",
+    "russian": "благородный",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "It is a noble goal."
+  },
+  {
+    "id": 393,
+    "english": "notorious",
+    "russian": "печально известный",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "He is a notorious thief."
+  },
+  {
+    "id": 394,
+    "english": "numerous",
+    "russian": "многочисленный",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "There are numerous problems."
+  },
+  {
+    "id": 395,
+    "english": "objective",
+    "russian": "объективный",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "Try to be objective."
+  },
+  {
+    "id": 396,
+    "english": "obscure",
+    "russian": "неясный, малоизвестный",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "It is an obscure poet."
+  },
+  {
+    "id": 397,
+    "english": "odd",
+    "russian": "странный, нечётный",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "It is odd that he is late."
+  },
+  {
+    "id": 398,
+    "english": "optimistic",
+    "russian": "оптимистичный",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "I am optimistic about the future."
+  },
+  {
+    "id": 399,
+    "english": "outstanding",
+    "russian": "выдающийся",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "She is an outstanding student."
+  },
+  {
+    "id": 400,
+    "english": "parallel",
+    "russian": "параллельный",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "The two roads are parallel."
+  },
+  {
+    "id": 401,
+    "english": "passive",
+    "russian": "пассивный",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "He is a passive person."
+  },
+  {
+    "id": 402,
+    "english": "pessimistic",
+    "russian": "пессимистичный",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "Don't be so pessimistic."
+  },
+  {
+    "id": 403,
+    "english": "plausible",
+    "russian": "правдоподобный",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "His story is plausible."
+  },
+  {
+    "id": 404,
+    "english": "predictable",
+    "russian": "предсказуемый",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "The film is predictable."
+  },
+  {
+    "id": 405,
+    "english": "primary",
+    "russian": "основной",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "Our primary goal is safety."
+  },
+  {
+    "id": 406,
+    "english": "prime",
+    "russian": "главный, первоклассный",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "He is the prime suspect."
+  },
+  {
+    "id": 407,
+    "english": "profound",
+    "russian": "глубокий",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "She has a profound influence."
+  },
+  {
+    "id": 408,
+    "english": "prominent",
+    "russian": "выдающийся, заметный",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "He is a prominent politician."
+  },
+  {
+    "id": 409,
+    "english": "radical",
+    "russian": "радикальный",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "They make a radical change."
+  },
+  {
+    "id": 410,
+    "english": "random",
+    "russian": "случайный",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "Choose a random number."
+  },
+  {
+    "id": 411,
+    "english": "rational",
+    "russian": "рациональный",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "It is a rational decision."
+  },
+  {
+    "id": 412,
+    "english": "reluctant",
+    "russian": "неохотный",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "He is reluctant to help."
+  },
+  {
+    "id": 413,
+    "english": "remarkable",
+    "russian": "замечательный",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "It is a remarkable achievement."
+  },
+  {
+    "id": 414,
+    "english": "remote",
+    "russian": "отдалённый",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "They live in a remote village."
+  },
+  {
+    "id": 415,
+    "english": "rigid",
+    "russian": "жёсткий",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "The rules are too rigid."
+  },
+  {
+    "id": 416,
+    "english": "robust",
+    "russian": "крепкий",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "It is a robust machine."
+  },
+  {
+    "id": 417,
+    "english": "rural",
+    "russian": "сельский",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "They live in a rural area."
+  },
+  {
+    "id": 418,
+    "english": "scarce",
+    "russian": "дефицитный",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "Water is scarce here."
+  },
+  {
+    "id": 419,
+    "english": "shallow",
+    "russian": "мелкий",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "The river is shallow."
+  },
+  {
+    "id": 420,
+    "english": "skeptical",
+    "russian": "скептичный",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "I am skeptical about it."
+  },
+  {
+    "id": 421,
+    "english": "sophisticated",
+    "russian": "сложный, утончённый",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "It is a sophisticated system."
+  },
+  {
+    "id": 422,
+    "english": "sound",
+    "russian": "здравый, звук",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "That is sound advice."
+  },
+  {
+    "id": 423,
+    "english": "stable",
+    "russian": "стабильный",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "The economy is stable."
+  },
+  {
+    "id": 424,
+    "english": "steady",
+    "russian": "устойчивый",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "He makes steady progress."
+  },
+  {
+    "id": 425,
+    "english": "subtle",
+    "russian": "тонкий",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "There is a subtle difference."
+  },
+  {
+    "id": 426,
+    "english": "sufficient",
+    "russian": "достаточный",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "Ten dollars is sufficient."
+  },
+  {
+    "id": 427,
+    "english": "superior",
+    "russian": "превосходящий",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "This product is superior in quality."
+  },
+  {
+    "id": 428,
+    "english": "supreme",
+    "russian": "верховный",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "It is the Supreme Court."
+  },
+  {
+    "id": 429,
+    "english": "sustainable",
+    "russian": "устойчивый",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "We need sustainable energy."
+  },
+  {
+    "id": 430,
+    "english": "tense",
+    "russian": "напряжённый",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "The atmosphere is tense."
+  },
+  {
+    "id": 431,
+    "english": "theoretical",
+    "russian": "теоретический",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "It is only a theoretical possibility."
+  },
+  {
+    "id": 432,
+    "english": "thorough",
+    "russian": "тщательный",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "She is a thorough worker."
+  },
+  {
+    "id": 433,
+    "english": "tragic",
+    "russian": "трагический",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "It is a tragic story."
+  },
+  {
+    "id": 434,
+    "english": "transparent",
+    "russian": "прозрачный",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "The glass is transparent."
+  },
+  {
+    "id": 435,
+    "english": "tremendous",
+    "russian": "огромный",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "It is a tremendous success."
+  },
+  {
+    "id": 436,
+    "english": "ultimate",
+    "russian": "конечный, предельный",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "The ultimate goal is peace."
+  },
+  {
+    "id": 437,
+    "english": "unique",
+    "russian": "уникальный",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "Every person is unique."
+  },
+  {
+    "id": 438,
+    "english": "universal",
+    "russian": "универсальный",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "Music is a universal language."
+  },
+  {
+    "id": 439,
+    "english": "urban",
+    "russian": "городской",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "Urban life is busy."
+  },
+  {
+    "id": 440,
+    "english": "urgent",
+    "russian": "срочный",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "It is an urgent matter."
+  },
+  {
+    "id": 441,
+    "english": "valid",
+    "russian": "действительный",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "The ticket is valid for a month."
+  },
+  {
+    "id": 442,
+    "english": "vague",
+    "russian": "смутный",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "He gives a vague answer."
+  },
+  {
+    "id": 443,
+    "english": "vast",
+    "russian": "обширный",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "The desert is vast."
+  },
+  {
+    "id": 444,
+    "english": "versatile",
+    "russian": "универсальный, разносторонний",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "She is a versatile actress."
+  },
+  {
+    "id": 445,
+    "english": "vivid",
+    "russian": "яркий, живой",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "He has a vivid imagination."
+  },
+  {
+    "id": 446,
+    "english": "vulnerable",
+    "russian": "уязвимый",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "Children are vulnerable."
+  },
+  {
+    "id": 447,
+    "english": "widespread",
+    "russian": "широко распространённый",
+    "level": "B2",
+    "category": "adjectives",
+    "example": "The problem is widespread."
+  },
+  {
+    "id": 448,
+    "english": "accordingly",
+    "russian": "соответственно",
+    "level": "B2",
+    "category": "adverbs",
+    "example": "Dress accordingly for the weather."
+  },
+  {
+    "id": 449,
+    "english": "admittedly",
+    "russian": "по общему признанию",
+    "level": "B2",
+    "category": "adverbs",
+    "example": "Admittedly, it is expensive."
+  },
+  {
+    "id": 450,
+    "english": "albeit",
+    "russian": "хотя и",
+    "level": "B2",
+    "category": "adverbs",
+    "example": "He agrees, albeit reluctantly."
+  },
+  {
+    "id": 451,
+    "english": "alternatively",
+    "russian": "в качестве альтернативы",
+    "level": "B2",
+    "category": "adverbs",
+    "example": "Alternatively, we can take a taxi."
+  },
+  {
+    "id": 452,
+    "english": "arguably",
+    "russian": "возможно, можно утверждать",
+    "level": "B2",
+    "category": "adverbs",
+    "example": "He is arguably the best player."
+  },
+  {
+    "id": 453,
+    "english": "briefly",
+    "russian": "кратко",
+    "level": "B2",
+    "category": "adverbs",
+    "example": "Briefly describe your plan."
+  },
+  {
+    "id": 454,
+    "english": "conversely",
+    "russian": "наоборот",
+    "level": "B2",
+    "category": "adverbs",
+    "example": "Conversely, some people prefer cold weather."
+  },
+  {
+    "id": 455,
+    "english": "essentially",
+    "russian": "по существу",
+    "level": "B2",
+    "category": "adverbs",
+    "example": "Essentially, the two ideas are the same."
+  },
+  {
+    "id": 456,
+    "english": "evidently",
+    "russian": "очевидно",
+    "level": "B2",
+    "category": "adverbs",
+    "example": "Evidently, he forgot."
+  },
+  {
+    "id": 457,
+    "english": "furthermore",
+    "russian": "кроме того",
+    "level": "B2",
+    "category": "adverbs",
+    "example": "Furthermore, it is cheaper."
+  },
+  {
+    "id": 458,
+    "english": "hence",
+    "russian": "следовательно",
+    "level": "B2",
+    "category": "adverbs",
+    "example": "He was ill, hence his absence."
+  },
+  {
+    "id": 459,
+    "english": "inevitably",
+    "russian": "неизбежно",
+    "level": "B2",
+    "category": "adverbs",
+    "example": "Inevitably, prices will rise."
+  },
+  {
+    "id": 460,
+    "english": "ironically",
+    "russian": "по иронии",
+    "level": "B2",
+    "category": "adverbs",
+    "example": "Ironically, he missed his own party."
+  },
+  {
+    "id": 461,
+    "english": "largely",
+    "russian": "в значительной степени",
+    "level": "B2",
+    "category": "adverbs",
+    "example": "The success is largely due to teamwork."
+  },
+  {
+    "id": 462,
+    "english": "namely",
+    "russian": "а именно",
+    "level": "B2",
+    "category": "adverbs",
+    "example": "Two subjects, namely math and English."
+  },
+  {
+    "id": 463,
+    "english": "necessarily",
+    "russian": "обязательно",
+    "level": "B2",
+    "category": "adverbs",
+    "example": "It is not necessarily true."
+  },
+  {
+    "id": 464,
+    "english": "notably",
+    "russian": "в частности",
+    "level": "B2",
+    "category": "adverbs",
+    "example": "Several people, notably my mother, agree."
+  },
+  {
+    "id": 465,
+    "english": "nonetheless",
+    "russian": "тем не менее",
+    "level": "B2",
+    "category": "adverbs",
+    "example": "It is hard. Nonetheless, we continue."
+  },
+  {
+    "id": 466,
+    "english": "predominantly",
+    "russian": "преимущественно",
+    "level": "B2",
+    "category": "adverbs",
+    "example": "The area is predominantly rural."
+  },
+  {
+    "id": 467,
+    "english": "presumably",
+    "russian": "предположительно",
+    "level": "B2",
+    "category": "adverbs",
+    "example": "Presumably, he is at home."
+  },
+  {
+    "id": 468,
+    "english": "primarily",
+    "russian": "прежде всего",
+    "level": "B2",
+    "category": "adverbs",
+    "example": "The job is primarily office work."
+  },
+  {
+    "id": 469,
+    "english": "purely",
+    "russian": "исключительно",
+    "level": "B2",
+    "category": "adverbs",
+    "example": "It is purely a coincidence."
+  },
+  {
+    "id": 470,
+    "english": "reportedly",
+    "russian": "по сообщениям",
+    "level": "B2",
+    "category": "adverbs",
+    "example": "He reportedly lives in Paris."
+  },
+  {
+    "id": 471,
+    "english": "roughly",
+    "russian": "примерно",
+    "level": "B2",
+    "category": "adverbs",
+    "example": "It costs roughly fifty dollars."
+  },
+  {
+    "id": 472,
+    "english": "scarcely",
+    "russian": "едва",
+    "level": "B2",
+    "category": "adverbs",
+    "example": "I scarcely know him."
+  },
+  {
+    "id": 473,
+    "english": "seemingly",
+    "russian": "по-видимому",
+    "level": "B2",
+    "category": "adverbs",
+    "example": "Seemingly, nobody notices."
+  },
+  {
+    "id": 474,
+    "english": "significantly",
+    "russian": "значительно",
+    "level": "B2",
+    "category": "adverbs",
+    "example": "Prices rise significantly."
+  },
+  {
+    "id": 475,
+    "english": "strictly",
+    "russian": "строго",
+    "level": "B2",
+    "category": "adverbs",
+    "example": "Smoking is strictly forbidden."
+  },
+  {
+    "id": 476,
+    "english": "subsequently",
+    "russian": "впоследствии",
+    "level": "B2",
+    "category": "adverbs",
+    "example": "Subsequently, he moved abroad."
+  },
+  {
+    "id": 477,
+    "english": "supposedly",
+    "russian": "якобы",
+    "level": "B2",
+    "category": "adverbs",
+    "example": "He is supposedly very rich."
+  },
+  {
+    "id": 478,
+    "english": "surely",
+    "russian": "несомненно",
+    "level": "B2",
+    "category": "adverbs",
+    "example": "Surely you remember me."
+  },
+  {
+    "id": 479,
+    "english": "undoubtedly",
+    "russian": "несомненно",
+    "level": "B2",
+    "category": "adverbs",
+    "example": "He is undoubtedly the best."
+  },
+  {
+    "id": 480,
+    "english": "virtually",
+    "russian": "практически",
+    "level": "B2",
+    "category": "adverbs",
+    "example": "It is virtually impossible."
+  },
+  {
+    "id": 481,
+    "english": "thereby",
+    "russian": "тем самым",
+    "level": "B2",
+    "category": "adverbs",
+    "example": "He signs, thereby accepting the terms."
+  },
+  {
+    "id": 482,
+    "english": "whereby",
+    "russian": "посредством чего",
+    "level": "B2",
+    "category": "adverbs",
+    "example": "It is a system whereby everyone pays."
+  },
+  {
+    "id": 483,
+    "english": "altogether",
+    "russian": "в целом, совсем",
+    "level": "B2",
+    "category": "adverbs",
+    "example": "Altogether, it costs fifty dollars."
+  },
+  {
+    "id": 484,
+    "english": "approximately",
+    "russian": "приблизительно",
+    "level": "B2",
+    "category": "adverbs",
+    "example": "It takes approximately ten minutes."
+  },
+  {
+    "id": 485,
+    "english": "barely",
+    "russian": "едва",
+    "level": "B2",
+    "category": "adverbs",
+    "example": "I barely slept."
+  },
+  {
+    "id": 486,
+    "english": "considerably",
+    "russian": "значительно",
+    "level": "B2",
+    "category": "adverbs",
+    "example": "It is considerably colder today."
+  },
+  {
+    "id": 487,
+    "english": "entirely",
+    "russian": "полностью",
+    "level": "B2",
+    "category": "adverbs",
+    "example": "I entirely agree."
+  },
+  {
+    "id": 488,
+    "english": "fully",
+    "russian": "полностью",
+    "level": "B2",
+    "category": "adverbs",
+    "example": "The hotel is fully booked."
+  },
+  {
+    "id": 489,
+    "english": "highly",
+    "russian": "весьма",
+    "level": "B2",
+    "category": "adverbs",
+    "example": "He is a highly skilled worker."
+  },
+  {
+    "id": 490,
+    "english": "literally",
+    "russian": "буквально",
+    "level": "B2",
+    "category": "adverbs",
+    "example": "I am literally freezing."
+  },
+  {
+    "id": 491,
+    "english": "mainly",
+    "russian": "главным образом",
+    "level": "B2",
+    "category": "adverbs",
+    "example": "We mainly speak English."
+  },
+  {
+    "id": 492,
+    "english": "bureaucracy",
+    "russian": "бюрократия",
+    "level": "B2",
+    "category": "abstract",
+    "example": "Bureaucracy slows everything down."
+  },
+  {
+    "id": 493,
+    "english": "sovereignty",
+    "russian": "суверенитет",
+    "level": "B2",
+    "category": "abstract",
+    "example": "The country defends its sovereignty."
+  },
+  {
+    "id": 494,
+    "english": "accountability",
+    "russian": "подотчётность",
+    "level": "B2",
+    "category": "abstract",
+    "example": "The government needs accountability."
+  },
+  {
+    "id": 495,
+    "english": "transparency",
+    "russian": "прозрачность",
+    "level": "B2",
+    "category": "abstract",
+    "example": "Transparency builds trust."
+  },
+  {
+    "id": 496,
+    "english": "innovation",
+    "russian": "инновация",
+    "level": "B2",
+    "category": "abstract",
+    "example": "Innovation drives the economy."
+  },
+  {
+    "id": 497,
+    "english": "sustainability",
+    "russian": "устойчивость",
+    "level": "B2",
+    "category": "abstract",
+    "example": "Sustainability is a key goal."
+  },
+  {
+    "id": 498,
+    "english": "globalization",
+    "russian": "глобализация",
+    "level": "B2",
+    "category": "abstract",
+    "example": "Globalization connects economies."
+  },
+  {
+    "id": 499,
+    "english": "bankruptcy",
+    "russian": "банкротство",
+    "level": "B2",
+    "category": "abstract",
+    "example": "The company faces bankruptcy."
+  },
+  {
+    "id": 500,
+    "english": "inequality",
+    "russian": "неравенство",
+    "level": "B2",
+    "category": "abstract",
+    "example": "Income inequality is rising."
+  }
+]

@@ -1,0 +1,4002 @@
+[
+  {
+    "id": 1,
+    "english": "arrive",
+    "russian": "приезжать, прибывать",
+    "level": "A2",
+    "category": "verbs",
+    "example": "We arrive in Paris at noon."
+  },
+  {
+    "id": 2,
+    "english": "leave",
+    "russian": "уезжать, покидать",
+    "level": "A2",
+    "category": "verbs",
+    "example": "I leave home at eight."
+  },
+  {
+    "id": 3,
+    "english": "bring",
+    "russian": "приносить",
+    "level": "A2",
+    "category": "verbs",
+    "example": "Please bring your passport."
+  },
+  {
+    "id": 4,
+    "english": "carry",
+    "russian": "нести",
+    "level": "A2",
+    "category": "verbs",
+    "example": "He carries a heavy box."
+  },
+  {
+    "id": 5,
+    "english": "begin",
+    "russian": "начинать",
+    "level": "A2",
+    "category": "verbs",
+    "example": "The film begins at seven."
+  },
+  {
+    "id": 6,
+    "english": "continue",
+    "russian": "продолжать",
+    "level": "A2",
+    "category": "verbs",
+    "example": "Please continue reading."
+  },
+  {
+    "id": 7,
+    "english": "change",
+    "russian": "менять",
+    "level": "A2",
+    "category": "verbs",
+    "example": "I want to change my job."
+  },
+  {
+    "id": 8,
+    "english": "choose",
+    "russian": "выбирать",
+    "level": "A2",
+    "category": "verbs",
+    "example": "Choose a color you like."
+  },
+  {
+    "id": 9,
+    "english": "decide",
+    "russian": "решать",
+    "level": "A2",
+    "category": "verbs",
+    "example": "We decide to stay at home."
+  },
+  {
+    "id": 10,
+    "english": "forget",
+    "russian": "забывать",
+    "level": "A2",
+    "category": "verbs",
+    "example": "Don't forget your keys."
+  },
+  {
+    "id": 11,
+    "english": "remember",
+    "russian": "помнить",
+    "level": "A2",
+    "category": "verbs",
+    "example": "I remember this song."
+  },
+  {
+    "id": 12,
+    "english": "explain",
+    "russian": "объяснять",
+    "level": "A2",
+    "category": "verbs",
+    "example": "Can you explain this word?"
+  },
+  {
+    "id": 13,
+    "english": "repeat",
+    "russian": "повторять",
+    "level": "A2",
+    "category": "verbs",
+    "example": "Please repeat the question."
+  },
+  {
+    "id": 14,
+    "english": "listen",
+    "russian": "слушать",
+    "level": "A2",
+    "category": "verbs",
+    "example": "Listen to the teacher."
+  },
+  {
+    "id": 15,
+    "english": "watch",
+    "russian": "смотреть, наблюдать",
+    "level": "A2",
+    "category": "verbs",
+    "example": "We watch TV after dinner."
+  },
+  {
+    "id": 16,
+    "english": "visit",
+    "russian": "посещать",
+    "level": "A2",
+    "category": "verbs",
+    "example": "I visit my grandmother on Sundays."
+  },
+  {
+    "id": 17,
+    "english": "invite",
+    "russian": "приглашать",
+    "level": "A2",
+    "category": "verbs",
+    "example": "I invite you to my party."
+  },
+  {
+    "id": 18,
+    "english": "send",
+    "russian": "отправлять",
+    "level": "A2",
+    "category": "verbs",
+    "example": "She sends me a message every day."
+  },
+  {
+    "id": 19,
+    "english": "receive",
+    "russian": "получать",
+    "level": "A2",
+    "category": "verbs",
+    "example": "I receive a letter today."
+  },
+  {
+    "id": 20,
+    "english": "pay",
+    "russian": "платить",
+    "level": "A2",
+    "category": "verbs",
+    "example": "I pay by card."
+  },
+  {
+    "id": 21,
+    "english": "cost",
+    "russian": "стоить",
+    "level": "A2",
+    "category": "verbs",
+    "example": "How much does it cost?"
+  },
+  {
+    "id": 22,
+    "english": "spend",
+    "russian": "тратить, проводить",
+    "level": "A2",
+    "category": "verbs",
+    "example": "I spend a lot of time online."
+  },
+  {
+    "id": 23,
+    "english": "save",
+    "russian": "экономить, сохранять",
+    "level": "A2",
+    "category": "verbs",
+    "example": "He saves money for a trip."
+  },
+  {
+    "id": 24,
+    "english": "borrow",
+    "russian": "брать взаймы",
+    "level": "A2",
+    "category": "verbs",
+    "example": "Can I borrow your pen?"
+  },
+  {
+    "id": 25,
+    "english": "catch",
+    "russian": "ловить",
+    "level": "A2",
+    "category": "verbs",
+    "example": "The dog catches the ball."
+  },
+  {
+    "id": 26,
+    "english": "throw",
+    "russian": "бросать",
+    "level": "A2",
+    "category": "verbs",
+    "example": "Don't throw paper on the floor."
+  },
+  {
+    "id": 27,
+    "english": "jump",
+    "russian": "прыгать",
+    "level": "A2",
+    "category": "verbs",
+    "example": "The children jump in the water."
+  },
+  {
+    "id": 28,
+    "english": "fall",
+    "russian": "падать",
+    "level": "A2",
+    "category": "verbs",
+    "example": "Leaves fall in autumn."
+  },
+  {
+    "id": 29,
+    "english": "fly",
+    "russian": "летать",
+    "level": "A2",
+    "category": "verbs",
+    "example": "Birds fly in the sky."
+  },
+  {
+    "id": 30,
+    "english": "drive",
+    "russian": "водить машину",
+    "level": "A2",
+    "category": "verbs",
+    "example": "My father drives to work."
+  },
+  {
+    "id": 31,
+    "english": "ride",
+    "russian": "ездить верхом",
+    "level": "A2",
+    "category": "verbs",
+    "example": "She rides a horse."
+  },
+  {
+    "id": 32,
+    "english": "turn",
+    "russian": "поворачивать",
+    "level": "A2",
+    "category": "verbs",
+    "example": "Turn left at the corner."
+  },
+  {
+    "id": 33,
+    "english": "follow",
+    "russian": "следовать",
+    "level": "A2",
+    "category": "verbs",
+    "example": "Follow me, please."
+  },
+  {
+    "id": 34,
+    "english": "lose",
+    "russian": "терять, проигрывать",
+    "level": "A2",
+    "category": "verbs",
+    "example": "I lose my keys every week."
+  },
+  {
+    "id": 35,
+    "english": "win",
+    "russian": "выигрывать",
+    "level": "A2",
+    "category": "verbs",
+    "example": "Our team wins the game."
+  },
+  {
+    "id": 36,
+    "english": "miss",
+    "russian": "скучать, пропускать",
+    "level": "A2",
+    "category": "verbs",
+    "example": "I miss my family."
+  },
+  {
+    "id": 37,
+    "english": "enjoy",
+    "russian": "наслаждаться",
+    "level": "A2",
+    "category": "verbs",
+    "example": "I enjoy walking in the rain."
+  },
+  {
+    "id": 38,
+    "english": "hope",
+    "russian": "надеяться",
+    "level": "A2",
+    "category": "verbs",
+    "example": "I hope you are well."
+  },
+  {
+    "id": 39,
+    "english": "wish",
+    "russian": "желать",
+    "level": "A2",
+    "category": "verbs",
+    "example": "I wish you good luck."
+  },
+  {
+    "id": 40,
+    "english": "believe",
+    "russian": "верить",
+    "level": "A2",
+    "category": "verbs",
+    "example": "I believe you."
+  },
+  {
+    "id": 41,
+    "english": "agree",
+    "russian": "соглашаться",
+    "level": "A2",
+    "category": "verbs",
+    "example": "I agree with you."
+  },
+  {
+    "id": 42,
+    "english": "laugh",
+    "russian": "смеяться",
+    "level": "A2",
+    "category": "verbs",
+    "example": "We laugh at the joke."
+  },
+  {
+    "id": 43,
+    "english": "cry",
+    "russian": "плакать",
+    "level": "A2",
+    "category": "verbs",
+    "example": "The baby cries at night."
+  },
+  {
+    "id": 44,
+    "english": "smile",
+    "russian": "улыбаться",
+    "level": "A2",
+    "category": "verbs",
+    "example": "She smiles at everyone."
+  },
+  {
+    "id": 45,
+    "english": "shout",
+    "russian": "кричать",
+    "level": "A2",
+    "category": "verbs",
+    "example": "Don't shout in the library."
+  },
+  {
+    "id": 46,
+    "english": "tell",
+    "russian": "рассказывать",
+    "level": "A2",
+    "category": "verbs",
+    "example": "Tell me a story."
+  },
+  {
+    "id": 47,
+    "english": "talk",
+    "russian": "разговаривать",
+    "level": "A2",
+    "category": "verbs",
+    "example": "We talk on the phone."
+  },
+  {
+    "id": 48,
+    "english": "discuss",
+    "russian": "обсуждать",
+    "level": "A2",
+    "category": "verbs",
+    "example": "They discuss the plan."
+  },
+  {
+    "id": 49,
+    "english": "describe",
+    "russian": "описывать",
+    "level": "A2",
+    "category": "verbs",
+    "example": "Describe your room."
+  },
+  {
+    "id": 50,
+    "english": "show",
+    "russian": "показывать",
+    "level": "A2",
+    "category": "verbs",
+    "example": "Show me your photos."
+  },
+  {
+    "id": 51,
+    "english": "draw",
+    "russian": "рисовать",
+    "level": "A2",
+    "category": "verbs",
+    "example": "She draws a house."
+  },
+  {
+    "id": 52,
+    "english": "build",
+    "russian": "строить",
+    "level": "A2",
+    "category": "verbs",
+    "example": "They build a new school."
+  },
+  {
+    "id": 53,
+    "english": "break",
+    "russian": "ломать",
+    "level": "A2",
+    "category": "verbs",
+    "example": "Be careful, you can break it."
+  },
+  {
+    "id": 54,
+    "english": "fix",
+    "russian": "чинить",
+    "level": "A2",
+    "category": "verbs",
+    "example": "He fixes the car."
+  },
+  {
+    "id": 55,
+    "english": "cut",
+    "russian": "резать",
+    "level": "A2",
+    "category": "verbs",
+    "example": "Cut the bread, please."
+  },
+  {
+    "id": 56,
+    "english": "push",
+    "russian": "толкать",
+    "level": "A2",
+    "category": "verbs",
+    "example": "Push the door."
+  },
+  {
+    "id": 57,
+    "english": "pull",
+    "russian": "тянуть",
+    "level": "A2",
+    "category": "verbs",
+    "example": "Pull the rope."
+  },
+  {
+    "id": 58,
+    "english": "hold",
+    "russian": "держать",
+    "level": "A2",
+    "category": "verbs",
+    "example": "Hold my bag, please."
+  },
+  {
+    "id": 59,
+    "english": "grow",
+    "russian": "расти",
+    "level": "A2",
+    "category": "verbs",
+    "example": "Tomatoes grow in the garden."
+  },
+  {
+    "id": 60,
+    "english": "smell",
+    "russian": "пахнуть",
+    "level": "A2",
+    "category": "verbs",
+    "example": "The soup smells good."
+  },
+  {
+    "id": 61,
+    "english": "taste",
+    "russian": "пробовать на вкус",
+    "level": "A2",
+    "category": "verbs",
+    "example": "Taste this sauce."
+  },
+  {
+    "id": 62,
+    "english": "mix",
+    "russian": "смешивать",
+    "level": "A2",
+    "category": "verbs",
+    "example": "Mix the flour and milk."
+  },
+  {
+    "id": 63,
+    "english": "pour",
+    "russian": "наливать",
+    "level": "A2",
+    "category": "verbs",
+    "example": "Pour some tea into my cup."
+  },
+  {
+    "id": 64,
+    "english": "fill",
+    "russian": "наполнять",
+    "level": "A2",
+    "category": "verbs",
+    "example": "Fill the glass with water."
+  },
+  {
+    "id": 65,
+    "english": "add",
+    "russian": "добавлять",
+    "level": "A2",
+    "category": "verbs",
+    "example": "Add some salt."
+  },
+  {
+    "id": 66,
+    "english": "count",
+    "russian": "считать",
+    "level": "A2",
+    "category": "verbs",
+    "example": "Count from one to ten."
+  },
+  {
+    "id": 67,
+    "english": "check",
+    "russian": "проверять",
+    "level": "A2",
+    "category": "verbs",
+    "example": "Check your answers."
+  },
+  {
+    "id": 68,
+    "english": "practice",
+    "russian": "практиковаться",
+    "level": "A2",
+    "category": "verbs",
+    "example": "I practice English every day."
+  },
+  {
+    "id": 69,
+    "english": "prepare",
+    "russian": "готовить, подготавливать",
+    "level": "A2",
+    "category": "verbs",
+    "example": "She prepares dinner."
+  },
+  {
+    "id": 70,
+    "english": "plan",
+    "russian": "планировать",
+    "level": "A2",
+    "category": "verbs",
+    "example": "We plan a trip to Italy."
+  },
+  {
+    "id": 71,
+    "english": "join",
+    "russian": "присоединяться",
+    "level": "A2",
+    "category": "verbs",
+    "example": "Join us for lunch."
+  },
+  {
+    "id": 72,
+    "english": "share",
+    "russian": "делиться",
+    "level": "A2",
+    "category": "verbs",
+    "example": "We share a room."
+  },
+  {
+    "id": 73,
+    "english": "rent",
+    "russian": "снимать, арендовать",
+    "level": "A2",
+    "category": "verbs",
+    "example": "They rent a small flat."
+  },
+  {
+    "id": 74,
+    "english": "reserve",
+    "russian": "бронировать",
+    "level": "A2",
+    "category": "verbs",
+    "example": "I reserve a table for two."
+  },
+  {
+    "id": 75,
+    "english": "return",
+    "russian": "возвращаться",
+    "level": "A2",
+    "category": "verbs",
+    "example": "He returns home late."
+  },
+  {
+    "id": 76,
+    "english": "move",
+    "russian": "двигаться, переезжать",
+    "level": "A2",
+    "category": "verbs",
+    "example": "They move to a new city."
+  },
+  {
+    "id": 77,
+    "english": "stay",
+    "russian": "оставаться",
+    "level": "A2",
+    "category": "verbs",
+    "example": "Stay here, please."
+  },
+  {
+    "id": 78,
+    "english": "wake up",
+    "russian": "просыпаться",
+    "level": "A2",
+    "category": "verbs",
+    "example": "I wake up at six."
+  },
+  {
+    "id": 79,
+    "english": "search",
+    "russian": "искать",
+    "level": "A2",
+    "category": "verbs",
+    "example": "I search for my phone."
+  },
+  {
+    "id": 80,
+    "english": "get",
+    "russian": "получать, становиться",
+    "level": "A2",
+    "category": "verbs",
+    "example": "I get a lot of emails."
+  },
+  {
+    "id": 81,
+    "english": "make",
+    "russian": "делать, создавать",
+    "level": "A2",
+    "category": "verbs",
+    "example": "Mom makes a cake."
+  },
+  {
+    "id": 82,
+    "english": "put",
+    "russian": "класть",
+    "level": "A2",
+    "category": "verbs",
+    "example": "Put the book on the shelf."
+  },
+  {
+    "id": 83,
+    "english": "use",
+    "russian": "использовать",
+    "level": "A2",
+    "category": "verbs",
+    "example": "Can I use your phone?"
+  },
+  {
+    "id": 84,
+    "english": "keep",
+    "russian": "хранить, держать",
+    "level": "A2",
+    "category": "verbs",
+    "example": "Keep the receipt."
+  },
+  {
+    "id": 85,
+    "english": "let",
+    "russian": "позволять",
+    "level": "A2",
+    "category": "verbs",
+    "example": "Let me help you."
+  },
+  {
+    "id": 86,
+    "english": "pass",
+    "russian": "передавать, проходить",
+    "level": "A2",
+    "category": "verbs",
+    "example": "Pass me the salt."
+  },
+  {
+    "id": 87,
+    "english": "hurt",
+    "russian": "болеть, причинять боль",
+    "level": "A2",
+    "category": "verbs",
+    "example": "My back hurts."
+  },
+  {
+    "id": 88,
+    "english": "worry",
+    "russian": "беспокоиться",
+    "level": "A2",
+    "category": "verbs",
+    "example": "Don't worry, it's fine."
+  },
+  {
+    "id": 89,
+    "english": "hurry",
+    "russian": "спешить",
+    "level": "A2",
+    "category": "verbs",
+    "example": "Hurry up, we are late."
+  },
+  {
+    "id": 90,
+    "english": "rest",
+    "russian": "отдыхать",
+    "level": "A2",
+    "category": "verbs",
+    "example": "I rest on the sofa."
+  },
+  {
+    "id": 91,
+    "english": "relax",
+    "russian": "расслабляться",
+    "level": "A2",
+    "category": "verbs",
+    "example": "He relaxes after work."
+  },
+  {
+    "id": 92,
+    "english": "exercise",
+    "russian": "заниматься спортом",
+    "level": "A2",
+    "category": "verbs",
+    "example": "I exercise every morning."
+  },
+  {
+    "id": 93,
+    "english": "improve",
+    "russian": "улучшать",
+    "level": "A2",
+    "category": "verbs",
+    "example": "I want to improve my English."
+  },
+  {
+    "id": 94,
+    "english": "create",
+    "russian": "создавать",
+    "level": "A2",
+    "category": "verbs",
+    "example": "Artists create beautiful things."
+  },
+  {
+    "id": 95,
+    "english": "accept",
+    "russian": "принимать",
+    "level": "A2",
+    "category": "verbs",
+    "example": "She accepts the gift."
+  },
+  {
+    "id": 96,
+    "english": "refuse",
+    "russian": "отказываться",
+    "level": "A2",
+    "category": "verbs",
+    "example": "He refuses to help."
+  },
+  {
+    "id": 97,
+    "english": "promise",
+    "russian": "обещать",
+    "level": "A2",
+    "category": "verbs",
+    "example": "I promise to call you."
+  },
+  {
+    "id": 98,
+    "english": "offer",
+    "russian": "предлагать",
+    "level": "A2",
+    "category": "verbs",
+    "example": "They offer us free tea."
+  },
+  {
+    "id": 99,
+    "english": "suggest",
+    "russian": "советовать, предлагать",
+    "level": "A2",
+    "category": "verbs",
+    "example": "I suggest a walk."
+  },
+  {
+    "id": 100,
+    "english": "thank",
+    "russian": "благодарить",
+    "level": "A2",
+    "category": "verbs",
+    "example": "I thank you for the gift."
+  },
+  {
+    "id": 101,
+    "english": "celebrate",
+    "russian": "праздновать",
+    "level": "A2",
+    "category": "verbs",
+    "example": "We celebrate her birthday."
+  },
+  {
+    "id": 102,
+    "english": "mean",
+    "russian": "означать",
+    "level": "A2",
+    "category": "verbs",
+    "example": "What does this word mean?"
+  },
+  {
+    "id": 103,
+    "english": "translate",
+    "russian": "переводить",
+    "level": "A2",
+    "category": "verbs",
+    "example": "Please translate this text."
+  },
+  {
+    "id": 104,
+    "english": "happen",
+    "russian": "случаться",
+    "level": "A2",
+    "category": "verbs",
+    "example": "What happens next?"
+  },
+  {
+    "id": 105,
+    "english": "become",
+    "russian": "становиться",
+    "level": "A2",
+    "category": "verbs",
+    "example": "She wants to become a doctor."
+  },
+  {
+    "id": 106,
+    "english": "prefer",
+    "russian": "предпочитать",
+    "level": "A2",
+    "category": "verbs",
+    "example": "I prefer tea to coffee."
+  },
+  {
+    "id": 107,
+    "english": "wave",
+    "russian": "махать",
+    "level": "A2",
+    "category": "verbs",
+    "example": "She waves goodbye."
+  },
+  {
+    "id": 108,
+    "english": "teacher",
+    "russian": "учитель",
+    "level": "A2",
+    "category": "people",
+    "example": "My teacher is very kind."
+  },
+  {
+    "id": 109,
+    "english": "student",
+    "russian": "студент, ученик",
+    "level": "A2",
+    "category": "people",
+    "example": "He is a university student."
+  },
+  {
+    "id": 110,
+    "english": "doctor",
+    "russian": "врач",
+    "level": "A2",
+    "category": "people",
+    "example": "The doctor helps sick people."
+  },
+  {
+    "id": 111,
+    "english": "nurse",
+    "russian": "медсестра",
+    "level": "A2",
+    "category": "people",
+    "example": "The nurse works at night."
+  },
+  {
+    "id": 112,
+    "english": "driver",
+    "russian": "водитель",
+    "level": "A2",
+    "category": "people",
+    "example": "The bus driver is friendly."
+  },
+  {
+    "id": 113,
+    "english": "policeman",
+    "russian": "полицейский",
+    "level": "A2",
+    "category": "people",
+    "example": "The policeman helps the tourist."
+  },
+  {
+    "id": 114,
+    "english": "waiter",
+    "russian": "официант",
+    "level": "A2",
+    "category": "people",
+    "example": "The waiter brings the menu."
+  },
+  {
+    "id": 115,
+    "english": "player",
+    "russian": "игрок",
+    "level": "A2",
+    "category": "people",
+    "example": "He is a good football player."
+  },
+  {
+    "id": 116,
+    "english": "boss",
+    "russian": "начальник",
+    "level": "A2",
+    "category": "people",
+    "example": "My boss is in a meeting."
+  },
+  {
+    "id": 117,
+    "english": "colleague",
+    "russian": "коллега",
+    "level": "A2",
+    "category": "people",
+    "example": "My colleague helps me a lot."
+  },
+  {
+    "id": 118,
+    "english": "customer",
+    "russian": "покупатель",
+    "level": "A2",
+    "category": "people",
+    "example": "The customer asks about the price."
+  },
+  {
+    "id": 119,
+    "english": "manager",
+    "russian": "менеджер",
+    "level": "A2",
+    "category": "people",
+    "example": "The manager is very busy."
+  },
+  {
+    "id": 120,
+    "english": "guest",
+    "russian": "гость",
+    "level": "A2",
+    "category": "people",
+    "example": "We have guests today."
+  },
+  {
+    "id": 121,
+    "english": "neighbour",
+    "russian": "сосед",
+    "level": "A2",
+    "category": "people",
+    "example": "My neighbour has a dog."
+  },
+  {
+    "id": 122,
+    "english": "baby",
+    "russian": "малыш",
+    "level": "A2",
+    "category": "people",
+    "example": "The baby is one year old."
+  },
+  {
+    "id": 123,
+    "english": "tourist",
+    "russian": "турист",
+    "level": "A2",
+    "category": "people",
+    "example": "The tourists take photos."
+  },
+  {
+    "id": 124,
+    "english": "passenger",
+    "russian": "пассажир",
+    "level": "A2",
+    "category": "people",
+    "example": "The passengers wait for the bus."
+  },
+  {
+    "id": 125,
+    "english": "uncle",
+    "russian": "дядя",
+    "level": "A2",
+    "category": "family",
+    "example": "My uncle lives in Kazan."
+  },
+  {
+    "id": 126,
+    "english": "aunt",
+    "russian": "тётя",
+    "level": "A2",
+    "category": "family",
+    "example": "My aunt is a nurse."
+  },
+  {
+    "id": 127,
+    "english": "cousin",
+    "russian": "двоюродный брат, сестра",
+    "level": "A2",
+    "category": "family",
+    "example": "My cousin is my age."
+  },
+  {
+    "id": 128,
+    "english": "nephew",
+    "russian": "племянник",
+    "level": "A2",
+    "category": "family",
+    "example": "My nephew plays football."
+  },
+  {
+    "id": 129,
+    "english": "niece",
+    "russian": "племянница",
+    "level": "A2",
+    "category": "family",
+    "example": "My niece is three years old."
+  },
+  {
+    "id": 130,
+    "english": "grandparents",
+    "russian": "бабушка и дедушка",
+    "level": "A2",
+    "category": "family",
+    "example": "My grandparents live in a village."
+  },
+  {
+    "id": 131,
+    "english": "relatives",
+    "russian": "родственники",
+    "level": "A2",
+    "category": "family",
+    "example": "All my relatives come for the holiday."
+  },
+  {
+    "id": 132,
+    "english": "January",
+    "russian": "январь",
+    "level": "A2",
+    "category": "time",
+    "example": "January is the first month."
+  },
+  {
+    "id": 133,
+    "english": "February",
+    "russian": "февраль",
+    "level": "A2",
+    "category": "time",
+    "example": "February is short."
+  },
+  {
+    "id": 134,
+    "english": "March",
+    "russian": "март",
+    "level": "A2",
+    "category": "time",
+    "example": "Spring starts in March."
+  },
+  {
+    "id": 135,
+    "english": "April",
+    "russian": "апрель",
+    "level": "A2",
+    "category": "time",
+    "example": "It often rains in April."
+  },
+  {
+    "id": 136,
+    "english": "May",
+    "russian": "май",
+    "level": "A2",
+    "category": "time",
+    "example": "My birthday is in May."
+  },
+  {
+    "id": 137,
+    "english": "June",
+    "russian": "июнь",
+    "level": "A2",
+    "category": "time",
+    "example": "School ends in June."
+  },
+  {
+    "id": 138,
+    "english": "July",
+    "russian": "июль",
+    "level": "A2",
+    "category": "time",
+    "example": "July is very hot."
+  },
+  {
+    "id": 139,
+    "english": "August",
+    "russian": "август",
+    "level": "A2",
+    "category": "time",
+    "example": "We go to the sea in August."
+  },
+  {
+    "id": 140,
+    "english": "September",
+    "russian": "сентябрь",
+    "level": "A2",
+    "category": "time",
+    "example": "School starts in September."
+  },
+  {
+    "id": 141,
+    "english": "October",
+    "russian": "октябрь",
+    "level": "A2",
+    "category": "time",
+    "example": "It is cold in October."
+  },
+  {
+    "id": 142,
+    "english": "November",
+    "russian": "ноябрь",
+    "level": "A2",
+    "category": "time",
+    "example": "It rains a lot in November."
+  },
+  {
+    "id": 143,
+    "english": "December",
+    "russian": "декабрь",
+    "level": "A2",
+    "category": "time",
+    "example": "Winter starts in December."
+  },
+  {
+    "id": 144,
+    "english": "Tuesday",
+    "russian": "вторник",
+    "level": "A2",
+    "category": "time",
+    "example": "We have English on Tuesday."
+  },
+  {
+    "id": 145,
+    "english": "Wednesday",
+    "russian": "среда",
+    "level": "A2",
+    "category": "time",
+    "example": "Wednesday is the middle of the week."
+  },
+  {
+    "id": 146,
+    "english": "Thursday",
+    "russian": "четверг",
+    "level": "A2",
+    "category": "time",
+    "example": "I play tennis on Thursday."
+  },
+  {
+    "id": 147,
+    "english": "Friday",
+    "russian": "пятница",
+    "level": "A2",
+    "category": "time",
+    "example": "Friday is my favourite day."
+  },
+  {
+    "id": 148,
+    "english": "Saturday",
+    "russian": "суббота",
+    "level": "A2",
+    "category": "time",
+    "example": "We rest on Saturday."
+  },
+  {
+    "id": 149,
+    "english": "spring",
+    "russian": "весна",
+    "level": "A2",
+    "category": "time",
+    "example": "Flowers grow in spring."
+  },
+  {
+    "id": 150,
+    "english": "autumn",
+    "russian": "осень",
+    "level": "A2",
+    "category": "time",
+    "example": "Leaves are yellow in autumn."
+  },
+  {
+    "id": 151,
+    "english": "afternoon",
+    "russian": "время после полудня",
+    "level": "A2",
+    "category": "time",
+    "example": "I sleep in the afternoon."
+  },
+  {
+    "id": 152,
+    "english": "weekend",
+    "russian": "выходные",
+    "level": "A2",
+    "category": "time",
+    "example": "What do you do at the weekend?"
+  },
+  {
+    "id": 153,
+    "english": "holiday",
+    "russian": "праздник, каникулы",
+    "level": "A2",
+    "category": "time",
+    "example": "We have a holiday in May."
+  },
+  {
+    "id": 154,
+    "english": "birthday",
+    "russian": "день рождения",
+    "level": "A2",
+    "category": "time",
+    "example": "Today is my birthday."
+  },
+  {
+    "id": 155,
+    "english": "date",
+    "russian": "дата, свидание",
+    "level": "A2",
+    "category": "time",
+    "example": "What is the date today?"
+  },
+  {
+    "id": 156,
+    "english": "season",
+    "russian": "сезон, время года",
+    "level": "A2",
+    "category": "time",
+    "example": "Summer is my favourite season."
+  },
+  {
+    "id": 157,
+    "english": "past",
+    "russian": "прошлое",
+    "level": "A2",
+    "category": "time",
+    "example": "In the past we had no phones."
+  },
+  {
+    "id": 158,
+    "english": "future",
+    "russian": "будущее",
+    "level": "A2",
+    "category": "time",
+    "example": "I think about my future."
+  },
+  {
+    "id": 159,
+    "english": "tonight",
+    "russian": "сегодня вечером",
+    "level": "A2",
+    "category": "time",
+    "example": "What are you doing tonight?"
+  },
+  {
+    "id": 160,
+    "english": "soon",
+    "russian": "скоро",
+    "level": "A2",
+    "category": "time",
+    "example": "See you soon."
+  },
+  {
+    "id": 161,
+    "english": "already",
+    "russian": "уже",
+    "level": "A2",
+    "category": "time",
+    "example": "I have already eaten."
+  },
+  {
+    "id": 162,
+    "english": "still",
+    "russian": "всё ещё",
+    "level": "A2",
+    "category": "time",
+    "example": "He is still at work."
+  },
+  {
+    "id": 163,
+    "english": "later",
+    "russian": "позже",
+    "level": "A2",
+    "category": "time",
+    "example": "I call you later."
+  },
+  {
+    "id": 164,
+    "english": "before",
+    "russian": "до, перед",
+    "level": "A2",
+    "category": "time",
+    "example": "Wash your hands before dinner."
+  },
+  {
+    "id": 165,
+    "english": "after",
+    "russian": "после",
+    "level": "A2",
+    "category": "time",
+    "example": "After school I go home."
+  },
+  {
+    "id": 166,
+    "english": "early",
+    "russian": "рано",
+    "level": "A2",
+    "category": "time",
+    "example": "I get up early."
+  },
+  {
+    "id": 167,
+    "english": "late",
+    "russian": "поздно",
+    "level": "A2",
+    "category": "time",
+    "example": "We are late for class."
+  },
+  {
+    "id": 168,
+    "english": "suddenly",
+    "russian": "внезапно",
+    "level": "A2",
+    "category": "time",
+    "example": "Suddenly the lights go out."
+  },
+  {
+    "id": 169,
+    "english": "finally",
+    "russian": "наконец",
+    "level": "A2",
+    "category": "time",
+    "example": "Finally we arrive."
+  },
+  {
+    "id": 170,
+    "english": "usually",
+    "russian": "обычно",
+    "level": "A2",
+    "category": "time",
+    "example": "I usually walk to work."
+  },
+  {
+    "id": 171,
+    "english": "butter",
+    "russian": "масло сливочное",
+    "level": "A2",
+    "category": "food",
+    "example": "I put butter on the bread."
+  },
+  {
+    "id": 172,
+    "english": "jam",
+    "russian": "джем",
+    "level": "A2",
+    "category": "food",
+    "example": "She likes strawberry jam."
+  },
+  {
+    "id": 173,
+    "english": "honey",
+    "russian": "мёд",
+    "level": "A2",
+    "category": "food",
+    "example": "Add honey to your tea."
+  },
+  {
+    "id": 174,
+    "english": "sandwich",
+    "russian": "бутерброд",
+    "level": "A2",
+    "category": "food",
+    "example": "I eat a sandwich for lunch."
+  },
+  {
+    "id": 175,
+    "english": "pizza",
+    "russian": "пицца",
+    "level": "A2",
+    "category": "food",
+    "example": "We order a big pizza."
+  },
+  {
+    "id": 176,
+    "english": "pasta",
+    "russian": "паста",
+    "level": "A2",
+    "category": "food",
+    "example": "Pasta is my favourite food."
+  },
+  {
+    "id": 177,
+    "english": "tomato",
+    "russian": "помидор",
+    "level": "A2",
+    "category": "food",
+    "example": "Cut the tomato."
+  },
+  {
+    "id": 178,
+    "english": "onion",
+    "russian": "лук",
+    "level": "A2",
+    "category": "food",
+    "example": "Onions make me cry."
+  },
+  {
+    "id": 179,
+    "english": "carrot",
+    "russian": "морковь",
+    "level": "A2",
+    "category": "food",
+    "example": "Rabbits like carrots."
+  },
+  {
+    "id": 180,
+    "english": "cucumber",
+    "russian": "огурец",
+    "level": "A2",
+    "category": "food",
+    "example": "I put a cucumber in the salad."
+  },
+  {
+    "id": 181,
+    "english": "pepper",
+    "russian": "перец",
+    "level": "A2",
+    "category": "food",
+    "example": "Add some pepper."
+  },
+  {
+    "id": 182,
+    "english": "lemon",
+    "russian": "лимон",
+    "level": "A2",
+    "category": "food",
+    "example": "Tea with lemon is good."
+  },
+  {
+    "id": 183,
+    "english": "orange",
+    "russian": "апельсин",
+    "level": "A2",
+    "category": "food",
+    "example": "I drink orange juice every morning."
+  },
+  {
+    "id": 184,
+    "english": "strawberry",
+    "russian": "клубника",
+    "level": "A2",
+    "category": "food",
+    "example": "Strawberries are red."
+  },
+  {
+    "id": 185,
+    "english": "chocolate",
+    "russian": "шоколад",
+    "level": "A2",
+    "category": "food",
+    "example": "Children love chocolate."
+  },
+  {
+    "id": 186,
+    "english": "candy",
+    "russian": "конфета",
+    "level": "A2",
+    "category": "food",
+    "example": "Don't eat too much candy."
+  },
+  {
+    "id": 187,
+    "english": "ice cream",
+    "russian": "мороженое",
+    "level": "A2",
+    "category": "food",
+    "example": "I want an ice cream."
+  },
+  {
+    "id": 188,
+    "english": "cookie",
+    "russian": "печенье",
+    "level": "A2",
+    "category": "food",
+    "example": "Mom bakes cookies."
+  },
+  {
+    "id": 189,
+    "english": "yogurt",
+    "russian": "йогурт",
+    "level": "A2",
+    "category": "food",
+    "example": "I eat yogurt with fruit."
+  },
+  {
+    "id": 190,
+    "english": "salad",
+    "russian": "салат",
+    "level": "A2",
+    "category": "food",
+    "example": "We make a fresh salad."
+  },
+  {
+    "id": 191,
+    "english": "menu",
+    "russian": "меню",
+    "level": "A2",
+    "category": "food",
+    "example": "Can I see the menu?"
+  },
+  {
+    "id": 192,
+    "english": "bill",
+    "russian": "счёт",
+    "level": "A2",
+    "category": "food",
+    "example": "The bill, please."
+  },
+  {
+    "id": 193,
+    "english": "plate",
+    "russian": "тарелка",
+    "level": "A2",
+    "category": "food",
+    "example": "Put the food on the plate."
+  },
+  {
+    "id": 194,
+    "english": "cup",
+    "russian": "чашка",
+    "level": "A2",
+    "category": "food",
+    "example": "A cup of tea, please."
+  },
+  {
+    "id": 195,
+    "english": "glass",
+    "russian": "стакан, стекло",
+    "level": "A2",
+    "category": "food",
+    "example": "A glass of water, please."
+  },
+  {
+    "id": 196,
+    "english": "knife",
+    "russian": "нож",
+    "level": "A2",
+    "category": "food",
+    "example": "Be careful with the knife."
+  },
+  {
+    "id": 197,
+    "english": "spoon",
+    "russian": "ложка",
+    "level": "A2",
+    "category": "food",
+    "example": "I eat soup with a spoon."
+  },
+  {
+    "id": 198,
+    "english": "bottle",
+    "russian": "бутылка",
+    "level": "A2",
+    "category": "food",
+    "example": "Buy a bottle of water."
+  },
+  {
+    "id": 199,
+    "english": "sofa",
+    "russian": "диван",
+    "level": "A2",
+    "category": "home",
+    "example": "The sofa is very comfortable."
+  },
+  {
+    "id": 200,
+    "english": "mirror",
+    "russian": "зеркало",
+    "level": "A2",
+    "category": "home",
+    "example": "She looks in the mirror."
+  },
+  {
+    "id": 201,
+    "english": "lamp",
+    "russian": "лампа",
+    "level": "A2",
+    "category": "home",
+    "example": "Turn on the lamp."
+  },
+  {
+    "id": 202,
+    "english": "shelf",
+    "russian": "полка",
+    "level": "A2",
+    "category": "home",
+    "example": "The books are on the shelf."
+  },
+  {
+    "id": 203,
+    "english": "wardrobe",
+    "russian": "шкаф для одежды",
+    "level": "A2",
+    "category": "home",
+    "example": "My clothes are in the wardrobe."
+  },
+  {
+    "id": 204,
+    "english": "fridge",
+    "russian": "холодильник",
+    "level": "A2",
+    "category": "home",
+    "example": "The milk is in the fridge."
+  },
+  {
+    "id": 205,
+    "english": "oven",
+    "russian": "духовка",
+    "level": "A2",
+    "category": "home",
+    "example": "The cake is in the oven."
+  },
+  {
+    "id": 206,
+    "english": "towel",
+    "russian": "полотенце",
+    "level": "A2",
+    "category": "home",
+    "example": "I need a clean towel."
+  },
+  {
+    "id": 207,
+    "english": "soap",
+    "russian": "мыло",
+    "level": "A2",
+    "category": "home",
+    "example": "Wash your hands with soap."
+  },
+  {
+    "id": 208,
+    "english": "toothbrush",
+    "russian": "зубная щётка",
+    "level": "A2",
+    "category": "home",
+    "example": "I have a new toothbrush."
+  },
+  {
+    "id": 209,
+    "english": "pillow",
+    "russian": "подушка",
+    "level": "A2",
+    "category": "home",
+    "example": "This pillow is soft."
+  },
+  {
+    "id": 210,
+    "english": "floor",
+    "russian": "пол, этаж",
+    "level": "A2",
+    "category": "home",
+    "example": "The floor is wet."
+  },
+  {
+    "id": 211,
+    "english": "wall",
+    "russian": "стена",
+    "level": "A2",
+    "category": "home",
+    "example": "There is a picture on the wall."
+  },
+  {
+    "id": 212,
+    "english": "roof",
+    "russian": "крыша",
+    "level": "A2",
+    "category": "home",
+    "example": "The cat is on the roof."
+  },
+  {
+    "id": 213,
+    "english": "stairs",
+    "russian": "лестница",
+    "level": "A2",
+    "category": "home",
+    "example": "Take the stairs."
+  },
+  {
+    "id": 214,
+    "english": "balcony",
+    "russian": "балкон",
+    "level": "A2",
+    "category": "home",
+    "example": "We drink tea on the balcony."
+  },
+  {
+    "id": 215,
+    "english": "yard",
+    "russian": "двор",
+    "level": "A2",
+    "category": "home",
+    "example": "The kids play in the yard."
+  },
+  {
+    "id": 216,
+    "english": "apartment",
+    "russian": "квартира",
+    "level": "A2",
+    "category": "home",
+    "example": "Their apartment is on the fifth floor."
+  },
+  {
+    "id": 217,
+    "english": "address",
+    "russian": "адрес",
+    "level": "A2",
+    "category": "home",
+    "example": "What is your address?"
+  },
+  {
+    "id": 218,
+    "english": "furniture",
+    "russian": "мебель",
+    "level": "A2",
+    "category": "home",
+    "example": "We buy new furniture."
+  },
+  {
+    "id": 219,
+    "english": "library",
+    "russian": "библиотека",
+    "level": "A2",
+    "category": "places",
+    "example": "I borrow books from the library."
+  },
+  {
+    "id": 220,
+    "english": "museum",
+    "russian": "музей",
+    "level": "A2",
+    "category": "places",
+    "example": "We visit the museum."
+  },
+  {
+    "id": 221,
+    "english": "cinema",
+    "russian": "кинотеатр",
+    "level": "A2",
+    "category": "places",
+    "example": "Let's go to the cinema."
+  },
+  {
+    "id": 222,
+    "english": "theatre",
+    "russian": "театр",
+    "level": "A2",
+    "category": "places",
+    "example": "The theatre is in the centre."
+  },
+  {
+    "id": 223,
+    "english": "church",
+    "russian": "церковь",
+    "level": "A2",
+    "category": "places",
+    "example": "The church is very old."
+  },
+  {
+    "id": 224,
+    "english": "supermarket",
+    "russian": "супермаркет",
+    "level": "A2",
+    "category": "places",
+    "example": "I buy food at the supermarket."
+  },
+  {
+    "id": 225,
+    "english": "pharmacy",
+    "russian": "аптека",
+    "level": "A2",
+    "category": "places",
+    "example": "The pharmacy is next to the bank."
+  },
+  {
+    "id": 226,
+    "english": "bakery",
+    "russian": "пекарня",
+    "level": "A2",
+    "category": "places",
+    "example": "The bakery smells wonderful."
+  },
+  {
+    "id": 227,
+    "english": "village",
+    "russian": "деревня",
+    "level": "A2",
+    "category": "places",
+    "example": "My grandparents live in a village."
+  },
+  {
+    "id": 228,
+    "english": "town",
+    "russian": "городок, город",
+    "level": "A2",
+    "category": "places",
+    "example": "It is a small town."
+  },
+  {
+    "id": 229,
+    "english": "island",
+    "russian": "остров",
+    "level": "A2",
+    "category": "places",
+    "example": "We go to an island."
+  },
+  {
+    "id": 230,
+    "english": "mountain",
+    "russian": "гора",
+    "level": "A2",
+    "category": "places",
+    "example": "The mountain is very high."
+  },
+  {
+    "id": 231,
+    "english": "river",
+    "russian": "река",
+    "level": "A2",
+    "category": "places",
+    "example": "The river is wide."
+  },
+  {
+    "id": 232,
+    "english": "lake",
+    "russian": "озеро",
+    "level": "A2",
+    "category": "places",
+    "example": "We swim in the lake."
+  },
+  {
+    "id": 233,
+    "english": "sea",
+    "russian": "море",
+    "level": "A2",
+    "category": "places",
+    "example": "The sea is warm."
+  },
+  {
+    "id": 234,
+    "english": "beach",
+    "russian": "пляж",
+    "level": "A2",
+    "category": "places",
+    "example": "We lie on the beach."
+  },
+  {
+    "id": 235,
+    "english": "forest",
+    "russian": "лес",
+    "level": "A2",
+    "category": "places",
+    "example": "We walk in the forest."
+  },
+  {
+    "id": 236,
+    "english": "field",
+    "russian": "поле",
+    "level": "A2",
+    "category": "places",
+    "example": "The cows are in the field."
+  },
+  {
+    "id": 237,
+    "english": "zoo",
+    "russian": "зоопарк",
+    "level": "A2",
+    "category": "places",
+    "example": "The children love the zoo."
+  },
+  {
+    "id": 238,
+    "english": "gym",
+    "russian": "спортзал",
+    "level": "A2",
+    "category": "places",
+    "example": "I go to the gym three times a week."
+  },
+  {
+    "id": 239,
+    "english": "university",
+    "russian": "университет",
+    "level": "A2",
+    "category": "places",
+    "example": "She studies at a university."
+  },
+  {
+    "id": 240,
+    "english": "classroom",
+    "russian": "класс, аудитория",
+    "level": "A2",
+    "category": "places",
+    "example": "The classroom is big."
+  },
+  {
+    "id": 241,
+    "english": "building",
+    "russian": "здание",
+    "level": "A2",
+    "category": "places",
+    "example": "It is a tall building."
+  },
+  {
+    "id": 242,
+    "english": "centre",
+    "russian": "центр",
+    "level": "A2",
+    "category": "places",
+    "example": "The shops are in the centre."
+  },
+  {
+    "id": 243,
+    "english": "taxi",
+    "russian": "такси",
+    "level": "A2",
+    "category": "travel",
+    "example": "Let's take a taxi."
+  },
+  {
+    "id": 244,
+    "english": "subway",
+    "russian": "метро",
+    "level": "A2",
+    "category": "travel",
+    "example": "I go by subway."
+  },
+  {
+    "id": 245,
+    "english": "tram",
+    "russian": "трамвай",
+    "level": "A2",
+    "category": "travel",
+    "example": "The tram is on time."
+  },
+  {
+    "id": 246,
+    "english": "boat",
+    "russian": "лодка",
+    "level": "A2",
+    "category": "travel",
+    "example": "We go on a boat trip."
+  },
+  {
+    "id": 247,
+    "english": "ship",
+    "russian": "корабль",
+    "level": "A2",
+    "category": "travel",
+    "example": "The ship is big."
+  },
+  {
+    "id": 248,
+    "english": "passport",
+    "russian": "паспорт",
+    "level": "A2",
+    "category": "travel",
+    "example": "Show your passport, please."
+  },
+  {
+    "id": 249,
+    "english": "luggage",
+    "russian": "багаж",
+    "level": "A2",
+    "category": "travel",
+    "example": "Where is my luggage?"
+  },
+  {
+    "id": 250,
+    "english": "suitcase",
+    "russian": "чемодан",
+    "level": "A2",
+    "category": "travel",
+    "example": "My suitcase is heavy."
+  },
+  {
+    "id": 251,
+    "english": "journey",
+    "russian": "путешествие",
+    "level": "A2",
+    "category": "travel",
+    "example": "It is a long journey."
+  },
+  {
+    "id": 252,
+    "english": "trip",
+    "russian": "поездка",
+    "level": "A2",
+    "category": "travel",
+    "example": "We plan a trip to the mountains."
+  },
+  {
+    "id": 253,
+    "english": "flight",
+    "russian": "рейс",
+    "level": "A2",
+    "category": "travel",
+    "example": "The flight is two hours."
+  },
+  {
+    "id": 254,
+    "english": "seat",
+    "russian": "место",
+    "level": "A2",
+    "category": "travel",
+    "example": "This seat is free."
+  },
+  {
+    "id": 255,
+    "english": "vacation",
+    "russian": "отпуск",
+    "level": "A2",
+    "category": "travel",
+    "example": "We go on vacation in July."
+  },
+  {
+    "id": 256,
+    "english": "tent",
+    "russian": "палатка",
+    "level": "A2",
+    "category": "travel",
+    "example": "We sleep in a tent."
+  },
+  {
+    "id": 257,
+    "english": "backpack",
+    "russian": "рюкзак",
+    "level": "A2",
+    "category": "travel",
+    "example": "My backpack is full."
+  },
+  {
+    "id": 258,
+    "english": "neck",
+    "russian": "шея",
+    "level": "A2",
+    "category": "body",
+    "example": "He has a long neck."
+  },
+  {
+    "id": 259,
+    "english": "arm",
+    "russian": "рука (от плеча)",
+    "level": "A2",
+    "category": "body",
+    "example": "He breaks his arm."
+  },
+  {
+    "id": 260,
+    "english": "finger",
+    "russian": "палец руки",
+    "level": "A2",
+    "category": "body",
+    "example": "I cut my finger."
+  },
+  {
+    "id": 261,
+    "english": "knee",
+    "russian": "колено",
+    "level": "A2",
+    "category": "body",
+    "example": "My knee hurts."
+  },
+  {
+    "id": 262,
+    "english": "foot",
+    "russian": "ступня",
+    "level": "A2",
+    "category": "body",
+    "example": "My left foot is cold."
+  },
+  {
+    "id": 263,
+    "english": "back",
+    "russian": "спина",
+    "level": "A2",
+    "category": "body",
+    "example": "My back hurts."
+  },
+  {
+    "id": 264,
+    "english": "stomach",
+    "russian": "живот, желудок",
+    "level": "A2",
+    "category": "body",
+    "example": "I have a pain in my stomach."
+  },
+  {
+    "id": 265,
+    "english": "tooth",
+    "russian": "зуб",
+    "level": "A2",
+    "category": "body",
+    "example": "I have a bad tooth."
+  },
+  {
+    "id": 266,
+    "english": "headache",
+    "russian": "головная боль",
+    "level": "A2",
+    "category": "body",
+    "example": "I have a headache."
+  },
+  {
+    "id": 267,
+    "english": "pain",
+    "russian": "боль",
+    "level": "A2",
+    "category": "body",
+    "example": "I feel a lot of pain."
+  },
+  {
+    "id": 268,
+    "english": "medicine",
+    "russian": "лекарство",
+    "level": "A2",
+    "category": "body",
+    "example": "Take this medicine twice a day."
+  },
+  {
+    "id": 269,
+    "english": "patient",
+    "russian": "пациент",
+    "level": "A2",
+    "category": "body",
+    "example": "The patient waits in the hospital."
+  },
+  {
+    "id": 270,
+    "english": "health",
+    "russian": "здоровье",
+    "level": "A2",
+    "category": "body",
+    "example": "Health is more important than money."
+  },
+  {
+    "id": 271,
+    "english": "healthy",
+    "russian": "здоровый",
+    "level": "A2",
+    "category": "body",
+    "example": "Fruit is healthy."
+  },
+  {
+    "id": 272,
+    "english": "sick",
+    "russian": "больной",
+    "level": "A2",
+    "category": "body",
+    "example": "She is sick today."
+  },
+  {
+    "id": 273,
+    "english": "flu",
+    "russian": "грипп",
+    "level": "A2",
+    "category": "body",
+    "example": "He has the flu."
+  },
+  {
+    "id": 274,
+    "english": "jacket",
+    "russian": "куртка",
+    "level": "A2",
+    "category": "clothes",
+    "example": "He wears a leather jacket."
+  },
+  {
+    "id": 275,
+    "english": "jeans",
+    "russian": "джинсы",
+    "level": "A2",
+    "category": "clothes",
+    "example": "I like blue jeans."
+  },
+  {
+    "id": 276,
+    "english": "skirt",
+    "russian": "юбка",
+    "level": "A2",
+    "category": "clothes",
+    "example": "She wears a long skirt."
+  },
+  {
+    "id": 277,
+    "english": "sweater",
+    "russian": "свитер",
+    "level": "A2",
+    "category": "clothes",
+    "example": "This sweater is warm."
+  },
+  {
+    "id": 278,
+    "english": "socks",
+    "russian": "носки",
+    "level": "A2",
+    "category": "clothes",
+    "example": "I need new socks."
+  },
+  {
+    "id": 279,
+    "english": "boots",
+    "russian": "ботинки, сапоги",
+    "level": "A2",
+    "category": "clothes",
+    "example": "Wear boots in the snow."
+  },
+  {
+    "id": 280,
+    "english": "sandals",
+    "russian": "сандалии",
+    "level": "A2",
+    "category": "clothes",
+    "example": "I wear sandals in summer."
+  },
+  {
+    "id": 281,
+    "english": "scarf",
+    "russian": "шарф",
+    "level": "A2",
+    "category": "clothes",
+    "example": "Take a scarf, it is cold."
+  },
+  {
+    "id": 282,
+    "english": "suit",
+    "russian": "костюм",
+    "level": "A2",
+    "category": "clothes",
+    "example": "He wears a grey suit."
+  },
+  {
+    "id": 283,
+    "english": "uniform",
+    "russian": "форма",
+    "level": "A2",
+    "category": "clothes",
+    "example": "Children wear a school uniform."
+  },
+  {
+    "id": 284,
+    "english": "pocket",
+    "russian": "карман",
+    "level": "A2",
+    "category": "clothes",
+    "example": "My phone is in my pocket."
+  },
+  {
+    "id": 285,
+    "english": "umbrella",
+    "russian": "зонт",
+    "level": "A2",
+    "category": "clothes",
+    "example": "Take an umbrella, it's raining."
+  },
+  {
+    "id": 286,
+    "english": "glasses",
+    "russian": "очки",
+    "level": "A2",
+    "category": "clothes",
+    "example": "He wears glasses."
+  },
+  {
+    "id": 287,
+    "english": "wallet",
+    "russian": "кошелёк",
+    "level": "A2",
+    "category": "clothes",
+    "example": "My wallet is empty."
+  },
+  {
+    "id": 288,
+    "english": "grey",
+    "russian": "серый",
+    "level": "A2",
+    "category": "colors",
+    "example": "The sky is grey today."
+  },
+  {
+    "id": 289,
+    "english": "pink",
+    "russian": "розовый",
+    "level": "A2",
+    "category": "colors",
+    "example": "She has a pink bag."
+  },
+  {
+    "id": 290,
+    "english": "purple",
+    "russian": "фиолетовый",
+    "level": "A2",
+    "category": "colors",
+    "example": "Purple flowers grow here."
+  },
+  {
+    "id": 291,
+    "english": "gold",
+    "russian": "золотой",
+    "level": "A2",
+    "category": "colors",
+    "example": "He wears a gold watch."
+  },
+  {
+    "id": 292,
+    "english": "silver",
+    "russian": "серебряный",
+    "level": "A2",
+    "category": "colors",
+    "example": "She has a silver ring."
+  },
+  {
+    "id": 293,
+    "english": "dark",
+    "russian": "тёмный",
+    "level": "A2",
+    "category": "colors",
+    "example": "It is dark outside."
+  },
+  {
+    "id": 294,
+    "english": "light",
+    "russian": "светлый, лёгкий",
+    "level": "A2",
+    "category": "colors",
+    "example": "The room is light and warm."
+  },
+  {
+    "id": 295,
+    "english": "bright",
+    "russian": "яркий",
+    "level": "A2",
+    "category": "colors",
+    "example": "She wears a bright dress."
+  },
+  {
+    "id": 296,
+    "english": "angry",
+    "russian": "сердитый",
+    "level": "A2",
+    "category": "adjectives",
+    "example": "He is angry with me."
+  },
+  {
+    "id": 297,
+    "english": "afraid",
+    "russian": "испуганный",
+    "level": "A2",
+    "category": "adjectives",
+    "example": "I am afraid of dogs."
+  },
+  {
+    "id": 298,
+    "english": "bored",
+    "russian": "скучающий",
+    "level": "A2",
+    "category": "adjectives",
+    "example": "I am bored at home."
+  },
+  {
+    "id": 299,
+    "english": "polite",
+    "russian": "вежливый",
+    "level": "A2",
+    "category": "adjectives",
+    "example": "The boy is polite."
+  },
+  {
+    "id": 300,
+    "english": "kind",
+    "russian": "добрый",
+    "level": "A2",
+    "category": "adjectives",
+    "example": "She is a kind woman."
+  },
+  {
+    "id": 301,
+    "english": "clever",
+    "russian": "умный",
+    "level": "A2",
+    "category": "adjectives",
+    "example": "He is a clever student."
+  },
+  {
+    "id": 302,
+    "english": "funny",
+    "russian": "смешной",
+    "level": "A2",
+    "category": "adjectives",
+    "example": "This film is funny."
+  },
+  {
+    "id": 303,
+    "english": "famous",
+    "russian": "знаменитый",
+    "level": "A2",
+    "category": "adjectives",
+    "example": "She is a famous actress."
+  },
+  {
+    "id": 304,
+    "english": "rich",
+    "russian": "богатый",
+    "level": "A2",
+    "category": "adjectives",
+    "example": "He is a rich businessman."
+  },
+  {
+    "id": 305,
+    "english": "poor",
+    "russian": "бедный",
+    "level": "A2",
+    "category": "adjectives",
+    "example": "They are poor but happy."
+  },
+  {
+    "id": 306,
+    "english": "busy",
+    "russian": "занятой",
+    "level": "A2",
+    "category": "adjectives",
+    "example": "I am busy today."
+  },
+  {
+    "id": 307,
+    "english": "careful",
+    "russian": "осторожный",
+    "level": "A2",
+    "category": "adjectives",
+    "example": "Be careful with the knife."
+  },
+  {
+    "id": 308,
+    "english": "dangerous",
+    "russian": "опасный",
+    "level": "A2",
+    "category": "adjectives",
+    "example": "The road is dangerous."
+  },
+  {
+    "id": 309,
+    "english": "safe",
+    "russian": "безопасный",
+    "level": "A2",
+    "category": "adjectives",
+    "example": "This area is safe."
+  },
+  {
+    "id": 310,
+    "english": "quiet",
+    "russian": "тихий",
+    "level": "A2",
+    "category": "adjectives",
+    "example": "The street is quiet at night."
+  },
+  {
+    "id": 311,
+    "english": "loud",
+    "russian": "громкий",
+    "level": "A2",
+    "category": "adjectives",
+    "example": "The music is too loud."
+  },
+  {
+    "id": 312,
+    "english": "noisy",
+    "russian": "шумный",
+    "level": "A2",
+    "category": "adjectives",
+    "example": "The children are noisy."
+  },
+  {
+    "id": 313,
+    "english": "calm",
+    "russian": "спокойный",
+    "level": "A2",
+    "category": "adjectives",
+    "example": "Stay calm."
+  },
+  {
+    "id": 314,
+    "english": "warm",
+    "russian": "тёплый",
+    "level": "A2",
+    "category": "adjectives",
+    "example": "The room is warm."
+  },
+  {
+    "id": 315,
+    "english": "cool",
+    "russian": "прохладный",
+    "level": "A2",
+    "category": "adjectives",
+    "example": "The evening is cool."
+  },
+  {
+    "id": 316,
+    "english": "wet",
+    "russian": "мокрый",
+    "level": "A2",
+    "category": "adjectives",
+    "example": "My shoes are wet."
+  },
+  {
+    "id": 317,
+    "english": "dry",
+    "russian": "сухой",
+    "level": "A2",
+    "category": "adjectives",
+    "example": "The towel is dry."
+  },
+  {
+    "id": 318,
+    "english": "soft",
+    "russian": "мягкий",
+    "level": "A2",
+    "category": "adjectives",
+    "example": "The bed is soft."
+  },
+  {
+    "id": 319,
+    "english": "hard",
+    "russian": "твёрдый, трудный",
+    "level": "A2",
+    "category": "adjectives",
+    "example": "The exam is hard."
+  },
+  {
+    "id": 320,
+    "english": "heavy",
+    "russian": "тяжёлый",
+    "level": "A2",
+    "category": "adjectives",
+    "example": "The box is heavy."
+  },
+  {
+    "id": 321,
+    "english": "wide",
+    "russian": "широкий",
+    "level": "A2",
+    "category": "adjectives",
+    "example": "The river is wide."
+  },
+  {
+    "id": 322,
+    "english": "deep",
+    "russian": "глубокий",
+    "level": "A2",
+    "category": "adjectives",
+    "example": "The lake is deep."
+  },
+  {
+    "id": 323,
+    "english": "high",
+    "russian": "высокий (о предметах)",
+    "level": "A2",
+    "category": "adjectives",
+    "example": "The wall is high."
+  },
+  {
+    "id": 324,
+    "english": "thin",
+    "russian": "тонкий, худой",
+    "level": "A2",
+    "category": "adjectives",
+    "example": "The paper is thin."
+  },
+  {
+    "id": 325,
+    "english": "sweet",
+    "russian": "сладкий",
+    "level": "A2",
+    "category": "adjectives",
+    "example": "This cake is too sweet."
+  },
+  {
+    "id": 326,
+    "english": "fresh",
+    "russian": "свежий",
+    "level": "A2",
+    "category": "adjectives",
+    "example": "The bread is fresh."
+  },
+  {
+    "id": 327,
+    "english": "delicious",
+    "russian": "очень вкусный",
+    "level": "A2",
+    "category": "adjectives",
+    "example": "The soup is delicious."
+  },
+  {
+    "id": 328,
+    "english": "popular",
+    "russian": "популярный",
+    "level": "A2",
+    "category": "adjectives",
+    "example": "This song is very popular."
+  },
+  {
+    "id": 329,
+    "english": "modern",
+    "russian": "современный",
+    "level": "A2",
+    "category": "adjectives",
+    "example": "They live in a modern flat."
+  },
+  {
+    "id": 330,
+    "english": "public",
+    "russian": "общественный",
+    "level": "A2",
+    "category": "adjectives",
+    "example": "We take public transport."
+  },
+  {
+    "id": 331,
+    "english": "special",
+    "russian": "особенный",
+    "level": "A2",
+    "category": "adjectives",
+    "example": "Today is a special day."
+  },
+  {
+    "id": 332,
+    "english": "main",
+    "russian": "главный",
+    "level": "A2",
+    "category": "adjectives",
+    "example": "The main street is busy."
+  },
+  {
+    "id": 333,
+    "english": "same",
+    "russian": "такой же",
+    "level": "A2",
+    "category": "adjectives",
+    "example": "We have the same phone."
+  },
+  {
+    "id": 334,
+    "english": "other",
+    "russian": "другой",
+    "level": "A2",
+    "category": "adjectives",
+    "example": "I have two other books."
+  },
+  {
+    "id": 335,
+    "english": "next",
+    "russian": "следующий",
+    "level": "A2",
+    "category": "adjectives",
+    "example": "See you next week."
+  },
+  {
+    "id": 336,
+    "english": "last",
+    "russian": "последний",
+    "level": "A2",
+    "category": "adjectives",
+    "example": "This is the last bus."
+  },
+  {
+    "id": 337,
+    "english": "only",
+    "russian": "единственный",
+    "level": "A2",
+    "category": "adjectives",
+    "example": "He is my only brother."
+  },
+  {
+    "id": 338,
+    "english": "real",
+    "russian": "настоящий",
+    "level": "A2",
+    "category": "adjectives",
+    "example": "Is this gold real?"
+  },
+  {
+    "id": 339,
+    "english": "true",
+    "russian": "верный, правдивый",
+    "level": "A2",
+    "category": "adjectives",
+    "example": "That story is true."
+  },
+  {
+    "id": 340,
+    "english": "possible",
+    "russian": "возможный",
+    "level": "A2",
+    "category": "adjectives",
+    "example": "Is it possible to pay by card?"
+  },
+  {
+    "id": 341,
+    "english": "necessary",
+    "russian": "необходимый",
+    "level": "A2",
+    "category": "adjectives",
+    "example": "A passport is necessary."
+  },
+  {
+    "id": 342,
+    "english": "useful",
+    "russian": "полезный",
+    "level": "A2",
+    "category": "adjectives",
+    "example": "This app is very useful."
+  },
+  {
+    "id": 343,
+    "english": "strange",
+    "russian": "странный",
+    "level": "A2",
+    "category": "adjectives",
+    "example": "I hear a strange noise."
+  },
+  {
+    "id": 344,
+    "english": "terrible",
+    "russian": "ужасный",
+    "level": "A2",
+    "category": "adjectives",
+    "example": "The weather is terrible."
+  },
+  {
+    "id": 345,
+    "english": "wonderful",
+    "russian": "замечательный",
+    "level": "A2",
+    "category": "adjectives",
+    "example": "We have a wonderful time."
+  },
+  {
+    "id": 346,
+    "english": "excellent",
+    "russian": "отличный",
+    "level": "A2",
+    "category": "adjectives",
+    "example": "Your work is excellent."
+  },
+  {
+    "id": 347,
+    "english": "perfect",
+    "russian": "идеальный",
+    "level": "A2",
+    "category": "adjectives",
+    "example": "The weather is perfect."
+  },
+  {
+    "id": 348,
+    "english": "lovely",
+    "russian": "прекрасный, милый",
+    "level": "A2",
+    "category": "adjectives",
+    "example": "What a lovely day!"
+  },
+  {
+    "id": 349,
+    "english": "alone",
+    "russian": "один",
+    "level": "A2",
+    "category": "adjectives",
+    "example": "She lives alone."
+  },
+  {
+    "id": 350,
+    "english": "sure",
+    "russian": "уверенный",
+    "level": "A2",
+    "category": "adjectives",
+    "example": "I am sure he is right."
+  },
+  {
+    "id": 351,
+    "english": "enough",
+    "russian": "достаточно",
+    "level": "A2",
+    "category": "adjectives",
+    "example": "We have enough food."
+  },
+  {
+    "id": 352,
+    "english": "comfortable",
+    "russian": "удобный",
+    "level": "A2",
+    "category": "adjectives",
+    "example": "This chair is comfortable."
+  },
+  {
+    "id": 353,
+    "english": "crowded",
+    "russian": "переполненный",
+    "level": "A2",
+    "category": "adjectives",
+    "example": "The bus is crowded."
+  },
+  {
+    "id": 354,
+    "english": "huge",
+    "russian": "огромный",
+    "level": "A2",
+    "category": "adjectives",
+    "example": "They have a huge house."
+  },
+  {
+    "id": 355,
+    "english": "almost",
+    "russian": "почти",
+    "level": "A2",
+    "category": "adverbs",
+    "example": "I am almost ready."
+  },
+  {
+    "id": 356,
+    "english": "quite",
+    "russian": "довольно",
+    "level": "A2",
+    "category": "adverbs",
+    "example": "The film is quite good."
+  },
+  {
+    "id": 357,
+    "english": "really",
+    "russian": "действительно",
+    "level": "A2",
+    "category": "adverbs",
+    "example": "I really like it."
+  },
+  {
+    "id": 358,
+    "english": "too",
+    "russian": "слишком",
+    "level": "A2",
+    "category": "adverbs",
+    "example": "It is too hot."
+  },
+  {
+    "id": 359,
+    "english": "maybe",
+    "russian": "может быть",
+    "level": "A2",
+    "category": "adverbs",
+    "example": "Maybe we go tomorrow."
+  },
+  {
+    "id": 360,
+    "english": "perhaps",
+    "russian": "возможно",
+    "level": "A2",
+    "category": "adverbs",
+    "example": "Perhaps he is at home."
+  },
+  {
+    "id": 361,
+    "english": "probably",
+    "russian": "вероятно",
+    "level": "A2",
+    "category": "adverbs",
+    "example": "It will probably rain."
+  },
+  {
+    "id": 362,
+    "english": "together",
+    "russian": "вместе",
+    "level": "A2",
+    "category": "adverbs",
+    "example": "We study together."
+  },
+  {
+    "id": 363,
+    "english": "everywhere",
+    "russian": "везде",
+    "level": "A2",
+    "category": "adverbs",
+    "example": "There are flowers everywhere."
+  },
+  {
+    "id": 364,
+    "english": "inside",
+    "russian": "внутри",
+    "level": "A2",
+    "category": "adverbs",
+    "example": "Let's go inside."
+  },
+  {
+    "id": 365,
+    "english": "outside",
+    "russian": "снаружи",
+    "level": "A2",
+    "category": "adverbs",
+    "example": "The kids play outside."
+  },
+  {
+    "id": 366,
+    "english": "abroad",
+    "russian": "за границей",
+    "level": "A2",
+    "category": "adverbs",
+    "example": "He studies abroad."
+  },
+  {
+    "id": 367,
+    "english": "quickly",
+    "russian": "быстро",
+    "level": "A2",
+    "category": "adverbs",
+    "example": "Please come quickly."
+  },
+  {
+    "id": 368,
+    "english": "slowly",
+    "russian": "медленно",
+    "level": "A2",
+    "category": "adverbs",
+    "example": "Speak slowly, please."
+  },
+  {
+    "id": 369,
+    "english": "carefully",
+    "russian": "осторожно",
+    "level": "A2",
+    "category": "adverbs",
+    "example": "Drive carefully."
+  },
+  {
+    "id": 370,
+    "english": "so",
+    "russian": "так, поэтому",
+    "level": "A2",
+    "category": "adverbs",
+    "example": "I was tired, so I slept."
+  },
+  {
+    "id": 371,
+    "english": "then",
+    "russian": "затем",
+    "level": "A2",
+    "category": "adverbs",
+    "example": "First we eat, then we go."
+  },
+  {
+    "id": 372,
+    "english": "while",
+    "russian": "пока",
+    "level": "A2",
+    "category": "adverbs",
+    "example": "I read while I wait."
+  },
+  {
+    "id": 373,
+    "english": "if",
+    "russian": "если",
+    "level": "A2",
+    "category": "adverbs",
+    "example": "If it rains, we stay at home."
+  },
+  {
+    "id": 374,
+    "english": "than",
+    "russian": "чем",
+    "level": "A2",
+    "category": "adverbs",
+    "example": "He is taller than me."
+  },
+  {
+    "id": 375,
+    "english": "both",
+    "russian": "оба",
+    "level": "A2",
+    "category": "adverbs",
+    "example": "Both of my parents work."
+  },
+  {
+    "id": 376,
+    "english": "each",
+    "russian": "каждый",
+    "level": "A2",
+    "category": "adverbs",
+    "example": "Each student has a book."
+  },
+  {
+    "id": 377,
+    "english": "every",
+    "russian": "каждый, всякий",
+    "level": "A2",
+    "category": "adverbs",
+    "example": "I run every morning."
+  },
+  {
+    "id": 378,
+    "english": "all",
+    "russian": "все, всё",
+    "level": "A2",
+    "category": "adverbs",
+    "example": "All the students are here."
+  },
+  {
+    "id": 379,
+    "english": "some",
+    "russian": "несколько",
+    "level": "A2",
+    "category": "adverbs",
+    "example": "I want some tea."
+  },
+  {
+    "id": 380,
+    "english": "any",
+    "russian": "какой-нибудь",
+    "level": "A2",
+    "category": "adverbs",
+    "example": "Do you have any money?"
+  },
+  {
+    "id": 381,
+    "english": "many",
+    "russian": "много (счётное)",
+    "level": "A2",
+    "category": "adverbs",
+    "example": "There are many people."
+  },
+  {
+    "id": 382,
+    "english": "much",
+    "russian": "много (несчётное)",
+    "level": "A2",
+    "category": "adverbs",
+    "example": "I don't have much time."
+  },
+  {
+    "id": 383,
+    "english": "few",
+    "russian": "мало (счётное)",
+    "level": "A2",
+    "category": "adverbs",
+    "example": "Few people come here."
+  },
+  {
+    "id": 384,
+    "english": "little",
+    "russian": "мало (несчётное)",
+    "level": "A2",
+    "category": "adverbs",
+    "example": "I have little money."
+  },
+  {
+    "id": 385,
+    "english": "more",
+    "russian": "больше",
+    "level": "A2",
+    "category": "adverbs",
+    "example": "I need more time."
+  },
+  {
+    "id": 386,
+    "english": "most",
+    "russian": "наибольший, большинство",
+    "level": "A2",
+    "category": "adverbs",
+    "example": "Most people like music."
+  },
+  {
+    "id": 387,
+    "english": "less",
+    "russian": "меньше",
+    "level": "A2",
+    "category": "adverbs",
+    "example": "I eat less sugar now."
+  },
+  {
+    "id": 388,
+    "english": "another",
+    "russian": "другой, ещё один",
+    "level": "A2",
+    "category": "adverbs",
+    "example": "Can I have another cup?"
+  },
+  {
+    "id": 389,
+    "english": "about",
+    "russian": "о, около",
+    "level": "A2",
+    "category": "prepositions",
+    "example": "We talk about music."
+  },
+  {
+    "id": 390,
+    "english": "above",
+    "russian": "над, выше",
+    "level": "A2",
+    "category": "prepositions",
+    "example": "The lamp is above the table."
+  },
+  {
+    "id": 391,
+    "english": "below",
+    "russian": "под, ниже",
+    "level": "A2",
+    "category": "prepositions",
+    "example": "The temperature is below zero."
+  },
+  {
+    "id": 392,
+    "english": "between",
+    "russian": "между (двумя)",
+    "level": "A2",
+    "category": "prepositions",
+    "example": "The bank is between two shops."
+  },
+  {
+    "id": 393,
+    "english": "among",
+    "russian": "среди",
+    "level": "A2",
+    "category": "prepositions",
+    "example": "He is among friends."
+  },
+  {
+    "id": 394,
+    "english": "behind",
+    "russian": "позади",
+    "level": "A2",
+    "category": "prepositions",
+    "example": "The garden is behind the house."
+  },
+  {
+    "id": 395,
+    "english": "in front of",
+    "russian": "перед",
+    "level": "A2",
+    "category": "prepositions",
+    "example": "The car is in front of the house."
+  },
+  {
+    "id": 396,
+    "english": "next to",
+    "russian": "рядом с",
+    "level": "A2",
+    "category": "prepositions",
+    "example": "I sit next to the window."
+  },
+  {
+    "id": 397,
+    "english": "near",
+    "russian": "около, рядом",
+    "level": "A2",
+    "category": "prepositions",
+    "example": "I live near the park."
+  },
+  {
+    "id": 398,
+    "english": "opposite",
+    "russian": "напротив",
+    "level": "A2",
+    "category": "prepositions",
+    "example": "The bank is opposite the hotel."
+  },
+  {
+    "id": 399,
+    "english": "across",
+    "russian": "через",
+    "level": "A2",
+    "category": "prepositions",
+    "example": "He walks across the street."
+  },
+  {
+    "id": 400,
+    "english": "along",
+    "russian": "вдоль",
+    "level": "A2",
+    "category": "prepositions",
+    "example": "We walk along the river."
+  },
+  {
+    "id": 401,
+    "english": "through",
+    "russian": "сквозь",
+    "level": "A2",
+    "category": "prepositions",
+    "example": "The train goes through the tunnel."
+  },
+  {
+    "id": 402,
+    "english": "around",
+    "russian": "вокруг",
+    "level": "A2",
+    "category": "prepositions",
+    "example": "We travel around the world."
+  },
+  {
+    "id": 403,
+    "english": "over",
+    "russian": "над, через",
+    "level": "A2",
+    "category": "prepositions",
+    "example": "The plane flies over the city."
+  },
+  {
+    "id": 404,
+    "english": "under",
+    "russian": "под",
+    "level": "A2",
+    "category": "prepositions",
+    "example": "The cat is under the table."
+  },
+  {
+    "id": 405,
+    "english": "against",
+    "russian": "против",
+    "level": "A2",
+    "category": "prepositions",
+    "example": "The bike is against the wall."
+  },
+  {
+    "id": 406,
+    "english": "towards",
+    "russian": "к, в направлении",
+    "level": "A2",
+    "category": "prepositions",
+    "example": "She walks towards me."
+  },
+  {
+    "id": 407,
+    "english": "into",
+    "russian": "в (внутрь)",
+    "level": "A2",
+    "category": "prepositions",
+    "example": "He goes into the room."
+  },
+  {
+    "id": 408,
+    "english": "out of",
+    "russian": "из",
+    "level": "A2",
+    "category": "prepositions",
+    "example": "He gets out of the car."
+  },
+  {
+    "id": 409,
+    "english": "at",
+    "russian": "в, на (точке)",
+    "level": "A2",
+    "category": "prepositions",
+    "example": "I am at home."
+  },
+  {
+    "id": 410,
+    "english": "by",
+    "russian": "рядом, посредством",
+    "level": "A2",
+    "category": "prepositions",
+    "example": "I travel by bus."
+  },
+  {
+    "id": 411,
+    "english": "of",
+    "russian": "из, о",
+    "level": "A2",
+    "category": "prepositions",
+    "example": "A cup of tea, please."
+  },
+  {
+    "id": 412,
+    "english": "off",
+    "russian": "прочь, выключено",
+    "level": "A2",
+    "category": "prepositions",
+    "example": "Turn off the light."
+  },
+  {
+    "id": 413,
+    "english": "me",
+    "russian": "меня, мне",
+    "level": "A2",
+    "category": "pronouns",
+    "example": "Give me the book."
+  },
+  {
+    "id": 414,
+    "english": "him",
+    "russian": "его, ему",
+    "level": "A2",
+    "category": "pronouns",
+    "example": "I know him well."
+  },
+  {
+    "id": 415,
+    "english": "us",
+    "russian": "нас, нам",
+    "level": "A2",
+    "category": "pronouns",
+    "example": "Come with us."
+  },
+  {
+    "id": 416,
+    "english": "them",
+    "russian": "их, им",
+    "level": "A2",
+    "category": "pronouns",
+    "example": "I see them every day."
+  },
+  {
+    "id": 417,
+    "english": "mine",
+    "russian": "мой (отдельно)",
+    "level": "A2",
+    "category": "pronouns",
+    "example": "This bag is mine."
+  },
+  {
+    "id": 418,
+    "english": "yours",
+    "russian": "твой (отдельно)",
+    "level": "A2",
+    "category": "pronouns",
+    "example": "Is this pen yours?"
+  },
+  {
+    "id": 419,
+    "english": "everybody",
+    "russian": "все",
+    "level": "A2",
+    "category": "pronouns",
+    "example": "Everybody is here."
+  },
+  {
+    "id": 420,
+    "english": "nobody",
+    "russian": "никто",
+    "level": "A2",
+    "category": "pronouns",
+    "example": "Nobody knows the answer."
+  },
+  {
+    "id": 421,
+    "english": "somebody",
+    "russian": "кто-то",
+    "level": "A2",
+    "category": "pronouns",
+    "example": "Somebody is at the door."
+  },
+  {
+    "id": 422,
+    "english": "something",
+    "russian": "что-то",
+    "level": "A2",
+    "category": "pronouns",
+    "example": "I want something sweet."
+  },
+  {
+    "id": 423,
+    "english": "anything",
+    "russian": "что-нибудь",
+    "level": "A2",
+    "category": "pronouns",
+    "example": "Do you need anything?"
+  },
+  {
+    "id": 424,
+    "english": "nothing",
+    "russian": "ничего",
+    "level": "A2",
+    "category": "pronouns",
+    "example": "There is nothing in the box."
+  },
+  {
+    "id": 425,
+    "english": "everything",
+    "russian": "всё",
+    "level": "A2",
+    "category": "pronouns",
+    "example": "Everything is ready."
+  },
+  {
+    "id": 426,
+    "english": "someone",
+    "russian": "кто-то",
+    "level": "A2",
+    "category": "pronouns",
+    "example": "Someone calls you."
+  },
+  {
+    "id": 427,
+    "english": "everyone",
+    "russian": "каждый, все",
+    "level": "A2",
+    "category": "pronouns",
+    "example": "Everyone likes her."
+  },
+  {
+    "id": 428,
+    "english": "eleven",
+    "russian": "одиннадцать",
+    "level": "A2",
+    "category": "numbers",
+    "example": "There are eleven players in a team."
+  },
+  {
+    "id": 429,
+    "english": "twelve",
+    "russian": "двенадцать",
+    "level": "A2",
+    "category": "numbers",
+    "example": "There are twelve months in a year."
+  },
+  {
+    "id": 430,
+    "english": "thirteen",
+    "russian": "тринадцать",
+    "level": "A2",
+    "category": "numbers",
+    "example": "He is thirteen years old."
+  },
+  {
+    "id": 431,
+    "english": "fifteen",
+    "russian": "пятнадцать",
+    "level": "A2",
+    "category": "numbers",
+    "example": "It takes fifteen minutes."
+  },
+  {
+    "id": 432,
+    "english": "thirty",
+    "russian": "тридцать",
+    "level": "A2",
+    "category": "numbers",
+    "example": "My mother is thirty-five."
+  },
+  {
+    "id": 433,
+    "english": "forty",
+    "russian": "сорок",
+    "level": "A2",
+    "category": "numbers",
+    "example": "There are forty students."
+  },
+  {
+    "id": 434,
+    "english": "fifty",
+    "russian": "пятьдесят",
+    "level": "A2",
+    "category": "numbers",
+    "example": "The book costs fifty dollars."
+  },
+  {
+    "id": 435,
+    "english": "sixty",
+    "russian": "шестьдесят",
+    "level": "A2",
+    "category": "numbers",
+    "example": "An hour has sixty minutes."
+  },
+  {
+    "id": 436,
+    "english": "seventy",
+    "russian": "семьдесят",
+    "level": "A2",
+    "category": "numbers",
+    "example": "My grandfather is seventy."
+  },
+  {
+    "id": 437,
+    "english": "eighty",
+    "russian": "восемьдесят",
+    "level": "A2",
+    "category": "numbers",
+    "example": "The road is eighty kilometres long."
+  },
+  {
+    "id": 438,
+    "english": "ninety",
+    "russian": "девяносто",
+    "level": "A2",
+    "category": "numbers",
+    "example": "The test has ninety questions."
+  },
+  {
+    "id": 439,
+    "english": "million",
+    "russian": "миллион",
+    "level": "A2",
+    "category": "numbers",
+    "example": "Moscow has twelve million people."
+  },
+  {
+    "id": 440,
+    "english": "half",
+    "russian": "половина",
+    "level": "A2",
+    "category": "numbers",
+    "example": "Half of the class is absent."
+  },
+  {
+    "id": 441,
+    "english": "quarter",
+    "russian": "четверть",
+    "level": "A2",
+    "category": "numbers",
+    "example": "It is a quarter past five."
+  },
+  {
+    "id": 442,
+    "english": "third",
+    "russian": "третий",
+    "level": "A2",
+    "category": "numbers",
+    "example": "This is my third lesson."
+  },
+  {
+    "id": 443,
+    "english": "number",
+    "russian": "число, номер",
+    "level": "A2",
+    "category": "numbers",
+    "example": "What is your phone number?"
+  },
+  {
+    "id": 444,
+    "english": "sky",
+    "russian": "небо",
+    "level": "A2",
+    "category": "nature",
+    "example": "The sky is blue."
+  },
+  {
+    "id": 445,
+    "english": "moon",
+    "russian": "луна",
+    "level": "A2",
+    "category": "nature",
+    "example": "The moon is bright tonight."
+  },
+  {
+    "id": 446,
+    "english": "star",
+    "russian": "звезда",
+    "level": "A2",
+    "category": "nature",
+    "example": "I see a star."
+  },
+  {
+    "id": 447,
+    "english": "wind",
+    "russian": "ветер",
+    "level": "A2",
+    "category": "nature",
+    "example": "The wind is strong today."
+  },
+  {
+    "id": 448,
+    "english": "cloud",
+    "russian": "облако",
+    "level": "A2",
+    "category": "nature",
+    "example": "There is a big cloud in the sky."
+  },
+  {
+    "id": 449,
+    "english": "fire",
+    "russian": "огонь, пожар",
+    "level": "A2",
+    "category": "nature",
+    "example": "Don't play with fire."
+  },
+  {
+    "id": 450,
+    "english": "air",
+    "russian": "воздух",
+    "level": "A2",
+    "category": "nature",
+    "example": "The air is fresh here."
+  },
+  {
+    "id": 451,
+    "english": "grass",
+    "russian": "трава",
+    "level": "A2",
+    "category": "nature",
+    "example": "The grass is wet."
+  },
+  {
+    "id": 452,
+    "english": "temperature",
+    "russian": "температура",
+    "level": "A2",
+    "category": "nature",
+    "example": "The temperature is twenty degrees."
+  },
+  {
+    "id": 453,
+    "english": "sunny",
+    "russian": "солнечный",
+    "level": "A2",
+    "category": "nature",
+    "example": "It is a sunny day."
+  },
+  {
+    "id": 454,
+    "english": "bird",
+    "russian": "птица",
+    "level": "A2",
+    "category": "animals",
+    "example": "A bird sings in the tree."
+  },
+  {
+    "id": 455,
+    "english": "horse",
+    "russian": "лошадь",
+    "level": "A2",
+    "category": "animals",
+    "example": "She rides a horse."
+  },
+  {
+    "id": 456,
+    "english": "cow",
+    "russian": "корова",
+    "level": "A2",
+    "category": "animals",
+    "example": "The cow gives milk."
+  },
+  {
+    "id": 457,
+    "english": "rabbit",
+    "russian": "кролик",
+    "level": "A2",
+    "category": "animals",
+    "example": "The rabbit is white."
+  },
+  {
+    "id": 458,
+    "english": "mouse",
+    "russian": "мышь",
+    "level": "A2",
+    "category": "animals",
+    "example": "The cat catches a mouse."
+  },
+  {
+    "id": 459,
+    "english": "monkey",
+    "russian": "обезьяна",
+    "level": "A2",
+    "category": "animals",
+    "example": "The monkey eats a banana."
+  },
+  {
+    "id": 460,
+    "english": "lion",
+    "russian": "лев",
+    "level": "A2",
+    "category": "animals",
+    "example": "The lion is the king of animals."
+  },
+  {
+    "id": 461,
+    "english": "elephant",
+    "russian": "слон",
+    "level": "A2",
+    "category": "animals",
+    "example": "The elephant is very big."
+  },
+  {
+    "id": 462,
+    "english": "pencil",
+    "russian": "карандаш",
+    "level": "A2",
+    "category": "school",
+    "example": "Write with a pencil."
+  },
+  {
+    "id": 463,
+    "english": "paper",
+    "russian": "бумага",
+    "level": "A2",
+    "category": "school",
+    "example": "I need a sheet of paper."
+  },
+  {
+    "id": 464,
+    "english": "photo",
+    "russian": "фотография",
+    "level": "A2",
+    "category": "school",
+    "example": "She takes a photo of the sea."
+  },
+  {
+    "id": 465,
+    "english": "test",
+    "russian": "тест",
+    "level": "A2",
+    "category": "school",
+    "example": "We have a test on Monday."
+  },
+  {
+    "id": 466,
+    "english": "lesson",
+    "russian": "урок",
+    "level": "A2",
+    "category": "school",
+    "example": "The lesson starts at nine."
+  },
+  {
+    "id": 467,
+    "english": "homework",
+    "russian": "домашнее задание",
+    "level": "A2",
+    "category": "school",
+    "example": "I do my homework in the evening."
+  },
+  {
+    "id": 468,
+    "english": "exam",
+    "russian": "экзамен",
+    "level": "A2",
+    "category": "school",
+    "example": "The exam is difficult."
+  },
+  {
+    "id": 469,
+    "english": "class",
+    "russian": "класс, занятие",
+    "level": "A2",
+    "category": "school",
+    "example": "My class starts at ten."
+  },
+  {
+    "id": 470,
+    "english": "history",
+    "russian": "история",
+    "level": "A2",
+    "category": "school",
+    "example": "I like history."
+  },
+  {
+    "id": 471,
+    "english": "math",
+    "russian": "математика",
+    "level": "A2",
+    "category": "school",
+    "example": "Math is easy for me."
+  },
+  {
+    "id": 472,
+    "english": "letter",
+    "russian": "письмо, буква",
+    "level": "A2",
+    "category": "school",
+    "example": "I write a letter to my friend."
+  },
+  {
+    "id": 473,
+    "english": "message",
+    "russian": "сообщение",
+    "level": "A2",
+    "category": "school",
+    "example": "I send you a message."
+  },
+  {
+    "id": 474,
+    "english": "email",
+    "russian": "электронное письмо",
+    "level": "A2",
+    "category": "school",
+    "example": "I check my email every morning."
+  },
+  {
+    "id": 475,
+    "english": "internet",
+    "russian": "интернет",
+    "level": "A2",
+    "category": "school",
+    "example": "The internet is slow today."
+  },
+  {
+    "id": 476,
+    "english": "website",
+    "russian": "сайт",
+    "level": "A2",
+    "category": "school",
+    "example": "This website is useful."
+  },
+  {
+    "id": 477,
+    "english": "game",
+    "russian": "игра",
+    "level": "A2",
+    "category": "hobbies",
+    "example": "Let's play a game."
+  },
+  {
+    "id": 478,
+    "english": "film",
+    "russian": "фильм",
+    "level": "A2",
+    "category": "hobbies",
+    "example": "We watch a film tonight."
+  },
+  {
+    "id": 479,
+    "english": "movie",
+    "russian": "кино",
+    "level": "A2",
+    "category": "hobbies",
+    "example": "The movie is long."
+  },
+  {
+    "id": 480,
+    "english": "song",
+    "russian": "песня",
+    "level": "A2",
+    "category": "hobbies",
+    "example": "I like this song."
+  },
+  {
+    "id": 481,
+    "english": "sport",
+    "russian": "спорт",
+    "level": "A2",
+    "category": "hobbies",
+    "example": "Do you like sport?"
+  },
+  {
+    "id": 482,
+    "english": "football",
+    "russian": "футбол",
+    "level": "A2",
+    "category": "hobbies",
+    "example": "He plays football on Sundays."
+  },
+  {
+    "id": 483,
+    "english": "tennis",
+    "russian": "теннис",
+    "level": "A2",
+    "category": "hobbies",
+    "example": "My sister plays tennis."
+  },
+  {
+    "id": 484,
+    "english": "basketball",
+    "russian": "баскетбол",
+    "level": "A2",
+    "category": "hobbies",
+    "example": "They play basketball at school."
+  },
+  {
+    "id": 485,
+    "english": "party",
+    "russian": "вечеринка",
+    "level": "A2",
+    "category": "hobbies",
+    "example": "We have a party on Friday."
+  },
+  {
+    "id": 486,
+    "english": "gift",
+    "russian": "подарок",
+    "level": "A2",
+    "category": "hobbies",
+    "example": "This gift is for you."
+  },
+  {
+    "id": 487,
+    "english": "story",
+    "russian": "рассказ, история",
+    "level": "A2",
+    "category": "hobbies",
+    "example": "Tell me a story."
+  },
+  {
+    "id": 488,
+    "english": "news",
+    "russian": "новости",
+    "level": "A2",
+    "category": "hobbies",
+    "example": "I watch the news every evening."
+  },
+  {
+    "id": 489,
+    "english": "thing",
+    "russian": "вещь",
+    "level": "A2",
+    "category": "general",
+    "example": "What is that thing?"
+  },
+  {
+    "id": 490,
+    "english": "way",
+    "russian": "путь, способ",
+    "level": "A2",
+    "category": "general",
+    "example": "Is this the way to the station?"
+  },
+  {
+    "id": 491,
+    "english": "part",
+    "russian": "часть",
+    "level": "A2",
+    "category": "general",
+    "example": "This is the best part."
+  },
+  {
+    "id": 492,
+    "english": "place",
+    "russian": "место",
+    "level": "A2",
+    "category": "general",
+    "example": "This is a nice place."
+  },
+  {
+    "id": 493,
+    "english": "side",
+    "russian": "сторона",
+    "level": "A2",
+    "category": "general",
+    "example": "Look at the other side."
+  },
+  {
+    "id": 494,
+    "english": "end",
+    "russian": "конец",
+    "level": "A2",
+    "category": "general",
+    "example": "The end of the film is sad."
+  },
+  {
+    "id": 495,
+    "english": "idea",
+    "russian": "идея",
+    "level": "A2",
+    "category": "general",
+    "example": "That is a good idea."
+  },
+  {
+    "id": 496,
+    "english": "reason",
+    "russian": "причина",
+    "level": "A2",
+    "category": "general",
+    "example": "What is the reason?"
+  },
+  {
+    "id": 497,
+    "english": "price",
+    "russian": "цена",
+    "level": "A2",
+    "category": "general",
+    "example": "The price is too high."
+  },
+  {
+    "id": 498,
+    "english": "team",
+    "russian": "команда",
+    "level": "A2",
+    "category": "general",
+    "example": "Our team is good."
+  },
+  {
+    "id": 499,
+    "english": "company",
+    "russian": "компания",
+    "level": "A2",
+    "category": "general",
+    "example": "He works for a big company."
+  },
+  {
+    "id": 500,
+    "english": "traffic",
+    "russian": "движение, трафик",
+    "level": "A2",
+    "category": "general",
+    "example": "There is a lot of traffic today."
+  }
+]

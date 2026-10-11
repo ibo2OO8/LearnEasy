@@ -32,7 +32,6 @@ fun TopBar(onClick: () -> Unit, text: String) {
         modifier = Modifier
             .fillMaxWidth()
             .height(65.dp)
-
     ) {
         IconButton(
             modifier = Modifier

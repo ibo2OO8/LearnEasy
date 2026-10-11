@@ -6,15 +6,15 @@ import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
 import com.ibrohimapk3.learneasy.presentation.screen.alphabet.AlphabetScreen
+import com.ibrohimapk3.learneasy.presentation.screen.grammar.GrammarScreen
 import com.ibrohimapk3.learneasy.presentation.screen.main.HomeScreen
 import com.ibrohimapk3.learneasy.presentation.screen.onboarding.OnBoardingScreen
-import com.ibrohimapk3.learneasy.presentation.screen.vocabulary.WordListScreen
-import com.ibrohimapk3.learneasy.presentation.screen.vocabulary.component.WordItem
+import com.ibrohimapk3.learneasy.presentation.screen.vocabulary.view.WordListScreen
 
 @Composable
 fun AppNavGraph(modifier: Modifier = Modifier) {
     val navController = rememberNavController()
-    val startDestination = "main"
+    val startDestination = "onBoarding"
     NavHost(
         navController = navController, startDestination = startDestination,
     ) {
@@ -30,33 +30,29 @@ fun AppNavGraph(modifier: Modifier = Modifier) {
                 onVocabularyClick = {
                     navController.navigate("vocabulary")
                 },
-                onGrammarClick = {},
+                onGrammarClick = {
+                    navController.navigate("grammar")
+                },
                 onGamesClick = {},
                 modifier = modifier,
             )
         }
         composable("alphabet") {
+            0
             AlphabetScreen(modifier, onBack = {
                 navController.popBackStack()
             })
         }
         composable("vocabulary") {
             WordListScreen(
-                modifier = modifier,
-                unitTitle = "200 Слов на Уровень a1",
-                words = sampleWords,
-                onBack = {
+                modifier = modifier, unitTitle = "200 Слов на Уровень a1", onBack = {
                     navController.popBackStack()
-                }
-            )
+                })
+        }
+        composable("grammar") {
+            GrammarScreen(modifier = modifier, onBack = {
+                navController.popBackStack()
+            }, onTopicClick = {})
         }
     }
 }
-
-val sampleWords = listOf(
-    WordItem("1", "Cat", "Кот", "Kot"),
-    WordItem("6", "Dog", "Собака", "Sobaka"),
-    WordItem("2", "Dog", "Собака", "Sobaka"),
-    WordItem("3", "Bird", "Птица", "Ptitsa"),
-    WordItem("4", "Fish", "Рыба", "Ryba")
-)
