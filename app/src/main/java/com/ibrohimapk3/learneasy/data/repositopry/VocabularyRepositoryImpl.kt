@@ -29,7 +29,7 @@ class VocabularyRepositoryImpl(private val context: Context) : VocabularyReposit
         TODO("Not yet implemented")
     }
 
-    override fun getAllItemByLevel(): List<VocabularyModel> {
+    override fun getAllItem(): List<VocabularyModel> {
         val list = loadItems(context).map { it.toDomain() }
         return list
     }

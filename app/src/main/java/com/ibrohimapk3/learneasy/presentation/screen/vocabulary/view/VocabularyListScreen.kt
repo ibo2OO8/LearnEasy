@@ -38,9 +38,7 @@ fun WordListScreen(
     val speak = rememberTextToSpeech()
     Column(modifier = modifier.fillMaxSize()) {
         TopBar(onClick = {
-
             onBack()
-
         }, text = "Словарь")
         LazyColumn(
             modifier = Modifier.fillMaxSize(),

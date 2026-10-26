@@ -1,0 +1,340 @@
+[
+  {
+    "id": 1,
+    "title": "To Be (am / is / are)",
+    "level": "A1",
+    "explanation": "Глагол to be — самый важный глагол в английском. Он переводится как «быть», «являться», но в русском в настоящем времени мы его обычно не говорим («Я студент»). В английском же предложение без глагола невозможно, поэтому нужно обязательно сказать «I am a student». Формы зависят от подлежащего: с I используется am, с he / she / it — is, а с we / you / they — are. В разговорной речи часто используют краткие формы: I'm, he's, she's, it's, we're, you're, they're. Глагол to be нужен, чтобы назвать имя, возраст, профессию, национальность, описать человека или предмет, сказать, где кто-то находится.",
+    "formula": "I + am / He, She, It + is / We, You, They + are",
+    "examples": [
+      "I am a student.",
+      "She is 25 years old.",
+      "They are from Spain.",
+      "It is a big city."
+    ]
+  },
+  {
+    "id": 2,
+    "title": "To Be: Negative and Questions",
+    "level": "A1",
+    "explanation": "Чтобы сделать предложение с to be отрицательным, после глагола добавляется частица not: I am not, he is not (isn't), we are not (aren't). Чтобы задать вопрос, нужно поменять местами подлежащее и глагол: вместо «You are happy» получится «Are you happy?». Дополнительные слова вроде do или does здесь НЕ нужны — to be работает сам. На короткие вопросы отвечают коротко: «Yes, I am» или «No, I'm not». Обратите внимание: в кратком утвердительном ответе сокращать глагол нельзя — нельзя сказать «Yes, I'm».",
+    "formula": "Отрицание: Subject + am/is/are + not / Вопрос: Am/Is/Are + Subject?",
+    "examples": [
+      "He is not (isn't) at home.",
+      "We aren't tired.",
+      "Are you a teacher?",
+      "Is she your sister? — Yes, she is."
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Personal Pronouns",
+    "level": "A1",
+    "explanation": "Личные местоимения заменяют существительное, чтобы не повторять его снова и снова. В английском есть семь основных местоимений в роли подлежащего: I (я), you (ты / вы), he (он), she (она), it (оно — для предметов и животных), we (мы), they (они). Важно помнить, что I всегда пишется с большой буквы, а you используется и для «ты», и для «вы». Местоимение it употребляется, когда говорим о предметах, животных, погоде и времени: «It is cold», «It is 5 o'clock». Местоимения всегда стоят перед глаголом в утвердительном предложении.",
+    "formula": null,
+    "examples": [
+      "I like music.",
+      "He is my brother.",
+      "It is a nice day.",
+      "We are friends."
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Articles: a / an / the",
+    "level": "A1",
+    "explanation": "В английском языке перед существительными часто стоят артикли. Неопределённый артикль a / an используется с исчисляемыми существительными в единственном числе, когда мы говорим о предмете впервые или о любом предмете из многих. Артикль a ставится перед словами, которые начинаются на согласный звук (a book, a car), а an — перед словами, которые начинаются на гласный звук (an apple, an egg). Определённый артикль the используется, когда собеседник понимает, о каком именно предмете идёт речь, или предмет уникален (the sun, the moon). Если мы упоминаем предмет второй раз, мы ставим the.",
+    "formula": null,
+    "examples": [
+      "I have a dog.",
+      "She eats an apple every day.",
+      "The dog is very big.",
+      "The sun is hot."
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Plural Nouns",
+    "level": "A1",
+    "explanation": "Чтобы образовать множественное число большинства существительных, нужно добавить окончание -s: book — books. Если слово оканчивается на -s, -ss, -sh, -ch, -x, добавляется -es: box — boxes, watch — watches. Если слово оканчивается на согласную + y, то y меняется на -ies: city — cities. Есть и исключения, которые нужно просто выучить: man — men, woman — women, child — children, foot — feet, person — people. Артикль a / an перед существительными во множественном числе не ставится.",
+    "formula": "Noun + s / es",
+    "examples": [
+      "I have two brothers.",
+      "There are three boxes on the table.",
+      "The children are in the garden.",
+      "Many people live in this city."
+    ]
+  },
+  {
+    "id": 6,
+    "title": "This / That / These / Those",
+    "level": "A1",
+    "explanation": "Указательные местоимения помогают показать на предмет или человека. This (этот) и these (эти) используются для предметов, которые находятся рядом с нами. That (тот) и those (те) используются для предметов, которые находятся далеко. This и that — для единственного числа, these и those — для множественного. Например: «This is my pen» (ручка у меня в руке) и «That is my house» (дом вдалеке).",
+    "formula": "This / That + is + singular noun; These / Those + are + plural noun",
+    "examples": [
+      "This is my phone.",
+      "That is a beautiful car.",
+      "These are my friends.",
+      "Those books are very old."
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Possessive Adjectives",
+    "level": "A1",
+    "explanation": "Притяжательные местоимения показывают, кому что принадлежит. Они всегда стоят перед существительным: my (мой), your (твой / ваш), his (его), her (её), its (его, о предмете или животном), our (наш), their (их). После притяжательного местоимения артикль не ставится: нельзя сказать «the my book», правильно — «my book». Не путайте his и her: выбор зависит от того, КОМУ принадлежит предмет, а не от самого предмета. «Her brother» — брат принадлежит женщине.",
+    "formula": "my / your / his / her / its / our / their + Noun",
+    "examples": [
+      "This is my bag.",
+      "Her name is Anna.",
+      "We love our teacher.",
+      "Their house is very big."
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Possessive 's",
+    "level": "A1",
+    "explanation": "Чтобы сказать, что что-то принадлежит конкретному человеку, в английском используют окончание 's. Оно добавляется к имени или существительному: Tom's car — машина Тома. Порядок слов отличается от русского: сначала владелец, потом то, чем он владеет. Если существительное во множественном числе уже оканчивается на -s, то добавляется только апостроф: the students' books — книги студентов. Не путайте притяжательное 's с сокращением от is: «Tom's happy» = «Tom is happy», а «Tom's book» = «книга Тома».",
+    "formula": "Owner + 's + Thing",
+    "examples": [
+      "This is Tom's car.",
+      "My mother's name is Elena.",
+      "The girl's bag is red.",
+      "Where is your sister's phone?"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Have got / Has got",
+    "level": "A1",
+    "explanation": "Конструкция have got используется, чтобы сказать, что у нас что-то есть: семья, вещи, питомец, внешность. С местоимениями I / you / we / they используется have got, с he / she / it — has got. В разговорной речи часто говорят сокращённо: I've got, she's got. Для отрицания добавляется not после have / has: haven't got, hasn't got. Для вопроса have / has выносится вперёд: «Have you got a car?». Значение такое же, как у глагола have, но have got чаще встречается в британском английском.",
+    "formula": "I/You/We/They + have got / He/She/It + has got",
+    "examples": [
+      "I have got a new phone.",
+      "She has got two sisters.",
+      "We haven't got a car.",
+      "Has he got a dog?"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Present Simple",
+    "level": "A1",
+    "explanation": "Present Simple (простое настоящее время) используется для действий, которые происходят регулярно, для привычек, расписаний и общих фактов. Часто с ним встречаются слова: every day, always, usually, often, sometimes, never. Глагол стоит в начальной форме (V1). Но есть важное правило: с he / she / it к глаголу добавляется окончание -s или -es: «He works», «She watches». Окончание -es добавляется к глаголам на -s, -sh, -ch, -x, -o (go — goes), а если глагол заканчивается на согласную + y, то y меняется на -ies (study — studies).",
+    "formula": "Subject + V1 (s/es)",
+    "examples": [
+      "I play football every day.",
+      "She works at a school.",
+      "They live in London.",
+      "He studies English on Mondays."
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Present Simple: Negative",
+    "level": "A1",
+    "explanation": "Чтобы построить отрицание в Present Simple, нужен вспомогательный глагол do (для I / you / we / they) или does (для he / she / it) и частица not. Получаются сокращённые формы don't и doesn't. Очень важное правило: после doesn't основной глагол НЕ принимает окончание -s, потому что окончание уже «забрал» вспомогательный глагол. Правильно: «She doesn't like tea», неправильно: «She doesn't likes tea».",
+    "formula": "Subject + do/does + not + V1",
+    "examples": [
+      "I don't like coffee.",
+      "He doesn't work on Sundays.",
+      "We don't have a car.",
+      "She doesn't speak French."
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Present Simple: Questions",
+    "level": "A1",
+    "explanation": "Чтобы задать вопрос в Present Simple, в начало предложения ставится вспомогательный глагол Do (с I / you / we / they) или Does (с he / she / it). Затем идёт подлежащее и глагол в начальной форме без окончания -s. Короткие ответы строятся на основе того же вспомогательного глагола: «Yes, I do», «No, she doesn't». Если нужен специальный вопрос, вопросительное слово ставится в самое начало: «Where do you live?».",
+    "formula": "Do/Does + Subject + V1?",
+    "examples": [
+      "Do you like pizza?",
+      "Does she live in Paris?",
+      "Where do they work?",
+      "Do you speak English? — Yes, I do."
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Adverbs of Frequency",
+    "level": "A1",
+    "explanation": "Наречия частоты показывают, как часто что-то происходит. От самого частого к самому редкому: always (всегда), usually (обычно), often (часто), sometimes (иногда), rarely (редко), never (никогда). Они обычно стоят перед основным глаголом: «I often walk». Но если в предложении есть глагол to be, наречие ставится после него: «She is always late». Слово never уже имеет отрицательное значение, поэтому не нужно добавлять don't: говорим «I never eat meat», а не «I don't never eat meat».",
+    "formula": "Subject + adverb + V1 / Subject + am/is/are + adverb",
+    "examples": [
+      "I always drink tea in the morning.",
+      "He usually goes to bed at 11.",
+      "She is never late.",
+      "We sometimes eat out."
+    ]
+  },
+  {
+    "id": 14,
+    "title": "There is / There are",
+    "level": "A1",
+    "explanation": "Конструкция there is / there are используется, чтобы сказать, что где-то что-то есть или находится. There is используется с единственным числом и неисчисляемыми существительными, there are — с множественным числом. Часто такое предложение начинают с описания места, но по-английски нужно сначала сказать there is / are, а потом уже место. Отрицание: there isn't / there aren't. Вопрос: Is there...? / Are there...?. Для множественного числа часто используют some (в утверждении) и any (в вопросах и отрицаниях).",
+    "formula": "There is + singular / There are + plural",
+    "examples": [
+      "There is a book on the table.",
+      "There are three chairs in the room.",
+      "There isn't a bank near here.",
+      "Are there any shops in your street?"
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Can / Can't",
+    "level": "A1",
+    "explanation": "Модальный глагол can означает «уметь» или «мочь». Он используется, когда говорим о способностях (I can swim), возможностях и просьбах (Can you help me?). Особенности can: у него нет окончания -s с he / she / it, после него идёт глагол в начальной форме без to. Отрицание — can't (cannot), а вопрос образуется простой перестановкой: «Can you...?». Вспомогательный глагол do здесь не нужен.",
+    "formula": "Subject + can / can't + V1",
+    "examples": [
+      "I can swim very well.",
+      "She can't drive a car.",
+      "Can you help me, please?",
+      "He can speak three languages."
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Imperative",
+    "level": "A1",
+    "explanation": "Повелительное наклонение используется, чтобы дать команду, инструкцию, совет или сделать просьбу. В английском оно очень простое: используется глагол в начальной форме без подлежащего. Для отрицания перед глаголом ставится Don't. Чтобы звучать вежливее, добавляют слово please. Также можно предложить что-то сделать вместе с помощью Let's + глагол: «Let's go!».",
+    "formula": "V1 / Don't + V1 / Let's + V1",
+    "examples": [
+      "Open the door, please.",
+      "Don't touch it!",
+      "Sit down and listen.",
+      "Let's play football."
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Prepositions of Place: in / on / under",
+    "level": "A1",
+    "explanation": "Предлоги места показывают, где находится предмет. In означает «внутри» (in the box, in the room, in London). On означает «на поверхности» (on the table, on the wall). Under — «под» (under the bed). Другие частые предлоги: next to (рядом), behind (позади), in front of (перед), between (между), near (около). Предлоги стоят перед существительным и обычно отвечают на вопрос Where?.",
+    "formula": null,
+    "examples": [
+      "The cat is on the sofa.",
+      "My keys are in my bag.",
+      "The ball is under the table.",
+      "The bank is next to the school."
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Prepositions of Time: at / on / in",
+    "level": "A1",
+    "explanation": "Для времени в английском используются три главных предлога. At используется с точным временем и в некоторых выражениях (at 5 o'clock, at night, at noon, at the weekend). On используется с днями недели и датами (on Monday, on 5th May, on my birthday). In используется с более длинными периодами: месяцами, годами, временами года и частями суток (in July, in 2024, in summer, in the morning). Эти правила нужно выучить, потому что дословный перевод с русского не работает.",
+    "formula": "at + time / on + day, date / in + month, year, season",
+    "examples": [
+      "I wake up at 7 o'clock.",
+      "We have English on Monday.",
+      "She was born in 1998.",
+      "It is cold in winter."
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Present Continuous",
+    "level": "A1",
+    "explanation": "Present Continuous (настоящее длительное время) описывает действие, которое происходит прямо сейчас, в момент речи, или временную ситуацию. Часто с ним используют слова now, at the moment, today. Время образуется из глагола to be (am / is / are) и глагола с окончанием -ing. Правила написания: если глагол заканчивается на -e, то e убирается (make — making); если глагол короткий с одной гласной и согласной на конце, то согласная удваивается (run — running, sit — sitting). Отрицание — am/is/are + not, вопрос — перестановка to be в начало.",
+    "formula": "Subject + am/is/are + V-ing",
+    "examples": [
+      "I am reading a book now.",
+      "She is cooking dinner.",
+      "They aren't watching TV.",
+      "Are you listening to me?"
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Question Words",
+    "level": "A1",
+    "explanation": "Вопросительные слова помогают получить конкретную информацию. What — что / какой, Who — кто, Where — где / куда, When — когда, Why — почему, How — как, Which — какой (из нескольких), Whose — чей. Вопросительное слово всегда стоит в самом начале предложения, после него идёт вспомогательный глагол (do / does / am / is / are / can), потом подлежащее. На вопросы с Why принято отвечать с помощью because (потому что).",
+    "formula": "Question word + do/does/is/are/can + Subject + V?",
+    "examples": [
+      "What is your name?",
+      "Where do you live?",
+      "Why are you late?",
+      "How old is she?"
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Countable and Uncountable Nouns: some / any",
+    "level": "A1",
+    "explanation": "Исчисляемые существительные можно посчитать (one apple, two apples), у них есть единственное и множественное число. Неисчисляемые нельзя посчитать по штукам: water, milk, bread, rice, money, information. У них нет множественного числа, и они употребляются с глаголом в единственном числе. Для неопределённого количества используются слова some и any. Some используется в утвердительных предложениях, а any — в вопросах и отрицаниях. Исключение: в предложениях и просьбах Would you like some tea? используется some.",
+    "formula": null,
+    "examples": [
+      "I have some apples.",
+      "There isn't any milk in the fridge.",
+      "Do you have any brothers?",
+      "Would you like some water?"
+    ]
+  },
+  {
+    "id": 22,
+    "title": "How much / How many",
+    "level": "A1",
+    "explanation": "Чтобы спросить о количестве, используются два выражения. How many используется с исчисляемыми существительными во множественном числе (How many books?). How much используется с неисчисляемыми существительными (How much water?), а также для вопроса о цене: «How much is it?». В ответах можно использовать a lot of (много), a few (несколько — с исчисляемыми), a little (немного — с неисчисляемыми).",
+    "formula": "How many + plural noun / How much + uncountable noun",
+    "examples": [
+      "How many students are in your class?",
+      "How much sugar do you need?",
+      "How much is this T-shirt?",
+      "I have a lot of friends."
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Object Pronouns",
+    "level": "A1",
+    "explanation": "Объектные местоимения используются, когда человек или предмет является объектом действия, то есть стоит после глагола или предлога. Они отвечают на вопросы «кого? кому? чем?». Формы: me (меня, мне), you (тебя, вас), him (его), her (её), it (его, о предмете), us (нас), them (их). Сравните: «I love her» (Я люблю её) и «She loves me» (Она любит меня). Не путайте объектные местоимения с личными (he — him, she — her, they — them).",
+    "formula": "Subject + V + me / you / him / her / it / us / them",
+    "examples": [
+      "She likes me.",
+      "I can see him.",
+      "Please help us.",
+      "Give it to them."
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Past Simple: To Be (was / were)",
+    "level": "A1",
+    "explanation": "Прошедшая форма глагола to be — was и were. Was используется с I / he / she / it, а were — с you / we / they. Они используются, чтобы рассказать, где человек был, каким он был, как себя чувствовал. Для отрицания добавляется not: wasn't, weren't. Для вопроса was / were ставится перед подлежащим: «Were you at home?». Частые слова: yesterday, last week, in 2020, two days ago.",
+    "formula": "I/He/She/It + was / You/We/They + were",
+    "examples": [
+      "I was at home yesterday.",
+      "They were tired after the trip.",
+      "She wasn't happy.",
+      "Were you in London last year?"
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Past Simple: Regular Verbs",
+    "level": "A1",
+    "explanation": "Past Simple используется для действий, которые произошли и закончились в прошлом, часто со словами yesterday, last night, two days ago. У правильных глаголов прошедшая форма образуется добавлением окончания -ed: work — worked, play — played. Если глагол заканчивается на -e, добавляется только -d (live — lived). Если на согласную + y — y меняется на -ied (study — studied). Форма не меняется для всех лиц, то есть окончание одинаково с I, he, they. В отрицании и вопросе используется did, и тогда основной глагол возвращается в начальную форму: «Did you work?», «I didn't work».",
+    "formula": "Subject + V-ed / Subject + didn't + V1 / Did + Subject + V1?",
+    "examples": [
+      "I watched a film yesterday.",
+      "She studied English last year.",
+      "We didn't play football.",
+      "Did they visit you?"
+    ]
+  },
+  {
+    "id": 26,
+    "title": "Like / Love / Hate + V-ing",
+    "level": "A1",
+    "explanation": "Когда мы говорим о том, что нам нравится или не нравится делать, после глаголов like (нравится), love (обожать), enjoy (получать удовольствие), hate (ненавидеть) используется глагол с окончанием -ing. Это помогает рассказать о хобби и увлечениях. Время при этом остаётся Present Simple, поэтому с he / she / it к глаголу like добавляется -s: «She likes dancing». Для отрицания используется don't / doesn't: «I don't like running».",
+    "formula": "Subject + like / love / hate + V-ing",
+    "examples": [
+      "I like swimming.",
+      "She loves reading books.",
+      "We hate waking up early.",
+      "He doesn't like cooking."
+    ]
+  }
+]

@@ -1,0 +1,327 @@
+[
+  {
+    "id": 1,
+    "title": "Present Perfect",
+    "level": "B1",
+    "explanation": "Present Perfect связывает прошлое с настоящим. Мы используем его, когда действие произошло в прошлом, но важен результат сейчас, или когда время действия не указано. Типичные слова: ever, never, already, yet, just, since, for. Образуется с помощью have / has и третьей формы глагола (V3). Нельзя использовать с конкретным временем в прошлом, например yesterday или in 2019.",
+    "formula": "I / You / We / They + have + V3 / He, She, It + has + V3",
+    "examples": [
+      "I have visited London twice.",
+      "She has just finished her homework.",
+      "Have you ever tried sushi?",
+      "We have lived here since 2020."
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Present Perfect vs Past Simple",
+    "level": "B1",
+    "explanation": "Past Simple описывает завершённое действие в конкретный момент прошлого: yesterday, last week, in 2015, two days ago. Present Perfect говорит о прошлом опыте или результате, который важен сейчас, и конкретное время не называется. Сравните: «I lost my keys» (когда-то давно) и «I have lost my keys» (и сейчас не могу войти). Если в вопросе есть when, почти всегда нужен Past Simple.",
+    "formula": "Past Simple: V2 + время в прошлом / Present Perfect: have / has + V3",
+    "examples": [
+      "I saw that film last night.",
+      "I have seen that film three times.",
+      "When did you move to Berlin?",
+      "He has already left the office."
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Present Perfect Continuous",
+    "level": "B1",
+    "explanation": "Это время подчёркивает длительность действия, которое началось в прошлом и продолжается до сих пор или только что закончилось. Часто используется с for и since, а также с вопросом how long. Оно также объясняет текущий результат: «Я устал, потому что бегал». Глаголы состояния (know, like, want) в этом времени обычно не употребляются.",
+    "formula": "have / has + been + V-ing",
+    "examples": [
+      "I have been studying English for two years.",
+      "She has been waiting since 9 o'clock.",
+      "How long have you been working here?",
+      "It has been raining all day."
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Past Continuous",
+    "level": "B1",
+    "explanation": "Past Continuous описывает действие, которое происходило в определённый момент в прошлом или было в процессе, когда его прервало другое действие. Длительное действие обычно стоит в Past Continuous, а короткое, прервавшее его, — в Past Simple. Также оно подходит для описания фона в рассказе и двух параллельных действий. Часто используются союзы while и when.",
+    "formula": "I / He, She, It + was + V-ing / We, You, They + were + V-ing",
+    "examples": [
+      "I was cooking dinner at 7 p.m.",
+      "She was sleeping when the phone rang.",
+      "They were talking while he was driving.",
+      "What were you doing yesterday evening?"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Past Perfect",
+    "level": "B1",
+    "explanation": "Past Perfect показывает действие, которое произошло раньше другого действия в прошлом. Это «прошлое в прошлом». Оно помогает ясно выстроить последовательность событий в рассказе. Часто встречается со словами before, after, by the time, already, just. Если порядок событий очевиден, можно использовать и Past Simple.",
+    "formula": "had + V3",
+    "examples": [
+      "When I arrived, the film had already started.",
+      "She had finished her work before he called.",
+      "I didn't go because I had seen it before.",
+      "By the time we got there, they had left."
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Will vs Be going to",
+    "level": "B1",
+    "explanation": "Will используется для спонтанных решений, обещаний, предложений и предсказаний, основанных на мнении («I think it will rain»). Be going to используется для заранее принятых планов и намерений, а также для прогнозов, когда есть явные признаки («Look at those clouds! It's going to rain»). Разница тонкая, но важная: решил только что — will, решил заранее — going to.",
+    "formula": "will + V / am, is, are + going to + V",
+    "examples": [
+      "I'll help you with your bags.",
+      "We are going to buy a new car next month.",
+      "Be careful! You are going to fall.",
+      "I think she will pass the exam."
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Present Continuous for Future",
+    "level": "B1",
+    "explanation": "Present Continuous можно использовать для запланированных действий в ближайшем будущем, особенно если уже есть договорённость: билеты куплены, встреча назначена. Обычно в предложении есть указание времени: tomorrow, next week, on Friday. Это звучит более определённо, чем going to. Часто используется с глаголами движения и встреч: go, come, meet, leave, have dinner.",
+    "formula": "am / is / are + V-ing + время в будущем",
+    "examples": [
+      "I am meeting my boss tomorrow at 10.",
+      "They are flying to Rome on Friday.",
+      "We are having dinner with friends tonight.",
+      "Are you coming to the party on Saturday?"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "First Conditional",
+    "level": "B1",
+    "explanation": "Условное предложение первого типа описывает реальную, возможную ситуацию в будущем и её результат. В части с if мы используем Present Simple, а не will, хотя речь о будущем. В главной части употребляется will + глагол. Части можно менять местами; если if-часть стоит первой, после неё ставится запятая.",
+    "formula": "If + Present Simple, will + V",
+    "examples": [
+      "If it rains, we will stay at home.",
+      "She will be late if she misses the bus.",
+      "If you study hard, you will pass the test.",
+      "What will you do if you lose your job?"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Second Conditional",
+    "level": "B1",
+    "explanation": "Условное предложение второго типа говорит о нереальной или маловероятной ситуации в настоящем или будущем. Мы представляем, что было бы, если бы... В if-части используется Past Simple, а в главной — would + глагол. С глаголом to be в этой конструкции допустимо were для всех лиц: «If I were you». Это также частый способ давать советы.",
+    "formula": "If + Past Simple, would + V",
+    "examples": [
+      "If I won the lottery, I would travel the world.",
+      "She would buy a house if she had more money.",
+      "If I were you, I would talk to him.",
+      "What would you do if you could fly?"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Must, Have to, Should",
+    "level": "B1",
+    "explanation": "Must выражает сильную необходимость, исходящую от говорящего, а have to — обязанность из-за внешних правил или обстоятельств. Should даёт совет или рекомендацию и мягче, чем must. Отрицания различаются по смыслу: mustn't значит «нельзя», а don't have to — «не обязательно». После must и should глагол идёт без to, а have to имеет формы has to, had to.",
+    "formula": "must / should + V / have to (has to) + V",
+    "examples": [
+      "You must wear a seat belt.",
+      "I have to get up early on weekdays.",
+      "You should see a doctor.",
+      "You don't have to come if you're busy."
+    ]
+  },
+  {
+    "id": 11,
+    "title": "May, Might, Could (Possibility)",
+    "level": "B1",
+    "explanation": "Эти модальные глаголы выражают возможность, когда мы не уверены в чём-то. May и might показывают примерно 50 процентов вероятности, might чуть менее уверен. Could тоже говорит о возможности, но чаще используется, когда перечисляются варианты. После них всегда идёт глагол без to. Отрицательная форма may not / might not означает «возможно, не...».",
+    "formula": "may / might / could + V",
+    "examples": [
+      "It might rain this afternoon.",
+      "She may be at home now.",
+      "We could go to the cinema or to the park.",
+      "He might not know about the meeting."
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Used to / Would",
+    "level": "B1",
+    "explanation": "Used to говорит о привычках и состояниях в прошлом, которых больше нет. Оно подходит и для действий, и для состояний: «I used to live in Paris». Would тоже описывает повторяющиеся действия в прошлом, но только действия, а не состояния. Для вопросов и отрицаний используется форма did you use to / didn't use to.",
+    "formula": "used to + V / would + V",
+    "examples": [
+      "I used to play football every weekend.",
+      "She used to have long hair.",
+      "When I was a child, we would visit my grandma every summer.",
+      "Did you use to live here?"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Comparatives and Superlatives",
+    "level": "B1",
+    "explanation": "Сравнительная степень сравнивает два предмета, а превосходная выделяет один из группы. К коротким прилагательным добавляются -er и -est (taller, tallest), а перед длинными ставятся more и most (more interesting, the most interesting). Есть исключения: good — better — best, bad — worse — worst. Для сравнения используется than, а перед превосходной степенью обычно ставится the.",
+    "formula": "adj + er + than / the + adj + est / more + adj + than / the most + adj",
+    "examples": [
+      "My brother is taller than me.",
+      "This book is more interesting than that one.",
+      "It is the best restaurant in town.",
+      "She is the most talented student in the class."
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Passive Voice (Present and Past Simple)",
+    "level": "B1",
+    "explanation": "В пассиве подлежащее не выполняет действие, а подвергается ему. Он используется, когда важен результат или объект, а не тот, кто действует, либо исполнитель неизвестен. Пассив строится из глагола to be в нужном времени и третьей формы смыслового глагола. Если нужно указать исполнителя, используется предлог by.",
+    "formula": "am / is / are / was / were + V3 (+ by + исполнитель)",
+    "examples": [
+      "English is spoken all over the world.",
+      "The window was broken yesterday.",
+      "These cars are made in Germany.",
+      "The book was written by a famous author."
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Reported Speech (Statements)",
+    "level": "B1",
+    "explanation": "Косвенная речь передаёт чужие слова, не цитируя их дословно. Если вводящий глагол стоит в прошедшем (said, told), время обычно сдвигается на шаг назад: Present Simple становится Past Simple, will становится would. Местоимения и слова времени тоже меняются: now — then, tomorrow — the next day. После told нужен объект (told me), после said — нет.",
+    "formula": "said (that) + подлежащее + сдвинутое время",
+    "examples": [
+      "She said that she was tired.",
+      "He told me he would call later.",
+      "They said they had finished the project.",
+      "Tom said he lived in Madrid."
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Relative Clauses (who, which, that)",
+    "level": "B1",
+    "explanation": "Определительные придаточные уточняют, о каком человеке или предмете идёт речь. Who используется для людей, which — для вещей, that — для обоих случаев в разговорной речи. Whose показывает принадлежность, а where — место. Если местоимение является дополнением в придаточном, его часто можно опустить: «The book (that) I read was great».",
+    "formula": "существительное + who / which / that / whose / where + придаточное",
+    "examples": [
+      "The man who lives next door is a doctor.",
+      "This is the book that I told you about.",
+      "She works in a company which makes toys.",
+      "That is the girl whose brother plays football."
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Gerund and Infinitive",
+    "level": "B1",
+    "explanation": "После одних глаголов используется герундий (V-ing), после других — инфинитив с to. Герундий идёт после enjoy, finish, avoid, mind, suggest, keep. Инфинитив с to — после want, decide, hope, plan, need, promise. Некоторые глаголы допускают обе формы: like, love, start. Герундий также используется после предлогов: «interested in learning».",
+    "formula": "enjoy / finish / avoid + V-ing / want / decide / hope + to + V",
+    "examples": [
+      "I enjoy reading in the evening.",
+      "She decided to learn French.",
+      "He avoids eating sugar.",
+      "We hope to see you soon."
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Question Tags",
+    "level": "B1",
+    "explanation": "Разделительный вопрос — это короткий вопрос в конце предложения, который просит подтвердить сказанное. Если основная часть утвердительная, хвостик отрицательный, и наоборот. Вспомогательный глагол в хвостике совпадает с тем, что стоит в основной части. Если вспомогательного нет, используется do / does / did. Исключение: после I am используется aren't I.",
+    "formula": "утверждение + отрицательный хвост? / отрицание + утвердительный хвост?",
+    "examples": [
+      "You are a teacher, aren't you?",
+      "She doesn't like coffee, does she?",
+      "They went home, didn't they?",
+      "I am right, aren't I?"
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Articles: a / an / the / zero article",
+    "level": "B1",
+    "explanation": "A / an используются с исчисляемыми существительными в единственном числе, когда предмет упоминается впервые или он один из многих. The употребляется, когда речь идёт о конкретном или уже известном предмете, а также с уникальными вещами (the sun). Артикль не нужен с множественным числом в общем смысле, неисчисляемыми существительными, названиями языков и большинством стран.",
+    "formula": "a / an + новое существительное / the + конкретное существительное / — (нет артикля)",
+    "examples": [
+      "I saw a dog. The dog was very big.",
+      "She is an engineer.",
+      "The moon is bright tonight.",
+      "I love music and I speak Spanish."
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Quantifiers: much, many, a lot of, few, little",
+    "level": "B1",
+    "explanation": "Many используется с исчисляемыми существительными, а much — с неисчисляемыми, обычно в вопросах и отрицаниях. A lot of подходит для обоих типов в утверждениях. Few и a few относятся к исчисляемым, little и a little — к неисчисляемым. Без a они имеют отрицательный оттенок («почти нет»), с a — положительный («немного, но есть»).",
+    "formula": "many / (a) few + исчисляемые / much / (a) little + неисчисляемые",
+    "examples": [
+      "How many people came to the party?",
+      "I don't have much time.",
+      "She has a few good friends.",
+      "There is little milk left in the fridge."
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Phrasal Verbs (Basics)",
+    "level": "B1",
+    "explanation": "Фразовый глагол состоит из глагола и частицы (предлога или наречия), и вместе они часто имеют значение, отличное от значения отдельных слов. Например, give up значит «сдаваться», а look after — «присматривать». Некоторые фразовые глаголы разделяются: можно сказать turn off the light и turn the light off. Если объект — местоимение, оно обязательно ставится между глаголом и частицей: turn it off.",
+    "formula": "глагол + частица (up, off, out, after, on...)",
+    "examples": [
+      "Please turn off the lights.",
+      "She looks after her little brother.",
+      "I gave up smoking last year.",
+      "We ran out of milk this morning."
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Too and Enough",
+    "level": "B1",
+    "explanation": "Too означает «слишком» и несёт отрицательный смысл: чего-то больше, чем нужно. Enough означает «достаточно». С прилагательными и наречиями enough ставится после слова: «tall enough». С существительными enough ставится перед ними: «enough money». Обе конструкции часто сочетаются с инфинитивом: too tired to work, old enough to drive.",
+    "formula": "too + adj (+ to V) / adj + enough (+ to V) / enough + существительное",
+    "examples": [
+      "It is too cold to swim today.",
+      "She is old enough to drive.",
+      "We don't have enough chairs.",
+      "He was too tired to continue."
+    ]
+  },
+  {
+    "id": 23,
+    "title": "So and Such",
+    "level": "B1",
+    "explanation": "So и such усиливают значение и переводятся как «такой» или «так». So ставится перед прилагательными и наречиями, а such — перед существительными, иногда с прилагательным. Перед исчисляемым существительным в единственном числе нужен артикль: such a nice day. Обе конструкции могут вводить результат с помощью that.",
+    "formula": "so + adj / adv / such + (a / an) + (adj) + существительное",
+    "examples": [
+      "The film was so boring.",
+      "She is such a kind person.",
+      "He speaks so fast that I can't understand him.",
+      "It was such a hot day that we stayed inside."
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Indirect Questions",
+    "level": "B1",
+    "explanation": "Косвенные вопросы звучат вежливее прямых и часто начинаются с фраз Could you tell me..., Do you know..., I wonder... В них используется прямой порядок слов, как в утверждении, без вспомогательных do / does / did. Если нет вопросительного слова, добавляется if или whether. Вопросительный знак ставится только тогда, когда вводная фраза сама является вопросом.",
+    "formula": "Could you tell me / Do you know + вопросительное слово + подлежащее + сказуемое",
+    "examples": [
+      "Could you tell me where the station is?",
+      "Do you know what time the shop opens?",
+      "I wonder if she is at home.",
+      "He asked me where I lived."
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Zero Conditional and Time Clauses",
+    "level": "B1",
+    "explanation": "Нулевое условное описывает общие истины и закономерности, которые всегда верны. В обеих частях используется Present Simple, а if можно заменить на when. Придаточные времени с when, as soon as, before, after, until относятся к будущему, но в них тоже используется Present Simple, а не will. Это важно помнить, чтобы не говорить «when I will arrive».",
+    "formula": "If / When + Present Simple, Present Simple / when / as soon as + Present Simple, will + V",
+    "examples": [
+      "If you heat ice, it melts.",
+      "Water boils when it reaches 100 degrees.",
+      "I will call you as soon as I arrive.",
+      "We will leave when the rain stops."
+    ]
+  }
+]

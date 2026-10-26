@@ -1,0 +1,340 @@
+[
+  {
+    "id": 1,
+    "title": "Past Simple: Irregular Verbs",
+    "level": "A2",
+    "explanation": "В A1 мы изучили правильные глаголы, которые в прошедшем времени получают окончание -ed. Но многие самые частотные глаголы английского языка неправильные: у них особая вторая форма (V2), которую нужно выучить наизусть. Например: go — went, see — saw, have — had, buy — bought, eat — ate, take — took, come — came, write — wrote, make — made. Эти формы используются в утвердительных предложениях и не меняются по лицам. В отрицаниях и вопросах, как и с правильными глаголами, нужен did, а основной глагол возвращается в начальную форму: «Did you go?», «I didn't see him». Неправильные глаголы обычно приводят в таблицах из трёх форм (V1 — V2 — V3), поэтому полезно учить их небольшими группами по 5–10 штук.",
+    "formula": "Subject + V2 / Subject + didn't + V1 / Did + Subject + V1?",
+    "examples": [
+      "I went to the cinema last night.",
+      "She bought a new dress yesterday.",
+      "We didn't see him at the party.",
+      "Did you take my book?"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Past Continuous",
+    "level": "A2",
+    "explanation": "Past Continuous (прошедшее длительное время) описывает действие, которое находилось в процессе в определённый момент в прошлом. Мы не говорим, когда оно началось и закончилось, нам важен сам процесс. Часто его используют, чтобы описать обстановку или два параллельных действия: «Вчера в восемь вечера я смотрел фильм». Время образуется из was / were и глагола с окончанием -ing. Was используется с I / he / she / it, а were — с you / we / they. Отрицание: wasn't / weren't + V-ing. Вопрос: Was / Were + подлежащее + V-ing? Типичные слова-маркеры: at 8 o'clock yesterday, at that moment, all day, while.",
+    "formula": "Subject + was/were + V-ing",
+    "examples": [
+      "I was sleeping at 10 p.m. yesterday.",
+      "They were playing football in the park.",
+      "She wasn't listening to the teacher.",
+      "What were you doing at that time?"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Past Simple vs Past Continuous",
+    "level": "A2",
+    "explanation": "Эти два времени часто используются вместе в одном предложении. Past Continuous показывает длинное действие, которое было в процессе («фон»), а Past Simple показывает короткое действие, которое произошло в этот момент и прервало длинное. Например: «Я шёл домой (долго), когда увидел друга (мгновенно)». Для соединения частей используют слова when и while. Обычно while ставится перед длинным действием (Past Continuous), а when — перед коротким (Past Simple). Если же два длинных действия происходили одновременно, оба глагола ставятся в Past Continuous: «While I was cooking, he was watching TV».",
+    "formula": "Past Continuous + when + Past Simple / While + Past Continuous, Past Simple",
+    "examples": [
+      "I was walking home when I saw my teacher.",
+      "While she was cooking, the phone rang.",
+      "He was sleeping when the alarm went off.",
+      "We were watching TV while she was studying."
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Present Perfect",
+    "level": "A2",
+    "explanation": "Present Perfect (настоящее совершённое время) связывает прошлое и настоящее. Мы используем его, когда действие произошло в прошлом, но нас интересует результат сейчас, а точное время не важно или не указано. Например: «I have lost my keys» — я потерял ключи (и сейчас у меня их нет). Время образуется из have / has и третьей формы глагола (V3). У правильных глаголов V3 совпадает с V2 (worked, played), а у неправильных нужно учить отдельно (gone, seen, done, eaten). С he / she / it используется has, с остальными — have. Нельзя использовать Present Perfect с точным прошедшим временем: «yesterday», «in 2020», «last week».",
+    "formula": "Subject + have/has + V3",
+    "examples": [
+      "I have lost my phone.",
+      "She has finished her homework.",
+      "They have bought a new house.",
+      "Have you done the shopping?"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Present Perfect: ever / never",
+    "level": "A2",
+    "explanation": "Present Perfect очень часто используется, чтобы говорить об опыте в жизни: что человек когда-либо делал или не делал. Слово ever значит «когда-либо» и используется в вопросах: «Have you ever been to Italy?». Слово never значит «никогда» и используется в утвердительных предложениях, но имеет отрицательный смысл, поэтому не нужно добавлять not: «I have never eaten sushi». Обратите внимание на разницу между been и gone: «She has been to Paris» — она была в Париже и вернулась, а «She has gone to Paris» — она уехала и всё ещё там.",
+    "formula": "Have/Has + Subject + ever + V3? / Subject + have/has + never + V3",
+    "examples": [
+      "Have you ever visited London?",
+      "I have never seen a whale.",
+      "She has never been to Asia.",
+      "Has he ever eaten snails?"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Present Perfect: for / since",
+    "level": "A2",
+    "explanation": "С помощью Present Perfect можно сказать, как долго длится действие или состояние, которое началось в прошлом и продолжается до сих пор. Для этого используются слова for и since. For используется с периодом времени, то есть отвечает на вопрос «сколько?»: for two years, for a week, for ten minutes. Since используется с точкой отсчёта, то есть отвечает на вопрос «с каких пор?»: since 2020, since Monday, since I was a child. На вопрос «How long...?» мы тоже отвечаем в Present Perfect. Обычно так используют глаголы состояния: be, live, know, have, work.",
+    "formula": "Subject + have/has + V3 + for + period / since + point in time",
+    "examples": [
+      "I have lived here for five years.",
+      "She has worked at this school since 2019.",
+      "We have known each other for a long time.",
+      "How long have you studied English?"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Present Perfect: just / already / yet",
+    "level": "A2",
+    "explanation": "Эти три слова часто используются с Present Perfect, чтобы показать недавние события. Just означает «только что» и стоит между have / has и V3. Already означает «уже» и используется в утвердительных предложениях, стоя между have / has и V3 или в конце предложения. Yet означает «ещё» (в отрицании) или «уже» (в вопросе) и всегда стоит в конце предложения. Например: «I haven't finished yet» — я ещё не закончил, «Have you finished yet?» — ты уже закончил?",
+    "formula": "Subject + have/has + just/already + V3 / ... + V3 + yet",
+    "examples": [
+      "I have just seen him.",
+      "She has already eaten lunch.",
+      "They haven't arrived yet.",
+      "Have you called your mother yet?"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Present Perfect vs Past Simple",
+    "level": "A2",
+    "explanation": "Это одна из самых сложных тем для изучающих английский, потому что в русском языке такого различия нет. Past Simple используется, когда действие произошло в конкретное время в прошлом и это время названо или понятно: yesterday, last year, in 2018, two days ago, when I was a child. Present Perfect используется, когда время не названо и важен результат или опыт, связанный с настоящим: ever, never, just, already, yet, so far, today (если день ещё не закончился). Правило для запоминания: если есть точная дата или момент в прошлом, используем Past Simple, а если нет — Present Perfect.",
+    "formula": "Past Simple: Subject + V2 / Present Perfect: Subject + have/has + V3",
+    "examples": [
+      "I visited Rome in 2019.",
+      "I have visited Rome three times.",
+      "She lost her bag yesterday.",
+      "She has lost her bag. She can't find it."
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Future Simple: will",
+    "level": "A2",
+    "explanation": "Will используется для разговора о будущем в нескольких случаях. Во-первых, для спонтанных решений, принятых в момент речи: «It's cold. I'll close the window». Во-вторых, для предсказаний и предположений: «It will rain tomorrow». В-третьих, для обещаний, предложений и просьб: «I'll help you». Will одинаков для всех лиц, не имеет окончания -s, и после него глагол стоит в начальной форме. Сокращения: I'll, you'll, he'll, she'll, we'll, they'll. Отрицание — won't (will not). Часто с ним используют слова: tomorrow, next week, in the future, soon, I think, probably.",
+    "formula": "Subject + will + V1 / Subject + won't + V1 / Will + Subject + V1?",
+    "examples": [
+      "I will call you tomorrow.",
+      "She will be a great doctor.",
+      "We won't be late.",
+      "Will it rain tonight?"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Be going to",
+    "level": "A2",
+    "explanation": "Конструкция be going to используется в двух основных случаях. Первый — для планов и намерений, которые человек решил выполнить ещё до момента речи: «I'm going to learn English this year». Второй — для предсказаний на основании того, что мы видим сейчас: «Look at those black clouds! It's going to rain». Конструкция образуется из глагола to be (am / is / are), слова going и глагола в начальной форме с частицей to. Отрицание: am not / isn't / aren't going to. Вопрос: Are you going to...?",
+    "formula": "Subject + am/is/are + going to + V1",
+    "examples": [
+      "I am going to study medicine.",
+      "She is going to buy a car.",
+      "They aren't going to come.",
+      "Are you going to watch the match?"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Present Continuous for Future Arrangements",
+    "level": "A2",
+    "explanation": "Кроме действий, которые происходят сейчас, Present Continuous можно использовать для близкого будущего, когда у нас есть чёткая договорённость или план: назначена встреча, куплены билеты, забронирован столик. Обычно в предложении есть указание на время: tomorrow, next Friday, tonight, this weekend. Разница с be going to небольшая: be going to выражает намерение, а Present Continuous подчёркивает, что всё уже организовано. Например: «I'm meeting Anna at 6 o'clock» — договорённость уже есть.",
+    "formula": "Subject + am/is/are + V-ing + future time",
+    "examples": [
+      "I am meeting my friend tonight.",
+      "We are flying to Dubai on Friday.",
+      "She is having dinner with her parents tomorrow.",
+      "Are you coming to the party on Saturday?"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Comparative Adjectives",
+    "level": "A2",
+    "explanation": "Сравнительная степень прилагательных нужна, чтобы сравнить два предмета или человека. У коротких прилагательных (одного слога) добавляется окончание -er: tall — taller, fast — faster. Если прилагательное заканчивается на -e, добавляется только -r (nice — nicer). Если на согласную после одной гласной, то согласная удваивается (big — bigger, hot — hotter). Если на согласную + y, то y меняется на -ier (happy — happier). У длинных прилагательных (два и более слога) перед словом ставится more: more interesting, more expensive. Для сравнения используется слово than (чем). Есть исключения: good — better, bad — worse, far — farther / further.",
+    "formula": "Adjective + er + than / more + adjective + than",
+    "examples": [
+      "My brother is taller than me.",
+      "This book is more interesting than that one.",
+      "Today is hotter than yesterday.",
+      "Her English is better than mine."
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Superlative Adjectives",
+    "level": "A2",
+    "explanation": "Превосходная степень прилагательных показывает, что предмет обладает качеством в наибольшей степени среди трёх и более предметов: самый высокий, самый красивый. Перед превосходной степенью всегда стоит определённый артикль the. У коротких прилагательных добавляется окончание -est: tall — the tallest, fast — the fastest. Правила написания такие же, как в сравнительной степени (big — the biggest, happy — the happiest). У длинных прилагательных используется the most: the most beautiful, the most expensive. Исключения: good — the best, bad — the worst, far — the farthest / the furthest. После превосходной степени часто идёт in или of: the biggest city in the country.",
+    "formula": "the + adjective + est / the most + adjective",
+    "examples": [
+      "Mount Everest is the highest mountain in the world.",
+      "She is the most intelligent student in our class.",
+      "This is the best pizza I have ever eaten.",
+      "It was the worst day of my life."
+    ]
+  },
+  {
+    "id": 14,
+    "title": "as ... as",
+    "level": "A2",
+    "explanation": "Конструкция as ... as используется, чтобы сказать, что два предмета или человека одинаковы по какому-то качеству. Прилагательное при этом стоит в обычной форме между двумя as: «Anna is as tall as Maria». Для отрицания используется not as ... as, что означает «не такой ... как». Предложение «He is not as fast as me» означает, что он медленнее. Эта конструкция помогает сравнивать без использования сравнительной степени и очень часто встречается в разговорной речи.",
+    "formula": "as + adjective + as / not as + adjective + as",
+    "examples": [
+      "My phone is as expensive as yours.",
+      "He is as tall as his father.",
+      "This film isn't as good as the book.",
+      "She doesn't run as fast as me."
+    ]
+  },
+  {
+    "id": 15,
+    "title": "too / enough",
+    "level": "A2",
+    "explanation": "Слова too и enough помогают выразить, что чего-то слишком много или достаточно. Too означает «слишком» и всегда имеет негативный оттенок: «too hot» — слишком жарко (и это проблема). Too ставится перед прилагательным или наречием. Enough означает «достаточно». С прилагательными и наречиями enough ставится после слова: «old enough», «fast enough». С существительными, наоборот, enough ставится перед словом: «enough money», «enough time». Часто после таких конструкций идёт глагол с to: «She is too young to drive».",
+    "formula": "too + adjective / adjective + enough / enough + noun",
+    "examples": [
+      "This coffee is too hot to drink.",
+      "He is old enough to drive a car.",
+      "We don't have enough time.",
+      "It's too late to call him."
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Adverbs of Manner",
+    "level": "A2",
+    "explanation": "Наречия образа действия показывают, как совершается действие: быстро, медленно, красиво, хорошо. Чаще всего они образуются от прилагательных добавлением окончания -ly: slow — slowly, careful — carefully, quick — quickly. Если прилагательное оканчивается на -y, то y меняется на i и добавляется -ly (happy — happily). Наречия обычно стоят после глагола или после дополнения: «She sings beautifully». Есть исключения, у которых форма наречия совпадает с прилагательным: fast, hard, late, early. А наречие от good — это well: «He plays well».",
+    "formula": "Subject + verb + adverb (adjective + ly)",
+    "examples": [
+      "She speaks English slowly.",
+      "He drives very carefully.",
+      "They worked hard all day.",
+      "My sister dances beautifully."
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Must / Mustn't / Have to",
+    "level": "A2",
+    "explanation": "Эти глаголы выражают необходимость и запреты. Must означает «должен» и используется, когда необходимость исходит от самого говорящего: «I must call my mother». Have to тоже означает «должен», но обычно речь идёт о внешних обстоятельствах: правилах, законах, расписании: «I have to wear a uniform at school». Не путайте mustn't и don't have to. Mustn't — это запрет («нельзя»): «You mustn't smoke here». А don't have to — отсутствие необходимости («не обязательно»): «You don't have to come». С he / she / it используется has to / doesn't have to.",
+    "formula": "must + V1 / have/has to + V1 / mustn't + V1 / don't/doesn't have to + V1",
+    "examples": [
+      "I must finish this work today.",
+      "She has to get up at 6 a.m.",
+      "You mustn't use your phone in class.",
+      "We don't have to pay for parking."
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Should / Shouldn't",
+    "level": "A2",
+    "explanation": "Модальный глагол should используется, чтобы дать совет или высказать мнение о том, что правильно делать. По значению он мягче, чем must. Его можно перевести как «следует» или «стоило бы». Should одинаков для всех лиц, не принимает окончание -s и после него идёт глагол в начальной форме без to. Отрицание — shouldn't (should not), вопрос — перестановка: «Should I call him?». Часто совет начинают словами «I think you should...» или «Why don't you...?».",
+    "formula": "Subject + should / shouldn't + V1",
+    "examples": [
+      "You should see a doctor.",
+      "He shouldn't eat so much sugar.",
+      "I think you should study more.",
+      "Should we take a taxi?"
+    ]
+  },
+  {
+    "id": 19,
+    "title": "May / Might",
+    "level": "A2",
+    "explanation": "Модальные глаголы may и might выражают возможность: что-то, возможно, произойдёт, но мы не уверены. На русский они переводятся как «может быть», «возможно». Might выражает чуть меньшую уверенность, чем may, но в повседневной речи разницы почти нет. Эти глаголы не меняются по лицам и после них идёт глагол в начальной форме: «It may rain tomorrow». В отрицании используются may not и might not: «He might not come». Не путайте с can: can говорит о способности, а may и might — о вероятности.",
+    "formula": "Subject + may / might + V1",
+    "examples": [
+      "It might rain this afternoon.",
+      "She may be at home now.",
+      "We might go to the beach tomorrow.",
+      "He may not know the answer."
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Would like",
+    "level": "A2",
+    "explanation": "Выражение would like означает «хотел бы» и является более вежливой формой, чем want. Оно очень часто используется в кафе, магазинах, гостиницах и при знакомстве. Would одинаков для всех лиц, сокращённая форма — 'd (I'd like). Если после would like идёт существительное, мы просто называем предмет: «I'd like a coffee». Если идёт глагол, то перед ним ставится to: «I'd like to go home». Вопросы: «Would you like some tea?» (предложение) и «What would you like?» (выбор). Ответы: «Yes, please» или «No, thank you».",
+    "formula": "Subject + would like + noun / to + V1",
+    "examples": [
+      "I would like a glass of water.",
+      "She'd like to visit Japan.",
+      "Would you like some coffee?",
+      "What would you like to eat?"
+    ]
+  },
+  {
+    "id": 21,
+    "title": "First Conditional",
+    "level": "A2",
+    "explanation": "Условное предложение первого типа описывает реальные ситуации в будущем: если выполнится условие, то случится результат. В части с if (условие) используется Present Simple, хотя речь идёт о будущем. В главной части (результат) используется will + глагол. Это один из самых частых случаев, когда после if нельзя ставить will: неправильно «If it will rain», правильно «If it rains». Части предложения можно менять местами. Если условие стоит в начале, после него ставится запятая, а если в конце, запятая не нужна.",
+    "formula": "If + Present Simple, Subject + will + V1",
+    "examples": [
+      "If it rains, we will stay at home.",
+      "She will pass the exam if she studies hard.",
+      "If you don't hurry, you'll be late.",
+      "What will you do if you miss the bus?"
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Zero Conditional",
+    "level": "A2",
+    "explanation": "Условное предложение нулевого типа используется для общих истин, научных фактов и вещей, которые всегда происходят при определённом условии. Здесь if можно заменить на when, и смысл почти не изменится. В обеих частях предложения используется Present Simple. Например: «If you heat ice, it melts». Также нулевое условное используется для инструкций и привычек: «If I am tired, I go to bed early». Разница с первым условным: в нулевом результат происходит ВСЕГДА, а в первом — только в конкретной будущей ситуации.",
+    "formula": "If + Present Simple, Present Simple",
+    "examples": [
+      "If you heat water to 100 degrees, it boils.",
+      "If I don't sleep well, I feel tired.",
+      "When it snows, the roads get slippery.",
+      "If you mix red and blue, you get purple."
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Possessive Pronouns",
+    "level": "A2",
+    "explanation": "В A1 мы изучали притяжательные прилагательные (my, your, his), которые стоят перед существительным. Притяжательные местоимения (mine, yours, his, hers, ours, theirs) заменяют целую фразу «притяжательное прилагательное + существительное» и стоят САМИ по себе, без существительного после них. Например: вместо «This is my book» можно сказать «This book is mine». Формы: mine (мой), yours (твой / ваш), his (его), hers (её), ours (наш), theirs (их). У местоимения it такой формы нет. Вопрос «Whose is this?» (чьё это?) обычно получает ответ именно с таким местоимением.",
+    "formula": null,
+    "examples": [
+      "This bag is mine.",
+      "Is this phone yours?",
+      "Their house is bigger than ours.",
+      "I like her dress, but I prefer hers."
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Reflexive Pronouns",
+    "level": "A2",
+    "explanation": "Возвратные местоимения используются, когда человек совершает действие над самим собой, то есть подлежащее и дополнение — один и тот же человек. Формы: myself, yourself, himself, herself, itself, ourselves, yourselves, themselves. Окончание -self используется для единственного числа, а -selves — для множественного. Например: «She cut herself» — она порезалась. Также эти местоимения используются для усиления: «I did it myself» — я сделал это сам. Выражение by oneself значит «в одиночку»: «He lives by himself».",
+    "formula": null,
+    "examples": [
+      "I hurt myself yesterday.",
+      "She looked at herself in the mirror.",
+      "They enjoyed themselves at the party.",
+      "He made the cake himself."
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Relative Clauses: who / which / that",
+    "level": "A2",
+    "explanation": "Определительные придаточные предложения дают дополнительную информацию о человеке или предмете и помогают объединить два предложения в одно. Who используется для людей: «The man who lives next door is a doctor». Which используется для предметов и животных: «The book which I read was interesting». That может заменять и who, и which в повседневной речи: «The girl that called you is my sister». Where используется для мест: «This is the café where we met». Относительное местоимение ставится сразу после существительного, о котором мы говорим.",
+    "formula": "Noun + who / which / that / where + clause",
+    "examples": [
+      "The woman who works here is my aunt.",
+      "This is the phone which I bought yesterday.",
+      "He is the boy that won the prize.",
+      "That is the restaurant where we had dinner."
+    ]
+  },
+  {
+    "id": 26,
+    "title": "Used to",
+    "level": "A2",
+    "explanation": "Конструкция used to используется, чтобы рассказать о привычках и состояниях в прошлом, которые сейчас уже не существуют. Например: «I used to play football» — раньше я играл в футбол (а сейчас не играю). Used to одинаково для всех лиц и после него идёт глагол в начальной форме. В отрицании и вопросе используется did, а used превращается в use (без -d): «I didn't use to like fish», «Did you use to live here?». Нельзя использовать used to для действий, которые произошли один раз, и для настоящего времени.",
+    "formula": "Subject + used to + V1 / didn't use to + V1 / Did + Subject + use to + V1?",
+    "examples": [
+      "I used to live in a small village.",
+      "She used to have long hair.",
+      "We didn't use to watch TV a lot.",
+      "Did you use to play tennis?"
+    ]
+  }
+]

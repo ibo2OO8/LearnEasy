@@ -19,6 +19,7 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.ibrohimapk3.learneasy.R
 import com.ibrohimapk3.learneasy.presentation.core.component.NavigationBtn
+import com.ibrohimapk3.learneasy.presentation.screen.onboarding.OnBoardingComponents
 import com.ibrohimapk3.learneasy.presentation.ui.theme.PrimaryBlue
 import com.ibrohimapk3.learneasy.presentation.ui.theme.TextH4
 
@@ -29,7 +30,7 @@ fun GreetingComponent(
     text1: String = "Добро пожаловать в мир английского!",
     text2: String = "Учись играя, шаг за шагом.",
     btnText: String = "Начать",
-    nextScreen: () -> Unit,
+    nextScreen: (OnBoardingComponents) -> Unit,
 ) {
     Column(
         modifier = modifier
@@ -72,7 +73,7 @@ fun GreetingComponent(
                 textAlign = TextAlign.Center,
                 color = TextH4
             )
-            NavigationBtn(text = btnText, click = { nextScreen() })
+            NavigationBtn(text = btnText, click = { nextScreen(OnBoardingComponents.WhichLevel) })
         }
     }
 }

@@ -1,0 +1,327 @@
+[
+  {
+    "id": 1,
+    "title": "Third Conditional",
+    "level": "B2",
+    "explanation": "Условное предложение третьего типа говорит о нереальной ситуации в прошлом: мы размышляем о том, что могло бы быть, если бы всё произошло иначе. Изменить прошлое уже нельзя, поэтому конструкция часто выражает сожаление или упрёк. В if-части используется Past Perfect, а в главной — would have + V3. Вместо would можно использовать could или might, если результат лишь возможен.",
+    "formula": "If + Past Perfect, would have + V3",
+    "examples": [
+      "If I had known, I would have helped you.",
+      "She would have passed if she had studied more.",
+      "If we had left earlier, we might have caught the train.",
+      "What would you have done if you had lost your job?"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Mixed Conditionals",
+    "level": "B2",
+    "explanation": "Смешанные условные предложения сочетают разные временные планы. Чаще всего встречаются два типа. Первый: прошлое условие влияет на настоящее, то есть if + Past Perfect, would + V. Второй: постоянное свойство в настоящем определяет прошлое, то есть if + Past Simple, would have + V3. Такие конструкции показывают, как одно обстоятельство меняет другое на другой временной оси.",
+    "formula": "If + Past Perfect, would + V / If + Past Simple, would have + V3",
+    "examples": [
+      "If I had taken that job, I would be rich now.",
+      "If she were more careful, she wouldn't have broken the vase.",
+      "If they had booked earlier, they would be on holiday now.",
+      "If I weren't afraid of flying, I would have gone to Japan."
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Wish and If only",
+    "level": "B2",
+    "explanation": "Wish и if only выражают сожаление или желание, чтобы ситуация была другой. О настоящем используется Past Simple («I wish I had more time»), о прошлом — Past Perfect («I wish I had studied»). Для раздражения от чужого поведения или желания перемен в будущем используется wish + would. Если wish относится к подлежащему, а не к другому лицу, would обычно не употребляется.",
+    "formula": "wish / if only + Past Simple / Past Perfect / would + V",
+    "examples": [
+      "I wish I lived by the sea.",
+      "She wishes she had told him the truth.",
+      "If only it would stop raining!",
+      "I wish you wouldn't leave your shoes there."
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Past Perfect Continuous",
+    "level": "B2",
+    "explanation": "Это время показывает действие, которое длилось некоторое время до определённого момента в прошлом. Оно подчёркивает длительность или объясняет причину состояния в прошлом, например «Я был уставшим, потому что долго бежал». Часто используется с for, since и how long. Как и другие длительные времена, оно не употребляется с глаголами состояния.",
+    "formula": "had + been + V-ing",
+    "examples": [
+      "She had been working for hours when he arrived.",
+      "I was tired because I had been running.",
+      "How long had they been waiting before the bus came?",
+      "The ground was wet; it had been raining all night."
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Future Continuous",
+    "level": "B2",
+    "explanation": "Future Continuous описывает действие, которое будет в процессе в определённый момент в будущем: «В 8 вечера я буду работать». Оно также используется для вежливых вопросов о планах («Will you be using the car?») и для действий, которые произойдут в обычном ходе событий. Часто сопровождается указанием времени: at this time tomorrow, next week.",
+    "formula": "will + be + V-ing",
+    "examples": [
+      "This time tomorrow I will be flying to Dubai.",
+      "She will be working late tonight.",
+      "Will you be using your laptop this evening?",
+      "They will be waiting for us at the station."
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Future Perfect",
+    "level": "B2",
+    "explanation": "Future Perfect показывает действие, которое будет завершено к определённому моменту в будущем. Обычно используется с by, by the time, before. Если нужно подчеркнуть длительность до этого момента, применяется Future Perfect Continuous (will have been + V-ing): «By June I will have been working here for ten years». Это время часто встречается в разговорах о планах и достижениях.",
+    "formula": "will + have + V3 / will + have been + V-ing",
+    "examples": [
+      "By next Friday I will have finished the report.",
+      "She will have left by the time you arrive.",
+      "By 2030 they will have built a new bridge.",
+      "In May we will have been married for ten years."
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Passive Voice (All Tenses and Modals)",
+    "level": "B2",
+    "explanation": "На уровне B2 пассив используется во всех временах и с модальными глаголами. Правило остаётся тем же: нужная форма to be плюс третья форма глагола. В Present Perfect — has been done, в Future — will be done, с модальными — must be done, can be done. Пассив часто встречается в официальной речи, новостях и научных текстах, где важнее действие, чем исполнитель.",
+    "formula": "be (в нужной форме) + V3 / modal + be + V3 / have been + V3",
+    "examples": [
+      "The report has been sent to the client.",
+      "A new hospital will be built next year.",
+      "This problem must be solved immediately.",
+      "The house is being repainted at the moment."
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Causative: have / get something done",
+    "level": "B2",
+    "explanation": "Каузатив используется, когда мы не делаем что-то сами, а заказываем или просим кого-то сделать это: стрижка, ремонт, доставка. Конструкция have + объект + V3 нейтральна, а get + объект + V3 более разговорна. Важно, что исполнитель обычно не называется, поскольку это очевидно или неважно. Также такая конструкция иногда описывает неприятные события, случившиеся с нами.",
+    "formula": "have / get + объект + V3",
+    "examples": [
+      "I had my car repaired last week.",
+      "She is getting her hair cut tomorrow.",
+      "We need to have the windows cleaned.",
+      "He had his wallet stolen on the train."
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Reported Questions and Commands",
+    "level": "B2",
+    "explanation": "В косвенных вопросах используется прямой порядок слов без вспомогательных do / does / did, а время сдвигается назад, как в обычной косвенной речи. Общие вопросы вводятся через if или whether, специальные сохраняют вопросительное слово. Приказы и просьбы передаются с помощью told / asked + объект + (not) to + V. Вопросительный знак в косвенной речи не нужен.",
+    "formula": "asked + (if / wh-word) + прямой порядок / told + объект + (not) to + V",
+    "examples": [
+      "She asked me where I had been.",
+      "He asked if I wanted some coffee.",
+      "The teacher told us to open our books.",
+      "She asked him not to be late."
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Reporting Verbs",
+    "level": "B2",
+    "explanation": "Вместо однообразного said в косвенной речи можно использовать более точные глаголы, но у каждого свои правила построения. После одних идёт инфинитив (promise, refuse, agree, offer), после других — герундий (admit, deny, suggest, apologise for), после третьих — объект и инфинитив (advise, warn, remind, invite). Правильный выбор делает речь точнее и показывает, как именно человек что-то сказал.",
+    "formula": "promise / refuse + to V / admit / suggest + V-ing / advise + объект + to V",
+    "examples": [
+      "He promised to call me back.",
+      "She denied taking the money.",
+      "They suggested going to the beach.",
+      "The doctor advised him to rest."
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Modals of Deduction (Present and Past)",
+    "level": "B2",
+    "explanation": "Модальные глаголы помогают делать выводы на основе имеющихся фактов. Must означает высокую уверенность («должно быть»), can't — уверенность в обратном («не может быть»), may / might / could — возможность. Для прошлого после модального глагола используется have + V3: must have been, can't have done. Для настоящего — обычный инфинитив: must be, can't be.",
+    "formula": "must / can't / might + V / must / can't / might + have + V3",
+    "examples": [
+      "She must be at work; her car is outside.",
+      "He can't have forgotten about the meeting.",
+      "They might have missed the train.",
+      "It must have rained last night; the street is wet."
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Should have, Could have, Needn't have",
+    "level": "B2",
+    "explanation": "Эти конструкции описывают прошлое, которое уже не изменить. Should have + V3 выражает упрёк или сожаление: нужно было сделать, но не сделали. Could have + V3 показывает упущенную возможность. Needn't have + V3 означает, что действие было сделано, но в этом не было необходимости. Противопоставьте didn't need to, где неясно, было ли действие совершено.",
+    "formula": "should / could / needn't + have + V3",
+    "examples": [
+      "You should have called me earlier.",
+      "She could have won if she had tried harder.",
+      "I needn't have hurried; the train was late.",
+      "We shouldn't have stayed so long."
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Non-defining Relative Clauses",
+    "level": "B2",
+    "explanation": "Неопределительные придаточные добавляют дополнительную информацию, без которой предложение остаётся понятным. Они всегда отделяются запятыми. В таких предложениях нельзя использовать that, только who, which, whose, where. Местоимение нельзя опустить. Также which может относиться ко всему предыдущему предложению: «He passed the exam, which surprised everyone».",
+    "formula": "существительное, + who / which / whose / where + придаточное,",
+    "examples": [
+      "My brother, who lives in Canada, is a pilot.",
+      "Paris, which is the capital of France, is beautiful.",
+      "She missed the bus, which made her late.",
+      "Mr Brown, whose son is my friend, called me."
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Participle Clauses",
+    "level": "B2",
+    "explanation": "Причастные обороты делают речь компактнее, заменяя придаточные предложения. Причастие настоящего времени (V-ing) описывает действие, происходящее одновременно или как причина: «Feeling tired, she went to bed». Причастие прошедшего времени (V3) имеет пассивное значение. Perfect participle (having + V3) показывает, что действие произошло раньше. Подлежащее у причастия и у главной части должно быть общим.",
+    "formula": "V-ing / V3 / Having + V3, + главное предложение",
+    "examples": [
+      "Walking home, I met an old friend.",
+      "Tired after work, he fell asleep on the sofa.",
+      "Having finished the task, she went out.",
+      "Built in 1900, the house is still strong."
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Inversion after Negative Adverbials",
+    "level": "B2",
+    "explanation": "Для усиления и в формальной речи после отрицательных или ограничительных наречий в начале предложения порядок слов меняется, как в вопросе. Это касается never, rarely, seldom, hardly... when, no sooner... than, not only... but also, only after, little. Если вспомогательного глагола нет, добавляется do / does / did. Такая конструкция встречается в литературе, речах и письменных текстах.",
+    "formula": "отрицательное наречие + вспомогательный глагол + подлежащее + V",
+    "examples": [
+      "Never have I seen such a beautiful view.",
+      "Hardly had she arrived when the phone rang.",
+      "No sooner had we sat down than it began to rain.",
+      "Not only did he lie, but he also stole the money."
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Cleft Sentences",
+    "level": "B2",
+    "explanation": "Расщеплённые предложения помогают выделить главную мысль и сделать акцент на определённой части. Конструкция It is / was ... that / who подчёркивает человека, место или время. Структура What ... is / was ... выделяет действие или объект. Они часто используются в разговоре, чтобы поправить собеседника или привлечь внимание к главному.",
+    "formula": "It + is / was + выделяемое слово + that / who ... / What + подлежащее + V + is ...",
+    "examples": [
+      "It was John who broke the window.",
+      "It is in the morning that I feel most creative.",
+      "What I need is a long holiday.",
+      "What she did was call the police."
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Subjunctive: suggest, demand, It's time, would rather",
+    "level": "B2",
+    "explanation": "После глаголов suggest, recommend, demand, insist, require в формальной речи используется should + V или просто базовая форма глагола: «I suggest that he go». После it's time, would rather и as if используется Past Simple, хотя смысл относится к настоящему или будущему: «It's time we left». Would rather + подлежащее + Past Simple означает предпочтение, чтобы другой человек поступил определённым образом.",
+    "formula": "suggest / demand that + (should) V / It's time + Past Simple / would rather + подлежащее + Past Simple",
+    "examples": [
+      "She demanded that he apologise.",
+      "I suggest that she should see a doctor.",
+      "It's time we went home.",
+      "I'd rather you didn't smoke here."
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Gerund vs Infinitive (Change of Meaning)",
+    "level": "B2",
+    "explanation": "Некоторые глаголы допускают и герундий, и инфинитив, но значение меняется. Remember / forget + V-ing относится к прошлому («помню, что сделал»), а + to V — к будущему («не забудь сделать»). Stop + V-ing означает прекратить действие, stop + to V — остановиться ради другого действия. Try + V-ing значит «попробовать как эксперимент», try + to V — «стараться».",
+    "formula": "remember / stop / try / regret + V-ing или to + V (разное значение)",
+    "examples": [
+      "I remember locking the door.",
+      "Remember to lock the door.",
+      "He stopped smoking last year.",
+      "She stopped to buy some water."
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Advanced Comparisons",
+    "level": "B2",
+    "explanation": "Помимо простых сравнений существуют более сложные конструкции. The + comparative, the + comparative показывает взаимосвязь двух изменений: «The more you practise, the better you get». Конструкция as ... as выражает равенство, а not as / so ... as — неравенство. Усилить сравнение можно словами much, far, a lot, slightly, a bit. Для постепенных изменений используют повтор: «It's getting colder and colder».",
+    "formula": "the + comparative, the + comparative / as + adj + as / much / far + comparative",
+    "examples": [
+      "The harder you work, the more you earn.",
+      "This test was far easier than the last one.",
+      "She is not as tall as her sister.",
+      "The weather is getting warmer and warmer."
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Linking Words of Contrast",
+    "level": "B2",
+    "explanation": "Слова контраста связывают противоположные идеи, но грамматика у них разная. Although и even though вводят целое придаточное предложение, despite и in spite of требуют существительного или герундия. While и whereas противопоставляют два факта. However и nevertheless стоят в начале нового предложения или после точки с запятой и отделяются запятой. Выбор слова зависит от структуры предложения.",
+    "formula": "although + подлежащее + V / despite + существительное / V-ing / However, ...",
+    "examples": [
+      "Although it was raining, we went for a walk.",
+      "Despite feeling ill, she went to work.",
+      "He likes tea, whereas his wife prefers coffee.",
+      "The plan was risky; nevertheless, they accepted it."
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Adverbs of Degree and Adjective Order",
+    "level": "B2",
+    "explanation": "Наречия степени, такие как quite, rather, fairly, extremely, absolutely, усиливают или смягчают значение. Градуируемые прилагательные (good, cold) сочетаются с very, а неградуируемые (perfect, freezing) — с absolutely, completely. Если перед существительным стоит несколько прилагательных, они идут в определённом порядке: мнение, размер, возраст, форма, цвет, происхождение, материал.",
+    "formula": "absolutely + крайнее прилагательное / мнение + размер + возраст + цвет + происхождение + материал + существительное",
+    "examples": [
+      "The view was absolutely stunning.",
+      "It's a fairly difficult exam.",
+      "She bought a beautiful old Italian leather bag.",
+      "He lives in a small white wooden house."
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Used to, Be used to, Get used to",
+    "level": "B2",
+    "explanation": "Эти три конструкции похожи по форме, но различаются по смыслу. Used to + V описывает прошлую привычку, которой уже нет. Be used to + V-ing / существительное означает «привык», то есть состояние. Get used to + V-ing / существительное означает «привыкать», то есть процесс. После be used to и get used to to — это предлог, поэтому дальше идёт герундий.",
+    "formula": "used to + V / be used to + V-ing / get used to + V-ing",
+    "examples": [
+      "I used to live in a small village.",
+      "She is used to getting up early.",
+      "He is getting used to the cold weather.",
+      "We aren't used to driving on the left."
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Purpose and Result Clauses",
+    "level": "B2",
+    "explanation": "Цель можно выразить инфинитивом (to, in order to, so as to) или придаточным с so that / in order that, где часто используются can, could, will, would. Отрицательная цель: so as not to, in order not to. Результат выражается конструкциями so ... that и such ... that, а также словами therefore, as a result, consequently в формальной речи.",
+    "formula": "in order to / so as to + V / so that + подлежащее + can / will / would",
+    "examples": [
+      "She saved money in order to buy a car.",
+      "He spoke quietly so as not to wake the baby.",
+      "I left early so that I could catch the train.",
+      "The traffic was bad; as a result, we were late."
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Phrasal Verbs: Separable and Inseparable",
+    "level": "B2",
+    "explanation": "Фразовые глаголы бывают разделяемыми и неразделяемыми. У разделяемых объект может стоять между глаголом и частицей: «pick up the book» и «pick the book up». Если объект — местоимение, оно обязательно ставится в середину: «pick it up». У неразделяемых фразовых глаголов объект идёт только после частицы: «look after the children», «look after them». Трёхсловные фразовые глаголы, такие как put up with, тоже неразделяемы.",
+    "formula": "глагол + объект + частица / глагол + частица + объект (разделяемые); глагол + частица + объект (неразделяемые)",
+    "examples": [
+      "Could you turn the music down?",
+      "She picked it up from the floor.",
+      "I can't put up with this noise.",
+      "He came across an old photo."
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Ellipsis and Substitution",
+    "level": "B2",
+    "explanation": "Чтобы речь звучала естественно и не повторялась, часть слов можно опустить или заменить. Эллипсис — это пропуск уже известных слов: «She can swim and (she can) dance». Substitution — замена слов: so и not заменяют целое придаточное («I think so», «I hope not»), do so повторяет действие, one / ones заменяют существительное. Эти приёмы характерны для разговорной и письменной речи высокого уровня.",
+    "formula": "so / not вместо придаточного / do so / one, ones вместо существительного",
+    "examples": [
+      "Will it rain tomorrow? I hope not.",
+      "She asked me to leave, and I did so.",
+      "I lost my pen, so I bought a new one.",
+      "He wanted to come, but she didn't want to."
+    ]
+  }
+]

@@ -6,7 +6,7 @@ interface VocabularyRepository {
 
     fun insertVocabulary(item: VocabularyModel)
 
-    fun getAllItemByLevel(): List<VocabularyModel>
+    fun getAllItem(): List<VocabularyModel>
 
     fun getVocabularyExample(id: String): String
 }

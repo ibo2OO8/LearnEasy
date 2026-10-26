@@ -26,12 +26,16 @@ import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.ibrohimapk3.learneasy.presentation.core.component.NavigationBtn
+import com.ibrohimapk3.learneasy.presentation.screen.onboarding.OnBoardingComponents
 import com.ibrohimapk3.learneasy.presentation.ui.theme.SecondaryBlue
 import com.ibrohimapk3.learneasy.presentation.ui.theme.TextH4
 import com.ibrohimapk3.learneasy.presentation.ui.theme.ThirdlyBlue
 
 @Composable
-fun CheckLevelComponent(modifier: Modifier = Modifier, nextScreen: () -> Unit) {
+fun ChooseLevelComponent(
+    modifier: Modifier = Modifier,
+    nextScreen: (OnBoardingComponents) -> Unit
+) {
     var selectedIndex by remember { mutableStateOf(Id.A1) }
     Column(
         modifier = modifier
@@ -115,7 +119,7 @@ fun CheckLevelComponent(modifier: Modifier = Modifier, nextScreen: () -> Unit) {
 
         NavigationBtn(
             text = "Далее",
-            click = { nextScreen() },
+            click = { nextScreen(OnBoardingComponents.GetName) },
         )
     }
 }
