@@ -1,6 +1,5 @@
 package com.ibrohimapk3.learneasy.presentation.screen.onboarding.view_model
 
-import android.util.Log
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import com.ibrohimapk3.learneasy.domain.entity.LevelQuizModel
@@ -18,19 +17,14 @@ class LevelQuizViewModel(
 
     private val _list = MutableStateFlow<List<LevelQuizModel>>(emptyList())
     val list = _list.asStateFlow()
-
     private val _level = MutableStateFlow("a1")
     val level = _level.asStateFlow()
-
     private val _levelIndex = MutableStateFlow(0)
     val levelIndex = _levelIndex.asStateFlow()
-
     private val _trueAnswer = MutableStateFlow(0)
     val trueAnswer = _trueAnswer.asStateFlow()
-
     private val _progress = MutableStateFlow(0f)
     val progress = _progress.asStateFlow()
-
     private val _showResult = MutableStateFlow(false)
     val showResult = _showResult.asStateFlow()
 
@@ -88,10 +82,6 @@ class LevelQuizViewModel(
         _level.value = nextLevel
         resetQuiz()
         loadData()
-    }
-
-    fun retryLevel() {
-        resetQuiz()
     }
 
     private fun resetQuiz() {
