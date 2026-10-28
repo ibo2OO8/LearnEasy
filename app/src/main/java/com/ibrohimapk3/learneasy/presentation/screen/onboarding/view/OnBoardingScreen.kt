@@ -1,4 +1,4 @@
-package com.ibrohimapk3.learneasy.presentation.screen.onboarding
+package com.ibrohimapk3.learneasy.presentation.screen.onboarding.view
 
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.getValue
@@ -6,17 +6,17 @@ import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Modifier
-import com.ibrohimapk3.learneasy.presentation.screen.onboarding.component.ChooseLevelComponent
-import com.ibrohimapk3.learneasy.presentation.screen.onboarding.component.FindOutLevelComponent
-import com.ibrohimapk3.learneasy.presentation.screen.onboarding.component.GetNameComponent
-import com.ibrohimapk3.learneasy.presentation.screen.onboarding.component.GreetingComponent
-import com.ibrohimapk3.learneasy.presentation.screen.onboarding.component.WhichLevelUserHasComponent
+import com.ibrohimapk3.learneasy.presentation.screen.onboarding.view.component.ChooseLevelComponent
+import com.ibrohimapk3.learneasy.presentation.screen.onboarding.view.component.GetNameComponent
+import com.ibrohimapk3.learneasy.presentation.screen.onboarding.view.component.GreetingComponent
+import com.ibrohimapk3.learneasy.presentation.screen.onboarding.view.component.LevelQuizComponent
+import com.ibrohimapk3.learneasy.presentation.screen.onboarding.view.component.WhichLevelUserHasComponent
 
 enum class OnBoardingComponents {
     Greeting,
     WhichLevel,
     ChooseLevel,
-    FindOutLevel,
+    LevelQuiz,
     GetName,
 }
 
@@ -30,9 +30,7 @@ fun OnBoardingScreen(modifier: Modifier, toScreen: () -> Unit) {
 
         OnBoardingComponents.WhichLevel -> WhichLevelUserHasComponent(
             modifier = modifier,
-            nextScreen = {
-                screenState = it
-            })
+            nextScreen = { screenState = it })
 
         OnBoardingComponents.ChooseLevel -> ChooseLevelComponent(
             modifier = modifier,
@@ -42,7 +40,9 @@ fun OnBoardingScreen(modifier: Modifier, toScreen: () -> Unit) {
             modifier = modifier,
             nextScreen = { toScreen() })
 
-        OnBoardingComponents.FindOutLevel -> FindOutLevelComponent()
+        OnBoardingComponents.LevelQuiz -> LevelQuizComponent(
+            modifier = modifier,
+            nextScreen = { screenState = it })
 
         else -> {}
     }

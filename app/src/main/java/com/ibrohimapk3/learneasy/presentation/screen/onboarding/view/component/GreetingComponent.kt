@@ -1,4 +1,4 @@
-package com.ibrohimapk3.learneasy.presentation.screen.onboarding.component
+package com.ibrohimapk3.learneasy.presentation.screen.onboarding.view.component
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.layout.Box
@@ -19,7 +19,7 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.ibrohimapk3.learneasy.R
 import com.ibrohimapk3.learneasy.presentation.core.component.NavigationBtn
-import com.ibrohimapk3.learneasy.presentation.screen.onboarding.OnBoardingComponents
+import com.ibrohimapk3.learneasy.presentation.screen.onboarding.view.OnBoardingComponents
 import com.ibrohimapk3.learneasy.presentation.ui.theme.PrimaryBlue
 import com.ibrohimapk3.learneasy.presentation.ui.theme.TextH4
 

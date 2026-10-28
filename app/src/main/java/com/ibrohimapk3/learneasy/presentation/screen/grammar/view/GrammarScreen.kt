@@ -32,7 +32,6 @@ fun GrammarScreen(
 ) {
     var isEnabled by remember { mutableStateOf(true) }
     val vmList = viewModel.grammarList.collectAsState()
-
     Column(modifier = modifier) {
         TopBar(
             onClick = onBack,

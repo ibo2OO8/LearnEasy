@@ -23,3 +23,4 @@ val VowelColor = Color(0xFFBBDEFB)      // light blue
 val ConsonantColor = Color(0xFFFFF3B0) // light yellow
 val ThirdlyBlue = Color(0xFFEAF4FB)
 val FormulaColor = Color(0xFFD5CCFC)
+val SecondaryGreen = Color(0x81C6FFBE)

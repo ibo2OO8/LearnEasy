@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "level": "B1",
+    "question": "I ___ never been to Japan.",
+    "options": ["am", "have", "has", "was"],
+    "answer": "have"
+  },
+  {
+    "id": 2,
+    "level": "B1",
+    "question": "If it rains tomorrow, we ___ at home.",
+    "options": ["stayed", "would stay", "will stay", "have stayed"],
+    "answer": "will stay"
+  },
+  {
+    "id": 3,
+    "level": "B1",
+    "question": "If she had more money, she ___ a bigger house.",
+    "options": ["will buy", "would buy", "bought", "buys"],
+    "answer": "would buy"
+  },
+  {
+    "id": 4,
+    "level": "B1",
+    "question": "This bridge ___ in 1990.",
+    "options": ["built", "is built", "was built", "has built"],
+    "answer": "was built"
+  },
+  {
+    "id": 5,
+    "level": "B1",
+    "question": "She decided ___ a new job.",
+    "options": ["finding", "find", "to find", "found"],
+    "answer": "to find"
+  }
+]

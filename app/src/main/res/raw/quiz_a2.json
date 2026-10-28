@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "level": "A2",
+    "question": "Yesterday I ___ to the cinema.",
+    "options": ["go", "went", "gone", "going"],
+    "answer": "went"
+  },
+  {
+    "id": 2,
+    "level": "A2",
+    "question": "My brother is ___ than me.",
+    "options": ["tall", "taller", "tallest", "more tall"],
+    "answer": "taller"
+  },
+  {
+    "id": 3,
+    "level": "A2",
+    "question": "Look! It ___ now.",
+    "options": ["rains", "rain", "is raining", "rained"],
+    "answer": "is raining"
+  },
+  {
+    "id": 4,
+    "level": "A2",
+    "question": "How ___ water do you drink every day?",
+    "options": ["many", "much", "few", "a few"],
+    "answer": "much"
+  },
+  {
+    "id": 5,
+    "level": "A2",
+    "question": "We ___ visit our grandparents next week.",
+    "options": ["is going to", "are going to", "going to", "will going to"],
+    "answer": "are going to"
+  }
+]

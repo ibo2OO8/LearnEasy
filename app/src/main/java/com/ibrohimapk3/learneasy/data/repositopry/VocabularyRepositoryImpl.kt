@@ -9,7 +9,6 @@ import com.ibrohimapk3.learneasy.domain.repository.VocabularyRepository
 import kotlinx.serialization.json.Json
 
 var levelFromOnboarding = "b1"
-
 class VocabularyRepositoryImpl(private val context: Context) : VocabularyRepository {
     fun loadItems(context: Context): List<VocabularyJsonModel> {
         val id = when (levelFromOnboarding) {

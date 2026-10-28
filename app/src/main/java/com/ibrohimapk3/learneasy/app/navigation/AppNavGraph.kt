@@ -10,7 +10,7 @@ import com.ibrohimapk3.learneasy.presentation.screen.alphabet.AlphabetScreen
 import com.ibrohimapk3.learneasy.presentation.screen.grammar.view.GrammarItemScreen
 import com.ibrohimapk3.learneasy.presentation.screen.grammar.view.GrammarScreen
 import com.ibrohimapk3.learneasy.presentation.screen.main.HomeScreen
-import com.ibrohimapk3.learneasy.presentation.screen.onboarding.OnBoardingScreen
+import com.ibrohimapk3.learneasy.presentation.screen.onboarding.view.OnBoardingScreen
 import com.ibrohimapk3.learneasy.presentation.screen.vocabulary.view.WordListScreen
 
 private fun NavHostController.navigateReplacing(route: String) {
@@ -26,7 +26,7 @@ private fun NavHostController.navigateReplacing(route: String) {
 @Composable
 fun AppNavGraph(modifier: Modifier = Modifier) {
     val navController = rememberNavController()
-    val startDestination = "main"
+    val startDestination = "onBoarding"
 
     NavHost(
         navController = navController,

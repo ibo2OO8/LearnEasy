@@ -1,4 +1,4 @@
-package com.ibrohimapk3.learneasy.presentation.screen.onboarding.component
+package com.ibrohimapk3.learneasy.presentation.screen.onboarding.view.component
 
 import android.widget.Toast
 import androidx.compose.foundation.Image

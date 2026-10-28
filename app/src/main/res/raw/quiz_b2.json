@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "level": "B2",
+    "question": "If I had known about the problem, I ___ you.",
+    "options": ["would help", "would have helped", "will have helped", "had helped"],
+    "answer": "would have helped"
+  },
+  {
+    "id": 2,
+    "level": "B2",
+    "question": "She wishes she ___ him the truth last year.",
+    "options": ["told", "would tell", "had told", "has told"],
+    "answer": "had told"
+  },
+  {
+    "id": 3,
+    "level": "B2",
+    "question": "Never ___ such a beautiful view.",
+    "options": ["I have seen", "have I seen", "I seen", "did I seen"],
+    "answer": "have I seen"
+  },
+  {
+    "id": 4,
+    "level": "B2",
+    "question": "I had my car ___ yesterday.",
+    "options": ["repair", "repaired", "repairing", "to repair"],
+    "answer": "repaired"
+  },
+  {
+    "id": 5,
+    "level": "B2",
+    "question": "The streets are wet. It ___ last night.",
+    "options": ["must rain", "must have rained", "can't have rained", "must be raining"],
+    "answer": "must have rained"
+  }
+]
