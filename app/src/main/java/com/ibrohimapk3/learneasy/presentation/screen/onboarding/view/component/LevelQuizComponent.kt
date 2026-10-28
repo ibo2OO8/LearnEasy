@@ -1,5 +1,6 @@
 package com.ibrohimapk3.learneasy.presentation.screen.onboarding.view.component
 
+import android.util.Log
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Spacer
@@ -43,6 +44,8 @@ fun LevelQuizComponent(
     val progressIndex by viewModel.progress.collectAsState()
     val showResult by viewModel.showResult.collectAsState()
     val isPassed by viewModel.isPassed.collectAsState()
+
+    var levelEnd by remember { mutableStateOf(0) }
 
     var selected by remember {
         mutableStateOf<String?>(null)
@@ -139,17 +142,18 @@ fun LevelQuizComponent(
                 if (showResult) {
                     if (isPassed) {
                         viewModel.continueToNextLevel()
+                        if (levelEnd == 3) nextScreen(OnBoardingComponents.GetName)
+                        Log.d("counter", levelEnd.toString())
+                        levelEnd++
                     } else {
                         nextScreen(OnBoardingComponents.GetName)
                     }
-
                     selected = null
                 } else {
                     viewModel.checkAnswer(selected)
                     selected = null
                 }
-            },
-            text = when {
+            }, text = when {
                 !showResult -> "Проверить"
                 isPassed -> "Перейти дальше"
                 else -> "Начать изучение"

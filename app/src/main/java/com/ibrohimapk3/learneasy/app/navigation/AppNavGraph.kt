@@ -7,6 +7,8 @@ import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
 import com.ibrohimapk3.learneasy.presentation.screen.alphabet.AlphabetScreen
+import com.ibrohimapk3.learneasy.presentation.screen.game.view.GameScreen
+import com.ibrohimapk3.learneasy.presentation.screen.game.view.word_translation.WordTranslationScreen
 import com.ibrohimapk3.learneasy.presentation.screen.grammar.view.GrammarItemScreen
 import com.ibrohimapk3.learneasy.presentation.screen.grammar.view.GrammarScreen
 import com.ibrohimapk3.learneasy.presentation.screen.main.HomeScreen
@@ -44,7 +46,7 @@ fun AppNavGraph(modifier: Modifier = Modifier) {
                 onAlphabetClick = { navController.navigateReplacing("alphabet") },
                 onVocabularyClick = { navController.navigateReplacing("vocabulary") },
                 onGrammarClick = { navController.navigateReplacing("grammar") },
-                onGamesClick = {},
+                onGamesClick = { navController.navigateReplacing("word_translation") },
                 modifier = modifier,
             )
         }
@@ -79,6 +81,14 @@ fun AppNavGraph(modifier: Modifier = Modifier) {
                     id = id,
                     onBack = { navController.navigateReplacing("grammar") })
             }
+        }
+        composable("games") {
+            GameScreen(modifier)
+        }
+        composable("word_translation") {
+            WordTranslationScreen(modifier = modifier, onBack = {
+                navController.navigateReplacing("main")
+            })
         }
     }
 }

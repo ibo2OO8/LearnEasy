@@ -3,35 +3,60 @@
     "id": 1,
     "level": "A1",
     "question": "She ___ a teacher.",
-    "options": ["am", "is", "are", "be"],
+    "options": [
+      "am",
+      "are",
+      "is",
+      "be"
+    ],
     "answer": "is"
   },
   {
     "id": 2,
     "level": "A1",
     "question": "I have ___ apple.",
-    "options": ["a", "an", "the", "two"],
+    "options": [
+      "a",
+      "the",
+      "two",
+      "an"
+    ],
     "answer": "an"
   },
   {
     "id": 3,
     "level": "A1",
     "question": "He ___ football every day.",
-    "options": ["play", "plays", "playing", "to play"],
+    "options": [
+      "play",
+      "plays",
+      "playing",
+      "to play"
+    ],
     "answer": "plays"
   },
   {
     "id": 4,
     "level": "A1",
     "question": "We go to school ___ Monday.",
-    "options": ["in", "on", "at", "to"],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "to"
+    ],
     "answer": "on"
   },
   {
     "id": 5,
     "level": "A1",
     "question": "There ___ two books on the desk.",
-    "options": ["is", "am", "are", "be"],
+    "options": [
+      "is",
+      "am",
+      "are",
+      "be"
+    ],
     "answer": "are"
   }
 ]

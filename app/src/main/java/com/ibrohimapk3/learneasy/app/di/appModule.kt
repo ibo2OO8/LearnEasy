@@ -8,7 +8,8 @@ import com.ibrohimapk3.learneasy.domain.repository.LevelQuizRepository
 import com.ibrohimapk3.learneasy.domain.repository.VocabularyRepository
 import com.ibrohimapk3.learneasy.domain.usecase.grammar.GetItemByIdUseCase
 import com.ibrohimapk3.learneasy.domain.usecase.quiz.LevelQuizUseCase
-import com.ibrohimapk3.learneasy.domain.usecase.vocabulary.GetAllItemUseCase
+import com.ibrohimapk3.learneasy.domain.usecase.vocabulary.GetAllIVocabularyUseCase
+import com.ibrohimapk3.learneasy.presentation.screen.game.view_model.WordTranslationViewModel
 import com.ibrohimapk3.learneasy.presentation.screen.grammar.viewModel.GrammarItemViewModel
 import com.ibrohimapk3.learneasy.presentation.screen.grammar.viewModel.GrammarViewModel
 import com.ibrohimapk3.learneasy.presentation.screen.onboarding.view_model.LevelQuizViewModel
@@ -19,7 +20,7 @@ import org.koin.dsl.module
 
 val appModule = module {
     single<VocabularyRepository> { VocabularyRepositoryImpl(androidContext()) }
-    factory { GetAllItemUseCase(get()) }
+    factory { GetAllIVocabularyUseCase(get()) }
     viewModel { VocabularyViewModel(get()) }
 
     single<GrammarRepository> { GrammarRepositoryImpl(androidContext()) }
@@ -32,4 +33,6 @@ val appModule = module {
     single<LevelQuizRepository> { LevelQuizRepositoryImpl(androidContext()) }
     factory { LevelQuizUseCase(get()) }
     viewModel { LevelQuizViewModel(get()) }
+
+    viewModel { WordTranslationViewModel(get()) }
 }
