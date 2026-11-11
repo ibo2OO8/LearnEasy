@@ -1,4 +1,4 @@
-package com.ibrohimapk3.learneasy.data.repositopry
+package com.ibrohimapk3.learneasy.data.repository
 
 import android.content.Context
 import com.ibrohimapk3.learneasy.R
@@ -7,6 +7,7 @@ import com.ibrohimapk3.learneasy.data.mapper.toDomain
 import com.ibrohimapk3.learneasy.domain.entity.LevelQuizModel
 import com.ibrohimapk3.learneasy.domain.repository.LevelQuizRepository
 import kotlinx.serialization.json.Json
+
 class LevelQuizRepositoryImpl(private val context: Context) : LevelQuizRepository {
     private val json = Json { ignoreUnknownKeys = true }
 

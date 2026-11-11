@@ -1,6 +1,6 @@
 package com.ibrohimapk3.learneasy.domain.repository
 
-interface ObBoardingRepository {
+interface OnBoardingRepository {
     fun isCompleted(): Boolean
     fun complete()
 }

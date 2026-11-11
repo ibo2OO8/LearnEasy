@@ -29,7 +29,6 @@ fun GreetingComponent(
     icon: Int = R.drawable.icon1_onb,
     text1: String = "Добро пожаловать в мир английского!",
     text2: String = "Учись играя, шаг за шагом.",
-    btnText: String = "Начать",
     nextScreen: (OnBoardingComponents) -> Unit,
 ) {
     Column(
@@ -73,7 +72,7 @@ fun GreetingComponent(
                 textAlign = TextAlign.Center,
                 color = TextH4
             )
-            NavigationBtn(text = btnText, click = { nextScreen(OnBoardingComponents.WhichLevel) })
+            NavigationBtn(text = "Начать", click = { nextScreen(OnBoardingComponents.WhichLevel) })
         }
     }
 }

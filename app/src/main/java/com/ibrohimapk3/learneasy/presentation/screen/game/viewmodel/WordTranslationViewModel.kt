@@ -1,4 +1,4 @@
-package com.ibrohimapk3.learneasy.presentation.screen.game.view_model
+package com.ibrohimapk3.learneasy.presentation.screen.game.viewmodel
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope

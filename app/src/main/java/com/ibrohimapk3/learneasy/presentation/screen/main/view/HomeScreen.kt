@@ -1,4 +1,4 @@
-package com.ibrohimapk3.learneasy.presentation.screen.main
+package com.ibrohimapk3.learneasy.presentation.screen.main.view
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Arrangement
@@ -16,12 +16,14 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.unit.dp
-import com.ibrohimapk3.learneasy.presentation.screen.main.component.GreetingHeader
-import com.ibrohimapk3.learneasy.presentation.screen.main.component.MenuButtonCard
+import com.ibrohimapk3.learneasy.presentation.screen.main.view.component.GreetingHeader
+import com.ibrohimapk3.learneasy.presentation.screen.main.view.component.MenuButtonCard
+import com.ibrohimapk3.learneasy.presentation.screen.main.viewmodel.HomeScreenViewModel
 import com.ibrohimapk3.learneasy.presentation.ui.theme.GrammarFon
 import com.ibrohimapk3.learneasy.presentation.ui.theme.PlaysFon
 import com.ibrohimapk3.learneasy.presentation.ui.theme.SecondaryBlue
 import com.ibrohimapk3.learneasy.presentation.ui.theme.VocabularyFon
+import org.koin.androidx.compose.koinViewModel
 
 @Composable
 fun HomeScreen(
@@ -30,8 +32,10 @@ fun HomeScreen(
     onVocabularyClick: () -> Unit,
     onGrammarClick: () -> Unit,
     onGamesClick: () -> Unit,
-    modifier: Modifier = Modifier
+    modifier: Modifier = Modifier,
+    vm: HomeScreenViewModel = koinViewModel(),
 ) {
+
     Column(
         modifier = modifier
             .fillMaxSize()

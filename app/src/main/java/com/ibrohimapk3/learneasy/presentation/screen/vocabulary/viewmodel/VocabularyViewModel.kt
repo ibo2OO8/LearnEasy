@@ -1,4 +1,4 @@
-package com.ibrohimapk3.learneasy.presentation.screen.vocabulary.view_model
+package com.ibrohimapk3.learneasy.presentation.screen.vocabulary.viewmodel
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope

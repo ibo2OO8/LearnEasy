@@ -21,7 +21,7 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.ibrohimapk3.learneasy.presentation.core.component.TopBar
 import com.ibrohimapk3.learneasy.presentation.screen.vocabulary.view.component.WordCard
-import com.ibrohimapk3.learneasy.presentation.screen.vocabulary.view_model.VocabularyViewModel
+import com.ibrohimapk3.learneasy.presentation.screen.vocabulary.viewmodel.VocabularyViewModel
 import com.ibrohimapk3.learneasy.presentation.tts.rememberTextToSpeech
 import org.koin.androidx.compose.koinViewModel
 

@@ -24,7 +24,7 @@ import com.ibrohimapk3.learneasy.presentation.core.component.TopBar
 import com.ibrohimapk3.learneasy.presentation.screen.grammar.view.component.FormulaCard
 import com.ibrohimapk3.learneasy.presentation.screen.grammar.view.component.exampleCardColors
 import com.ibrohimapk3.learneasy.presentation.screen.grammar.view.component.splitText
-import com.ibrohimapk3.learneasy.presentation.screen.grammar.viewModel.GrammarItemViewModel
+import com.ibrohimapk3.learneasy.presentation.screen.grammar.viewmodel.GrammarItemViewModel
 import com.ibrohimapk3.learneasy.presentation.ui.theme.TextH4
 import org.koin.androidx.compose.koinViewModel
 

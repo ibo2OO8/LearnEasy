@@ -1,4 +1,4 @@
-package com.ibrohimapk3.learneasy.data.repositopry
+package com.ibrohimapk3.learneasy.data.repository
 
 import android.content.Context
 import com.ibrohimapk3.learneasy.R

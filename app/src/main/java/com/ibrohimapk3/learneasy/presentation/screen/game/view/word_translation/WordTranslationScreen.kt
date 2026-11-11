@@ -38,7 +38,7 @@ import com.ibrohimapk3.learneasy.presentation.core.component.CustomIndicator
 import com.ibrohimapk3.learneasy.presentation.core.component.NavigationBtn
 import com.ibrohimapk3.learneasy.presentation.core.component.QuizOptionList
 import com.ibrohimapk3.learneasy.presentation.core.component.TopBar
-import com.ibrohimapk3.learneasy.presentation.screen.game.view_model.WordTranslationViewModel
+import com.ibrohimapk3.learneasy.presentation.screen.game.viewmodel.WordTranslationViewModel
 import org.koin.androidx.compose.koinViewModel
 
 @Composable

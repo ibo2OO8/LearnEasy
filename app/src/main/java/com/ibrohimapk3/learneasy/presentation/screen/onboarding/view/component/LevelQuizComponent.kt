@@ -27,7 +27,7 @@ import com.ibrohimapk3.learneasy.presentation.core.component.CustomIndicator
 import com.ibrohimapk3.learneasy.presentation.core.component.NavigationBtn
 import com.ibrohimapk3.learneasy.presentation.core.component.QuizOptionList
 import com.ibrohimapk3.learneasy.presentation.screen.onboarding.view.OnBoardingComponents
-import com.ibrohimapk3.learneasy.presentation.screen.onboarding.view_model.LevelQuizViewModel
+import com.ibrohimapk3.learneasy.presentation.screen.onboarding.viewmodel.LevelQuizViewModel
 import com.ibrohimapk3.learneasy.presentation.ui.theme.SecondaryGreen
 import org.koin.androidx.compose.koinViewModel
 

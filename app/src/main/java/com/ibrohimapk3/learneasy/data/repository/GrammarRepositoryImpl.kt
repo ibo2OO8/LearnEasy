@@ -1,4 +1,4 @@
-package com.ibrohimapk3.learneasy.data.repositopry
+package com.ibrohimapk3.learneasy.data.repository
 
 import android.content.Context
 import com.ibrohimapk3.learneasy.R
@@ -30,6 +30,6 @@ class GrammarRepositoryImpl(private val context: Context) : GrammarRepository {
 
     override fun getItemById(id: Int): GrammarModel {
         val list = loadItem(context).map { it.toDomain() }
-        return list[id-1]
+        return list[id - 1]
     }
 }

@@ -1,7 +1,10 @@
 package com.ibrohimapk3.learneasy.app.navigation
 
+import android.util.Log
 import androidx.compose.runtime.Composable
+import androidx.compose.runtime.DisposableEffect
 import androidx.compose.ui.Modifier
+import androidx.navigation.NavController
 import androidx.navigation.NavHostController
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
@@ -11,7 +14,7 @@ import com.ibrohimapk3.learneasy.presentation.screen.game.view.GameScreen
 import com.ibrohimapk3.learneasy.presentation.screen.game.view.word_translation.WordTranslationScreen
 import com.ibrohimapk3.learneasy.presentation.screen.grammar.view.GrammarItemScreen
 import com.ibrohimapk3.learneasy.presentation.screen.grammar.view.GrammarScreen
-import com.ibrohimapk3.learneasy.presentation.screen.main.HomeScreen
+import com.ibrohimapk3.learneasy.presentation.screen.main.view.HomeScreen
 import com.ibrohimapk3.learneasy.presentation.screen.onboarding.view.OnBoardingScreen
 import com.ibrohimapk3.learneasy.presentation.screen.vocabulary.view.WordListScreen
 
@@ -26,9 +29,21 @@ private fun NavHostController.navigateReplacing(route: String) {
 }
 
 @Composable
-fun AppNavGraph(modifier: Modifier = Modifier) {
+fun AppNavGraph(modifier: Modifier = Modifier, isCompleted: Boolean) {
     val navController = rememberNavController()
-    val startDestination = "onBoarding"
+    DisposableEffect(Unit) {
+        Log.d("NAV1", "AppNavGraph enter")
+        val listener = NavController.OnDestinationChangedListener { _, dest, _ ->
+            Log.d("NAV1", "dest = ${dest.route}")
+        }
+        navController.addOnDestinationChangedListener(listener)
+        onDispose {
+            Log.d("NAV1", "AppNavGraph left")
+            navController.removeOnDestinationChangedListener(listener)
+        }
+    }
+    val startDestination = if (isCompleted) "main"
+    else "onBoarding"
 
     NavHost(
         navController = navController,

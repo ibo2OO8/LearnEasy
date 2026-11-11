@@ -20,7 +20,7 @@ import androidx.compose.ui.unit.dp
 import com.ibrohimapk3.learneasy.presentation.core.component.TopBar
 import com.ibrohimapk3.learneasy.presentation.screen.grammar.view.component.GrammarTopicCard
 import com.ibrohimapk3.learneasy.presentation.screen.grammar.view.component.HeaderSection
-import com.ibrohimapk3.learneasy.presentation.screen.grammar.viewModel.GrammarViewModel
+import com.ibrohimapk3.learneasy.presentation.screen.grammar.viewmodel.GrammarViewModel
 import org.koin.androidx.compose.koinViewModel
 
 @Composable

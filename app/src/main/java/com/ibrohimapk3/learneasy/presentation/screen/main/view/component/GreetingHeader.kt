@@ -1,4 +1,4 @@
-package com.ibrohimapk3.learneasy.presentation.screen.main.component
+package com.ibrohimapk3.learneasy.presentation.screen.main.view.component
 
 import androidx.compose.foundation.BorderStroke
 import androidx.compose.foundation.background
