@@ -1,6 +1,5 @@
 package com.ibrohimapk3.learneasy.presentation.screen.onboarding.view.component
 
-import android.util.Log
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Spacer
@@ -28,7 +27,7 @@ import com.ibrohimapk3.learneasy.presentation.core.component.NavigationBtn
 import com.ibrohimapk3.learneasy.presentation.core.component.QuizOptionList
 import com.ibrohimapk3.learneasy.presentation.screen.onboarding.view.OnBoardingComponents
 import com.ibrohimapk3.learneasy.presentation.screen.onboarding.viewmodel.LevelQuizViewModel
-import com.ibrohimapk3.learneasy.presentation.ui.theme.SecondaryGreen
+import com.ibrohimapk3.learneasy.presentation.ui.theme.BgCardBlue
 import org.koin.androidx.compose.koinViewModel
 
 @Composable
@@ -61,6 +60,7 @@ fun LevelQuizComponent(
         verticalArrangement = Arrangement.Center,
         horizontalAlignment = Alignment.CenterHorizontally
     ) {
+        Spacer(modifier = Modifier.height(25.dp))
         Text(
             text = "Проверка уровня ${level.uppercase()}",
             fontSize = 22.sp,
@@ -71,13 +71,13 @@ fun LevelQuizComponent(
 
         CustomIndicator(progress = progressIndex)
 
-        Spacer(modifier = Modifier.height(15.dp))
+        Spacer(modifier = Modifier.height(25.dp))
 
         Card(
             modifier = Modifier.fillMaxWidth(),
             shape = RoundedCornerShape(16.dp),
             colors = CardDefaults.cardColors(
-                containerColor = SecondaryGreen
+                containerColor = BgCardBlue
             )
         ) {
             Column(
@@ -124,7 +124,7 @@ fun LevelQuizComponent(
             }
         }
 
-        Spacer(modifier = Modifier.height(25.dp))
+        Spacer(modifier = Modifier.height(40.dp))
 
         if (!showResult) {
             QuizOptionList(
@@ -132,7 +132,8 @@ fun LevelQuizComponent(
                 selectedOption = selected,
                 onOptionSelected = {
                     selected = it
-                })
+                }
+            )
         }
 
         Spacer(modifier = Modifier.weight(1f))
@@ -143,7 +144,6 @@ fun LevelQuizComponent(
                     if (isPassed) {
                         viewModel.continueToNextLevel()
                         if (levelEnd == 3) nextScreen(OnBoardingComponents.GetName)
-                        Log.d("counter", levelEnd.toString())
                         levelEnd++
                     } else {
                         nextScreen(OnBoardingComponents.GetName)

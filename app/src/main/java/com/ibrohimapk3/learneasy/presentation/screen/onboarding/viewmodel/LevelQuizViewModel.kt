@@ -12,7 +12,7 @@ import kotlinx.coroutines.withContext
 
 
 class LevelQuizViewModel(
-    private val getAllItemUseCase: LevelQuizUseCase
+    private val getAllItemUseCase: LevelQuizUseCase,
 ) : ViewModel() {
 
     private val _list = MutableStateFlow<List<LevelQuizModel>>(emptyList())
@@ -27,7 +27,6 @@ class LevelQuizViewModel(
     val progress = _progress.asStateFlow()
     private val _showResult = MutableStateFlow(false)
     val showResult = _showResult.asStateFlow()
-
     private val _isPassed = MutableStateFlow(false)
     val isPassed = _isPassed.asStateFlow()
 

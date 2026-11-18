@@ -1,46 +1,69 @@
 package com.ibrohimapk3.learneasy.presentation.screen.onboarding.view.component
 
 import androidx.compose.foundation.BorderStroke
+import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
+import androidx.compose.foundation.layout.IntrinsicSize
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.RowScope
 import androidx.compose.foundation.layout.Spacer
+import androidx.compose.foundation.layout.fillMaxHeight
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
+import androidx.compose.foundation.layout.heightIn
 import androidx.compose.foundation.layout.padding
-import androidx.compose.foundation.layout.width
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material3.Card
 import androidx.compose.material3.CardDefaults
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.getValue
-import androidx.compose.runtime.mutableStateOf
-import androidx.compose.runtime.remember
-import androidx.compose.runtime.setValue
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.text.font.FontWeight
-import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
+import androidx.lifecycle.compose.collectAsStateWithLifecycle
 import com.ibrohimapk3.learneasy.presentation.core.component.NavigationBtn
 import com.ibrohimapk3.learneasy.presentation.screen.onboarding.view.OnBoardingComponents
+import com.ibrohimapk3.learneasy.presentation.screen.onboarding.viewmodel.ChooseLevelViewModel
 import com.ibrohimapk3.learneasy.presentation.ui.theme.SecondaryBlue
 import com.ibrohimapk3.learneasy.presentation.ui.theme.TextH4
 import com.ibrohimapk3.learneasy.presentation.ui.theme.ThirdlyBlue
+import org.koin.androidx.compose.koinViewModel
 
 @Composable
 fun ChooseLevelComponent(
     modifier: Modifier = Modifier,
-    nextScreen: (OnBoardingComponents) -> Unit
+    onNext: (OnBoardingComponents) -> Unit,
+    vm: ChooseLevelViewModel = koinViewModel(),
 ) {
-    var selectedIndex by remember { mutableStateOf(Id.A1) }
+    val selectedLevel by vm.selectedLevel.collectAsStateWithLifecycle()
+
+    ChooseLevelContent(
+        modifier = modifier,
+        selectedLevel = selectedLevel,
+        onLevelClick = vm::selectLevel,
+        onNextClick = {
+            vm.saveLevel()
+            onNext(OnBoardingComponents.GetName)
+        },
+    )
+}
+
+@Composable
+private fun ChooseLevelContent(
+    selectedLevel: EnglishLevel,
+    onLevelClick: (EnglishLevel) -> Unit,
+    onNextClick: () -> Unit,
+    modifier: Modifier = Modifier,
+) {
     Column(
         modifier = modifier
             .fillMaxSize()
-            .padding(start = 20.dp, end = 20.dp, top = 40.dp, bottom = 20.dp),
+            .padding(horizontal = 20.dp)
+            .padding(top = 40.dp, bottom = 20.dp),
     ) {
         Text(
             text = "Какой у вас уровень английского?",
@@ -49,142 +72,94 @@ fun ChooseLevelComponent(
             lineHeight = 35.sp,
         )
         Text(
-            modifier = Modifier.padding(bottom = 32.dp, top = 18.dp),
+            modifier = Modifier.padding(top = 18.dp, bottom = 32.dp),
             text = "Выберите вариант, который лучше всего описывает ваши навыки.",
-            textAlign = TextAlign.Left,
             fontSize = 18.sp,
             color = TextH4,
+            // textAlign не нужен: по умолчанию текст и так выравнивается по началу.
         )
 
-        Row(
-            modifier = Modifier
-                .fillMaxWidth()
-                .padding(bottom = 10.dp)
-        ) {
-            GetLevelCard(
-                levelText = Id.A1.name,
-                levelText2 = "Начинающий",
-                levelDescription = "Могу сказать пару фраз",
-                id = Id.A1,
-                isChecked = selectedIndex == Id.A1,
-                click = {
-                    selectedIndex = Id.A1
+        Column(verticalArrangement = Arrangement.spacedBy(15.dp)) {
+            EnglishLevel.entries.chunked(2).forEach { rowLevels ->
+                Row(
+                    modifier = Modifier
+                        .fillMaxWidth()
+                        .height(IntrinsicSize.Min),
+                    horizontalArrangement = Arrangement.spacedBy(15.dp),
+                ) {
+                    rowLevels.forEach { level ->
+                        LevelCard(
+                            level = level,
+                            isChecked = level == selectedLevel,
+                            onClick = { onLevelClick(level) },
+                        )
+                    }
                 }
-            )
-            Spacer(Modifier.width(15.dp))
-
-            GetLevelCard(
-                levelText = Id.A2.name,
-                levelText2 = "Элементарный",
-                levelDescription = "Могу сказать пару фраз",
-                id = Id.A2,
-
-                isChecked = selectedIndex == Id.A2,
-                click = {
-                    selectedIndex = Id.A2
-                }
-            )
-        }
-        Row(
-            modifier = Modifier
-                .fillMaxWidth()
-        ) {
-            GetLevelCard(
-                levelText = Id.B1.name,
-                levelText2 = "Средний",
-                levelDescription = "Могу общаться в поездках",
-                id = Id.B1,
-                isChecked = selectedIndex == Id.B1,
-                click = {
-                    selectedIndex = Id.B1
-                }
-            )
-
-            Spacer(Modifier.width(15.dp))
-
-            GetLevelCard(
-                levelText = Id.B2.name,
-                levelText2 = "Выще среднего",
-                levelDescription = "Свободно говорю на разные темы",
-                id = Id.B2,
-                isChecked = selectedIndex == Id.B2,
-                click = {
-                    selectedIndex = Id.B2
-                }
-
-            )
+            }
         }
 
-        Spacer(modifier = Modifier.weight(1F))
+        // Толкает кнопку вниз экрана.
+        Spacer(modifier = Modifier.weight(1f))
 
         NavigationBtn(
             text = "Далее",
-            click = { nextScreen(OnBoardingComponents.GetName) },
+            click = onNextClick,
         )
     }
 }
 
-enum class Id { A1, A2, B1, B2 }
-
 @Composable
-fun RowScope.GetLevelCard(
-    levelText: String,
-    levelText2: String,
-    levelDescription: String,
-    id: Id,
-    isChecked: Boolean = false,
-    click: () -> Unit
+private fun RowScope.LevelCard(
+    level: EnglishLevel,
+    isChecked: Boolean,
+    onClick: () -> Unit,
 ) {
-    var containerColor = Color.White
-    var borderColor = Color.Transparent
-    if (isChecked) {
-        containerColor = ThirdlyBlue
-        borderColor = SecondaryBlue
-    }
+    val containerColor = if (isChecked) ThirdlyBlue else Color.White
+    val borderColor = if (isChecked) SecondaryBlue else Color.Transparent
+
     Card(
+        onClick = onClick,
         modifier = Modifier
-            .padding(bottom = 15.dp)
-            .weight(0.1F)
-            .height(155.dp),
-        colors = CardDefaults.cardColors(
-            containerColor = containerColor,
-        ),
-        border = BorderStroke(
-            width = 2.dp,
-            color = borderColor
-        ),
-        shape = RoundedCornerShape(size = 16.dp),
+            .weight(1f)
+            .fillMaxHeight()
+            .heightIn(min = 155.dp),
+        colors = CardDefaults.cardColors(containerColor = containerColor),
+        border = BorderStroke(width = 2.dp, color = borderColor),
+        shape = RoundedCornerShape(16.dp),
         elevation = CardDefaults.cardElevation(3.dp),
-        onClick = {
-            click()
-        }
     ) {
-        val txColor = when (id) {
-            Id.A1 -> Color.Blue
-            Id.A2 -> Color.Yellow
-            Id.B1 -> Color.Green
-            Id.B2 -> Color.Red
-        }
-        Column(modifier = Modifier.padding(all = 15.dp)) {
+        Column(modifier = Modifier.padding(15.dp)) {
+            // Код уровня: A1 / A2 / B1 / B2, цвет берём из enum.
             Text(
                 modifier = Modifier.padding(bottom = 9.dp),
-                text = levelText,
+                text = level.name,
                 fontSize = 24.sp,
-                color = txColor
+                color = level.color,
             )
             Text(
                 modifier = Modifier.padding(bottom = 2.5.dp),
-                text = levelText2,
+                text = level.title,
                 fontSize = 15.sp,
-                fontWeight = FontWeight.Bold
+                fontWeight = FontWeight.Bold,
             )
             Text(
+                text = level.description,
+                fontSize = 16.sp,
                 lineHeight = 18.sp,
-                modifier = Modifier.padding(bottom = 7.dp),
-                text = levelDescription,
-                fontSize = 16.sp
             )
         }
     }
 }
 
+
+enum class EnglishLevel(
+    val title: String,        // «Начинающий», «Средний»...
+    val description: String,  // подпись под названием
+    val color: Color,         // цвет кода уровня (A1, A2...)
+) {
+
+    A1("Начинающий", "Знаю только базовые слова", Color(0xFF2F6BFF)),
+    A2("Элементарный", "Могу сказать пару фраз", Color(0xFFF59E0B)),
+    B1("Средний", "Могу общаться в поездках", Color(0xFF22A25A)),
+    B2("Выше среднего", "Свободно говорю на разные темы", Color(0xFFE5484D)),
+}

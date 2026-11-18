@@ -34,13 +34,11 @@ fun GrammarScreen(
     val vmList = viewModel.grammarList.collectAsState()
     Column(modifier = modifier) {
         TopBar(
-            onClick = onBack,
-            text = "Грамматика"
+            onClick = onBack, text = "Грамматика"
         )
 
         Surface(
-            modifier = Modifier.fillMaxSize(),
-            color = Color.White
+            modifier = Modifier.fillMaxSize(), color = Color.White
         ) {
             LazyColumn(
                 modifier = Modifier
@@ -52,17 +50,14 @@ fun GrammarScreen(
                 item {
                     HeaderSection()
                 }
-
                 items(vmList.value, key = { it.id }) { topic ->
                     GrammarTopicCard(
-                        topic = topic,
-                        onClick = {
+                        topic = topic, onClick = {
                             if (isEnabled) {
                                 isEnabled = false
                                 onTopicClick(topic.id)
                             }
-                        }
-                    )
+                        })
                 }
             }
         }

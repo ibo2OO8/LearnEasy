@@ -8,14 +8,13 @@ import com.ibrohimapk3.learneasy.domain.entity.VocabularyModel
 import com.ibrohimapk3.learneasy.domain.repository.VocabularyRepository
 import kotlinx.serialization.json.Json
 
-var levelFromOnboarding = "b1"
 class VocabularyRepositoryImpl(private val context: Context) : VocabularyRepository {
-    fun loadItems(context: Context): List<VocabularyJsonModel> {
-        val id = when (levelFromOnboarding) {
-            "a1" -> R.raw.english_a1_vocabulary
-            "a2" -> R.raw.english_a2_vocabulary
-            "b1" -> R.raw.english_b1_vocabulary
-            "b2" -> R.raw.english_b2_vocabulary
+    fun loadItems(context: Context , level:String): List<VocabularyJsonModel> {
+        val id = when (level) {
+            "A1" -> R.raw.english_a1_vocabulary
+            "A2" -> R.raw.english_a2_vocabulary
+            "B1" -> R.raw.english_b1_vocabulary
+            "B2" -> R.raw.english_b2_vocabulary
             else -> {
                 R.raw.english_a1_vocabulary
             }
@@ -24,12 +23,10 @@ class VocabularyRepositoryImpl(private val context: Context) : VocabularyReposit
         return Json { ignoreUnknownKeys = true }.decodeFromString(text)
     }
 
-    override fun insertVocabulary(item: VocabularyModel) {
-        TODO("Not yet implemented")
-    }
 
-    override fun getAllItem(): List<VocabularyModel> {
-        val list = loadItems(context).map { it.toDomain() }
+
+    override fun getAllItem(level : String): List<VocabularyModel> {
+        val list = loadItems(context , level).map { it.toDomain() }
         return list
     }
 

@@ -9,7 +9,7 @@ class MainActivityViewModel(
     private val isCompletedUseCase: IsCompletedUseCase,
 
     ) : ViewModel() {
-    private val _isCompleted = MutableStateFlow<Boolean>(false)
+    private val _isCompleted = MutableStateFlow(false)
     var isCompleted = _isCompleted.asStateFlow()
 
     init {

@@ -14,4 +14,14 @@ class AppPreferences(context: Context) {
             putBoolean("onBoarding_completed", true).apply()
         }
     }
+
+    fun saveLevel(level: String) {
+        prefs.edit {
+            putString("level", level).apply()
+        }
+    }
+
+    fun getLevel(): String? {
+        return prefs.getString("level", "a1")
+    }
 }

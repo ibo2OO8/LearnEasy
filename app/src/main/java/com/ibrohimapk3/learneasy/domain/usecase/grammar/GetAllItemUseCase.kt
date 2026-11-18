@@ -4,7 +4,7 @@ import com.ibrohimapk3.learneasy.domain.entity.GrammarModel
 import com.ibrohimapk3.learneasy.domain.repository.GrammarRepository
 
 class GetAllItemUseCase(private val grammarRepository: GrammarRepository) {
-    operator fun invoke(): List<GrammarModel> {
-        return grammarRepository.getAllItem()
+    operator fun invoke(level: String): List<GrammarModel> {
+        return grammarRepository.getAllItem(level)
     }
 }
